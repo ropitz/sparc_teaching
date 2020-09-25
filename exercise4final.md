@@ -139,6 +139,10 @@ located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-f
         make a fingerprint on a piece of paper. Now try using a bit too
         much paint -- it may end up looking something like PH 25's
         fingerprint M1 or M3.
+        
+>**Reflect, Write and Interpret!**
+>-   Under ‘3D views’, choose ‘Tile’ view and take a screenshot of your collection of fingerprint meshes with what you think is the most informative morphometric parameter applied as a Scalar field. Add this to your gallery. For the caption, discuss why you found this parameter most informative, and how it informs your interpretation of PH 25’s biography. Do you think all of the fingerprints were applied at once? Do you think they were made by different people? The same person at different times? Use quantitative evidence to support your interpretation.
+>-   At what step of the pottery manufacturing process might the potter have picked up a damp pot? Could it be the pot was moved twice – once to take it from the pottery wheel to a shelf to dry, and again to move the mostly-dry pot (but malleable enough to leave fingerprint M7?) to the kiln?
 
 ![A screenshot of a fingerprint from PH 25 that appears to have been
 made when the pot was wet because of the peaks and pooling of clay
