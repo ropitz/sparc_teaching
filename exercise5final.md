@@ -1,7 +1,6 @@
 **Exercise 5: Simple Measurements in CloudCompare**
 
-**(25 minute video (split into two videos); allow for at least 1.5 hours
-for Exercise 5)**
+**Allow at least 1.5 hours for Exercise 5)**
 
 Let's say we want to consider the different manufacturing techniques
 used in creating the pottery from the Parker-Harris Pottery site and the
