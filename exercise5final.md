@@ -59,8 +59,7 @@ tool on the toolbar.](https://user-images.githubusercontent.com/67739490/9429197
 
 ![Two points have been picked to measure the length of a tool mark on TC
 23. The point picker toolbar is highlighted in the top right
-corner.](media/image2.png){width="9.693055555555556in"
-height="4.115972222222222in"}
+corner.](https://user-images.githubusercontent.com/67739490/94292047-5795eb00-ff54-11ea-80db-0232a575a845.png)
 
 ![A close up of the measurement of the width of the tool mark on TC 23.
 It is roughly 4.1mm wide.](media/image3.PNG){width="7.192660761154856in"
