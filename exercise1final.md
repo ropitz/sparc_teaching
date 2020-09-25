@@ -62,8 +62,12 @@ the real potsherd colour.](https://user-images.githubusercontent.com/67739490/94
 Scaling shader has been applied, which highlights the striations of the
 potsherd\'s fabric. A fingerprint is faintly visible. There are several
 holes in the mesh, especially on the right side of the
-image.](media/image3.png){width="6.2672101924759405in"
-height="4.300372922134733in"}
+image.](https://user-images.githubusercontent.com/67739490/94268839-a718ee80-ff35-11ea-8c3d-e0f4ebc1b595.png)
+
+---
+**What is a Shader?**
+Shaders are powerful visualisation tools. They render the appearance of the surface based on a number of factors, including lighting position and transparency, view position, material properties, and shape of  the 3D surface. Complicated algorithms underly these shaders – take a look at this publication on Meshlab’s Radiance Scaling algorithm to get a sense of the complexity!
+---
 
 5.  Open the Reference Image for PH_2. In the photograph, you can see
     that the location of fingerprints identified by researchers have
