@@ -1,6 +1,6 @@
-**Introduction, Aims and Learning Outcomes**
+#**Introduction, Aims and Learning Outcomes**
 
-**The Boston Fingerprints Project: Enriching object biographies and
+##**The Boston Fingerprints Project: Enriching object biographies and
 tracing human-thing networks through analysis of digital 3D scans**
 
 The Parker-Harris Pottery Site and Three Cranes Tavern Site in
@@ -35,7 +35,7 @@ the human connections represented in these significant assemblages,
 helping us to appreciate these forgotten and sometimes nameless potters
 through the intimate association of their hands.
 
-***In this lesson you will explore a collection of 3D models of ceramics
+##***In this lesson you will explore a collection of 3D models of ceramics
 with fingerprints and handprints and learn to:***
 
 -   ***Understand what metadata is, what kind of metadata is associated
@@ -58,7 +58,7 @@ with fingerprints and handprints and learn to:***
     pottery manufacture at the Parker-Harris Pottery Site and the
     pottery's subsequent use at the Three Cranes Tavern Site.***
 
-***When you have completed this lesson you will be able to:***
+##***When you have completed this lesson you will be able to:***
 
 -   ***Identify 3D data suitable for research through familiarity with
     metadata conventions and methods of visualising 3D data;***
@@ -74,7 +74,7 @@ with fingerprints and handprints and learn to:***
     combination of these approaches contribute to stronger
     interpretations of archaeological evidence.***
 
-**Outputs**
+##**Outputs**
 
 Throughout these exercises, in boxes labelled as 'Try it yourself!' or
 'Reflect and Write', you will be prompted to take a screenshot of your
@@ -84,9 +84,9 @@ up to you. You will then be asked to reflect on the exercise and to
 summarise your reflections in a few sentences as a 'long caption' for
 your screenshot.
 
-**Research in the digital archives**
+##**Research in the digital archives**
 
-***What kinds of digital data are widely available in archaeological
+###***What kinds of digital data are widely available in archaeological
 archives?***
 
 After an excavation, the archaeological archive consists of more than
@@ -98,7 +98,7 @@ increasingly, three-dimensional (3D) models. Virtually anything can be
 recorded as a 3D model, whether it is a landscape, an excavation trench,
 a monument, or an artefact.
 
-***What is a 3D model?***
+###***What is a 3D model?***
 
 Essentially, a 3D model is made up of a **point cloud** (below left) and
 **polygons** generated between those points (below right). The point
@@ -125,7 +125,7 @@ Fingerprints ceramics. On the right, triangles have been generated
 between these points to create a
 mesh.](https://user-images.githubusercontent.com/67739490/94265716-ea249300-ff30-11ea-9e4b-ace2fc458230.png)
 
-***What kinds of questions can be addressed through the analysis of
+###***What kinds of questions can be addressed through the analysis of
 archived 3D models?***
 
 Because 3D models record the geometric surface of an object, 3D models
@@ -142,10 +142,10 @@ archaeological material can be achieved by incorporating both visual and
 metric analyses in our interrogation of their digital 3D
 representations.
 
-**How to identify a reusable dataset that is appropriate to your
+##**How to identify a reusable dataset that is appropriate to your
 research aim -- A guide to metadata**
 
-**What is metadata? --** Metadata is information that describes other
+###**What is metadata? --** Metadata is information that describes other
 data. In this case, metadata is information that describes the 3D
 dataset. The basic metadata for a 3D model should, at a bare minimum,
 describe the file formats of the data, the creators of the data, when
@@ -159,7 +159,7 @@ from the creator. The metadata should accompany the dataset when it is
 archived, whether as a .txt file, a spreadsheet, or other word processed
 file.
 
-**Start with a Research Question** -- While it is always possible to
+###**Start with a Research Question** -- While it is always possible to
 explore an archive and see where your curiosity and chance discoveries
 take you, in this lesson we will focus on using archival data to address
 a specific research question: What new insights into the manufacturing
@@ -247,7 +247,7 @@ dataset's metadata:
     Commons](https://creativecommons.org/) to ensure you understand the
     terms of the different licensing options.
 
-**Datasets**
+###**Datasets**
 
 In this exercise we will be using [**Zenodo**](https://zenodo.org/), an
 open access repository, to obtain our dataset. However, other
@@ -276,7 +276,7 @@ space).
 the exercises, in case users do not have much storage space on their
 computer.](https://user-images.githubusercontent.com/67739490/94265882-2ce66b00-ff31-11ea-879a-b3e6e01eaebe.png)
 
-**The Archaeological Context for the Data**
+###**The Archaeological Context for the Data**
 
 As you can see in the contextual metadata for the Boston Fingerprints
 2014 project on Zenodo, the pottery comes from two sites in Charlestown,
@@ -293,7 +293,7 @@ it not only provides a more direct connection to the historical person,
 but it could also contribute to identifying previously unknown
 commercial networks across the Eastern United States.
 
-**Software Installation**
+##**Software Installation**
 
 There are a number of open access software packages that allow for
 working with 3D data. For this exercise, Meshlab and CloudCompare will
