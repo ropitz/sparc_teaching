@@ -46,7 +46,7 @@ Scaling shader applied. An orange line stretches across one of the
 fingerprints after a measurement has been
 made.](https://user-images.githubusercontent.com/67739490/94272227-adf63000-ff3a-11ea-8425-3bcca045497a.png)
 
-![](media/image3.PNG){width="9.084204943132109in"
+![All five fingerprints and the spaces between four of these have been measured - orange lines stretch across and between these features. Each measurement has been labelled according to the distances recorded in the bottom right box. ](media/image3.PNG){width="9.084204943132109in"
 height="4.816666666666666in"}
 
 One could interpret that the fingerprints M0, M1, M2 and M3 are from the
