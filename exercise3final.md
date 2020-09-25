@@ -257,8 +257,7 @@ applied.](https://user-images.githubusercontent.com/67739490/94281757-f0be0500-f
 
 ![A close up of the CloudCompare toolbar with the Color Scale
 Editor/Manager icon highlighted with a red
-box.](media/image14.png){width="3.1936100174978126in"
-height="0.8800765529308836in"}
+box.](https://user-images.githubusercontent.com/67739490/94281838-08958900-ff47-11ea-86e7-29658608cb4b.png)
 
 ![A screenshot showing the Color Scale Editor prior to copying the Grey
 color scale.](media/image15.PNG){width="9.693055555555556in"
