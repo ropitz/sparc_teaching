@@ -49,8 +49,7 @@ PH_2 imported.](https://user-images.githubusercontent.com/67739490/94268556-42f6
 ![The same screenshot as before, with the two files for PH_2\'s 3D model
 imported in Meshlab. However, the colour has been removed from one of
 the two .stl files, so the 3D model appears banded, grey speckled with
-the real potsherd colour.](media/image2.png){width="7.840679133858267in"
-height="4.913758748906386in"}
+the real potsherd colour.](https://user-images.githubusercontent.com/67739490/94268717-7f298b00-ff35-11ea-9d69-a1c2bb642b58.png)
 
 4.  To accentuate the topography of the 3D model, **Shaders** can be
     applied. Meshlab provides a variety of options for these under the
