@@ -114,8 +114,7 @@ that some strange light-grey diagonal striations on the potsherd.
 ![A screenshot of the two stl files comprising the 3D model of a new
 potsherd, PH_4. Light grey striations are visible going obliquely over
 the sherd, but these are a result of a recording
-error.](media/image6.png){width="5.109286964129484in"
-height="4.268943569553806in"}
+error.](https://user-images.githubusercontent.com/67739490/94270614-3e7f4100-ff38-11ea-92a9-10198085c92c.png)
 
 If we turn off the visibility of STL_ph4_001 (by clicking the eye symbol
 next to the layer, highlighted in the red box below), we find that the
