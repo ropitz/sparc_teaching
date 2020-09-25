@@ -220,8 +220,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292654-22d66380-f
 post-depositional pitting previously visible on many of the potsherds is
 now greyed out. This is reflected in the Color Scale to the right of
 each potsherd, which now show a more reliable Roughness value for their
-respective sherds.](media/image10.png){width="9.693055555555556in"
-height="4.153472222222222in"}
+respective sherds.](https://user-images.githubusercontent.com/67739490/94293324-01c24280-ff56-11ea-8c81-e567382887d0.png)
 
 ![A close up of the four potsherds after the Maximum Scalar Values have
 been decreased to remove outliers, followed by decreasing the Maximum
