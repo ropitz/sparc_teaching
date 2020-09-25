@@ -207,8 +207,7 @@ matrix.](https://user-images.githubusercontent.com/67739490/94281318-62e21a00-ff
 
 ![After the transformation has been applied, check the box next to the
 plane to remove it from
-view.](media/image10.png){width="9.693055555555556in"
-height="3.0868055555555554in"}
+view.](https://user-images.githubusercontent.com/67739490/94281393-79887100-ff46-11ea-8f6f-599f0209ee09.png)
 
 4.  Once the 3D model is aligned, navigate to 'Scalar Fields' from the
     'Edit' dropdown menu and select 'Export coordinate(s) to SF(s)'.
