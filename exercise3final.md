@@ -200,8 +200,7 @@ action.](https://user-images.githubusercontent.com/67739490/94281058-11398f80-ff
 ![This image shows how to apply the transformation if using the \'Fit to
 plane\' levelling option. It shows where to find the transformation
 matrix in the console portion of the CloudCompare
-interface.](media/image8.png){width="9.693055555555556in"
-height="4.274305555555555in"}
+interface.](https://user-images.githubusercontent.com/67739490/94281206-40500100-ff46-11ea-8ea7-99d0f5eef803.png)
 
 ![A screenshot showing where to paste the transformation
 matrix.](media/image9.PNG){width="6.117197069116361in"
