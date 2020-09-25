@@ -82,8 +82,7 @@ points to consider.
 ![On the left, a trailed band is measured on PH 21. It is roughly 6.9mm
 wide. On the right, a trailed band from a lower position on the same
 vessel measures 6.8mm
-wide.](media/image4.png){width="9.04078302712161in"
-height="5.567148950131234in"}
+wide.](https://user-images.githubusercontent.com/67739490/94292180-81e7a880-ff54-11ea-8d85-481f0ad2a850.png)
 
 6.  You may wish to compare two potsherds side by side in real time;
     this is useful because they will both be at the same scale in the
