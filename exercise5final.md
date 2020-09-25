@@ -118,8 +118,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-f
 > ![A screenshot showing PH 21 and TC 23 in different 3D views in
 > different tiles. The 3D views dropdown menu and the Current display
 > option under the mesh Properties are both highlighted with red
-> boxes.](media/image6.png){width="9.400814741907261in"
-> height="4.3203740157480315in"}
+> boxes.](https://user-images.githubusercontent.com/67739490/94292359-c07d6300-ff54-11ea-935a-f90b8f1223b8.png)
 
 8.  Instead of individual measurements, what if we used 'Roughness' as a
     method of characterising the different surface treatments? First,
