@@ -82,8 +82,7 @@ imported.](https://user-images.githubusercontent.com/67739490/94279757-78564480-
 ![This image shows the CloudCompare interface and shows how to merge two
 meshes into a single mesh using the \'Merge Multiple Clouds\' icon. This
 icon is highlighted with a red box in the
-image.](media/image2.png){width="9.294139326334209in"
-height="4.220365266841645in"}
+image.](https://user-images.githubusercontent.com/67739490/94279854-98860380-ff44-11ea-8657-ea46371fc142.png)
 
 3.  Rotating the mesh is slightly different in CloudCompare, as the
     trackball is not constantly visible. Click and hold the mesh -- the
@@ -91,6 +90,11 @@ height="4.220365266841645in"}
     you are moving the mesh, take note of the appearance of the
     fingerprint(s?). Let's try isolating the fingerprints using the
     'Segment' tool in CloudCompare.
+
+>**Try it yourself!** 
+>•	Kimberlee S Moran, a forensic archaeologist who specialises in ancient fingerprints, has produced a ‘Fingerprinting Handout’ that introduces the key features fingerprint analysts use to differentiate between fingerprints. In this handout, we can see that the print in the centre of the sherd PH 13 does not exhibit any of the three basic print patterns: arch, loop, or whorl. Instead, these ridges all seem to be travelling parallel to each other (although the significantly raised clay in the centre makes it difficult to be certain). Examine your own fingers and hands – are there any areas that exhibit a similar pattern? What might have caused the raised area in the centre?
+>•	As archaeologists, it is also important to consider at what stage of the manufacturing process these prints might have been made – the prints are made over the striations from the manufacturing processes, the clay was wet enough that prints were able to be made, and the prints were not effaced by the potter. What step in the manufacturing process might these prints represent? It could be that the print centrally positioned on the sherd represents a lower joint of the finger, rather than a fingertip. It could also be that this represents a partial hand-print, and that the clay ridge could have been caused by a palmar crease. If the former is true, the less well-defined print could be the fingerprint that we would want to examine, but is this detailed enough to identify features?
+
 
 **Segmenting in CloudCompare**
 
