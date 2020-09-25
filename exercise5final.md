@@ -74,10 +74,10 @@ It is roughly 4.1mm wide.](https://user-images.githubusercontent.com/67739490/94
     and TC_23 were two different types of vessels with different
     functions, or were they created by two different potters?
 
-**Note:** You may find that choosing points of comparison relatively
-difficult in 3D. While not the most accurate way to measure these
-features, this does give us some further insight into this dataset and
-points to consider.
+>**Note:** You may find that choosing points of comparison relatively
+>difficult in 3D. While not the most accurate way to measure these
+>features, this does give us some further insight into this dataset and
+>points to consider.
 
 ![On the left, a trailed band is measured on PH 21. It is roughly 6.9mm
 wide. On the right, a trailed band from a lower position on the same
