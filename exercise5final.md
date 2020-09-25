@@ -100,8 +100,7 @@ wide.](https://user-images.githubusercontent.com/67739490/94292180-81e7a880-ff54
 
 ![A screenshot of both TC 23 and PH 21 in the same 3D View. The
 \'Translate/Rotate\' tool is highlighted with a red box on the
-toolbar.](media/image5.png){width="9.693055555555556in"
-height="4.606944444444444in"}
+toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-ff54-11ea-80b5-8a1a78c3a5a6.png)
 
 7.  Recall that, if you want to allocate these 3D models to different 3D
     spaces, you can do this with the '3D Views' drop down menu.
