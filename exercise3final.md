@@ -58,7 +58,6 @@ represent the relative height of the mesh surface.
 >**Roughness and Curvature** ‘Roughness’ and ‘Curvature’ are calculated using statistics. As defined by CloudCompare…
 >-   Roughness: “For each point, the 'roughness' value is equal to the distance between this point and the best fitting plane computed on its nearest neighbours.”
 >-   Curvature: “The curvature at each point is estimated by best fitting a quadric around it based on its nearest neighbours.”
-
 >Both of these calculations rely on a ‘nearest neighbours’ approach. While this concept can be applied differently in different fields, essentially the software determines whether a point is ‘different’ by looking at its neighbours within a given radius defined by the user. If a point’s elevation is quite similar compared to the plane formed by its neighbouring points, it will not be attributed to a high ‘roughness’ value. 
 
 **Getting Started**
