@@ -227,8 +227,7 @@ view.](https://user-images.githubusercontent.com/67739490/94281393-79887100-ff46
 
 ![A screenshot showing the interface to export the Z coordinates of the
 3D model to the Scalar
-Field.](media/image11.PNG){width="9.693055555555556in"
-height="5.028472222222222in"}
+Field.](https://user-images.githubusercontent.com/67739490/94281491-9cb32080-ff46-11ea-9099-b8a291def14d.png)
 
 5.  If you highlight the 3D model and navigate to the 'Properties'
     > window (often automatically pinned below the DB Tree window), you
