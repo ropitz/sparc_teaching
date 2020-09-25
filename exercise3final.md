@@ -230,16 +230,15 @@ view.](https://user-images.githubusercontent.com/67739490/94281393-79887100-ff46
 Field.](https://user-images.githubusercontent.com/67739490/94281491-9cb32080-ff46-11ea-9099-b8a291def14d.png)
 
 5.  If you highlight the 3D model and navigate to the 'Properties'
-    > window (often automatically pinned below the DB Tree window), you
-    > will find that under 'CC Object' you can now change the 'Colors'
-    > from 'None' to 'Scalar field'. Scrolling through the properties,
-    > under 'Color Scale', you will be able to change the appearance of
-    > the 3D model from a dropdown menu.
+    window (often automatically pinned below the DB Tree window), you
+    will find that under 'CC Object' you can now change the 'Colors'
+    from 'None' to 'Scalar field'. Scrolling through the properties,
+    under 'Color Scale', you will be able to change the appearance of
+    the 3D model from a dropdown menu.
 
-> ![A screenshot of the Properties window to show how to set the Scalar
-> field as the color of the 3D
-> mesh.](media/image12.PNG){width="3.97838145231846in"
-> height="4.116666666666666in"}
+![A screenshot of the Properties window to show how to set the Scalar
+field as the color of the 3D
+mesh.](https://user-images.githubusercontent.com/67739490/94281620-c10efd00-ff46-11ea-97a4-bcdac268e82f.png)
 
 ![A screenshot of the fingerprint mesh with its color set to Scalar
 field and a Viridis color scale
