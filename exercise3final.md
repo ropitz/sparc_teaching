@@ -260,8 +260,7 @@ Editor/Manager icon highlighted with a red
 box.](https://user-images.githubusercontent.com/67739490/94281838-08958900-ff47-11ea-86e7-29658608cb4b.png)
 
 ![A screenshot showing the Color Scale Editor prior to copying the Grey
-color scale.](media/image15.PNG){width="9.693055555555556in"
-height="4.6402777777777775in"}
+color scale.](https://user-images.githubusercontent.com/67739490/94281910-1f3be000-ff47-11ea-8473-5361f813e075.png)
 
 ![A screenshot of the mesh with a grey color scale applied.
 ](media/image16.PNG){width="9.693055555555556in"
