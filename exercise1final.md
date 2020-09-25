@@ -102,8 +102,7 @@ examine the area to the right of the FP1 label, but on the 3D model, you
 should see a partial fingerprint preserved in the potsherd.
 
 ![A close-up on the 3D model of PH_2, with a red rectangle surrounding
-the fingerprint.](media/image5.png){width="4.48038823272091in"
-height="3.4736340769903764in"}
+the fingerprint.](https://user-images.githubusercontent.com/67739490/94270550-1db6eb80-ff38-11ea-97bb-04fdb6ac2d2a.png)
 
 In addition to recording errors caused by the properties of the object
 (like the black, reflective glaze above), there are errors that can be
