@@ -114,8 +114,7 @@ the toolbar) has been selected, so a new toolbar has appeared in the top
 right corner of the screen. After selecting the region of the
 fingerprint, the \'segment in\' option can be selected (again,
 highlighted in a red box and
-labelled).](media/image3.png){width="8.88076990376203in"
-height="3.953675634295713in"}
+labelled).](https://user-images.githubusercontent.com/67739490/94280084-e569da00-ff44-11ea-8316-452f61f92132.png)
 
 2.  Once you have selected 'Segment In', the Segmentation function will
     pause. You can now rotate the area you have selected to ensure you
