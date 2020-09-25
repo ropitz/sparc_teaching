@@ -274,8 +274,7 @@ space).
 
 ![A table that lists subsets of files that would be most useful during
 the exercises, in case users do not have much storage space on their
-computer.](https://user-images.githubusercontent.com/67739490/94265882-2ce66b00-ff31-11ea-879a-b3e6e01eaebe.png){width="3.325in"
-height="3.808333333333333in"}
+computer.](https://user-images.githubusercontent.com/67739490/94265882-2ce66b00-ff31-11ea-879a-b3e6e01eaebe.png)
 
 **The Archaeological Context for the Data**
 
