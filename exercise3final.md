@@ -203,8 +203,7 @@ matrix in the console portion of the CloudCompare
 interface.](https://user-images.githubusercontent.com/67739490/94281206-40500100-ff46-11ea-8ea7-99d0f5eef803.png)
 
 ![A screenshot showing where to paste the transformation
-matrix.](media/image9.PNG){width="6.117197069116361in"
-height="4.225366360454943in"}
+matrix.](https://user-images.githubusercontent.com/67739490/94281318-62e21a00-ff46-11ea-950b-4d5a39efa34d.png)
 
 ![After the transformation has been applied, check the box next to the
 plane to remove it from
