@@ -104,8 +104,7 @@ located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-f
 > of 1.1184 and with checked boxes next to Roughness and Surface
 > Variation. Finally, on the right, a screenshot of the mesh properties,
 > showing that the Color Scale should be marked as
-> visible.](media/image2.png){width="7.734003718285214in"
-> height="3.3336220472440945in"}
+> visible.](https://user-images.githubusercontent.com/67739490/94287879-bc4e4700-ff4e-11ea-91e4-47783b7c6fb9.png)
 
 5.  Begin alternating between 3D viewports to observe the differences in
     roughness between these fingerprints. Take note of the numbers at
