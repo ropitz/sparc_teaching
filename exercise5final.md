@@ -182,13 +182,16 @@ left.](https://user-images.githubusercontent.com/67739490/94292502-f884a600-ff54
         vessel form), the lower part of the sherd is causing a great
         deal of the roughness for this sherd. What level of roughness do
         you think is a reasonable characterisation of PH 21's surface?
+        
+>**Outliers and Histograms**
+>**Outliers** are points which, in this case, have a Roughness value that falls outside the normal range of the Roughness value for the majority of the other points in the point cloud.
+>A **histogram** is a diagram that graphically represents the quantity of points that fall within equal ranges with rectangles that increase in size as more points fall within that range. 
 
 ![With the CloudCompare interface in the background, the larger
 Histogram showing the calculated roughness for PH 21\'s point cloud is
 visible on the right side of the image. The icon to bring up this larger
 histogram is highlighted with a red box on the
-toolbar.](media/image9.png){width="9.693055555555556in"
-height="4.086805555555555in"}
+toolbar.](https://user-images.githubusercontent.com/67739490/94292654-22d66380-ff55-11ea-8b97-e1e748f2fe10.png)
 
 13. Another way to deal with outliers is to work with the 'SF display
     params' as we did in step 11 of this exercise.
