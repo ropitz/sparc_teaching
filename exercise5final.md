@@ -222,8 +222,14 @@ now greyed out. This is reflected in the Color Scale to the right of
 each potsherd, which now show a more reliable Roughness value for their
 respective sherds.](https://user-images.githubusercontent.com/67739490/94293324-01c24280-ff56-11ea-8c81-e567382887d0.png)
 
+>**Try it yourself!**
+>-   Open the histograms for each sherd; after removing the post-depositional outliers, how well does Roughness value distinguish between the different surface treatments you have observed?
+>-   In the dataset shown below, PH 21 has an average Roughness of 0.23, TC 23 has an average Roughness of 0.1, PH 19 has an average Roughness of 0.1, and PH 12 has an average Roughness of 0.09. As expected, PH 21, with its deep decorative trailing and depressions, has the highest Roughness score, despite its smoothed surface in between. PH 19 and PH 12 also score quite similar levels of Roughness, as one might expect from their similar appearance. The only deviation from our expectations is that TC 23 scored quite a similar level of Roughness to PH 19 and PH 12 despite its ‘brushed’ surface treatment. While it is relatively distinctive visually, the relative depth of the brush strokes must be quite similar to the striations on the plainer sherds.
+
 ![A close up of the four potsherds after the Maximum Scalar Values have
 been decreased to remove outliers, followed by decreasing the Maximum
 Saturation values to highlight the subtler surface
-treatments.](media/image11.png){width="9.680753499562554in"
-height="5.1260936132983375in"}
+treatments.](https://user-images.githubusercontent.com/67739490/94293413-1f8fa780-ff56-11ea-8e75-0d451a18226e.png)
+
+>**Reflect and Write!**
+>Calculate different morphometric parameters for each of your potsherds – are there any that distinguish between the different surface treatments quite well? Take a screenshot of the parameter that works best and write a short caption on why this is. 
