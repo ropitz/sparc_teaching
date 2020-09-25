@@ -129,5 +129,4 @@ that the error is not interpreted as something culturally significant.
 
 ![Another screenshot of PH_4, but PH4_001 was been turned off. This
 reveals that the recording error, \'stripey data\', is a part of PH4_002
-scan. ](media/image7.png){width="7.013941382327209in"
-height="3.5003029308836395in"}
+scan. ](https://user-images.githubusercontent.com/67739490/94270663-53f46b00-ff38-11ea-9745-068987674a05.png)
