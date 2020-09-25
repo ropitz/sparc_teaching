@@ -44,8 +44,7 @@ rectangle.](https://user-images.githubusercontent.com/67739490/94272164-96b74280
 ![The Ph25 merged mesh has been imported into Meshlab and the Radiance
 Scaling shader applied. An orange line stretches across one of the
 fingerprints after a measurement has been
-made.](media/image2.png){width="9.308333333333334in"
-height="4.353032589676291in"}
+made.](https://user-images.githubusercontent.com/67739490/94272227-adf63000-ff3a-11ea-8425-3bcca045497a.png)
 
 ![](media/image3.PNG){width="9.084204943132109in"
 height="4.816666666666666in"}
