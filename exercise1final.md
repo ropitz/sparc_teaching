@@ -85,8 +85,7 @@ image.](https://user-images.githubusercontent.com/67739490/94268839-a718ee80-ff3
 the reference image for PH_2 has been opened. It is a photograph of the
 potsherd resting on its artefact bag. The left side shows the 3D model
 aligned in Meshlab to match the alignment of the photograph of the
-potsherd.](media/image4.png){width="9.480821303587051in"
-height="5.020435258092738in"}
+potsherd.](https://user-images.githubusercontent.com/67739490/94270449-f52ef180-ff37-11ea-8125-c282c2e5b2fe.png)
 
 **Potential Data Capture Issues**
 
