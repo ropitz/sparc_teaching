@@ -132,16 +132,15 @@ labelled).](https://user-images.githubusercontent.com/67739490/94280084-e569da00
     Mesh.remaining' layer to continue working with your fingerprint
     data.
 
-Note: For better visualisation results, ensure that you have segmented
-each of the prints from each other so that you are only working with one
-print at a time. To rename the meshes in the DB Tree, double left click
-on the object name you wish to change (highlighted in red below).
+>**Note:** For better visualisation results, ensure that you have segmented
+>each of the prints from each other so that you are only working with one
+>print at a time. To rename the meshes in the DB Tree, double left click
+>on the object name you wish to change (highlighted in red below).
 
 ![In Cloud Compare, a single fingerprint from PH 13 has been segmented
 from the rest of the mesh. In the Database Tree, a red rectangle
 highlights that users should double click on the file name to rename the
-mesh.](media/image4.png){width="9.534160104986876in"
-height="4.220365266841645in"}
+mesh.](https://user-images.githubusercontent.com/67739490/94280597-7f318700-ff45-11ea-9fdc-bc1e6ed83853.png)
 
 **Visualising 3D models in CloudCompare**
 
