@@ -1,6 +1,6 @@
 **Exercise 5: Simple Measurements in CloudCompare**
 
-**Allow at least 1.5 hours for Exercise 5)**
+**(Allow at least 1.5 hours for Exercise 5)**
 
 Let's say we want to consider the different manufacturing techniques
 used in creating the pottery from the Parker-Harris Pottery site and the
@@ -37,8 +37,7 @@ potsherds from the dataset. In this exercise, you will learn to:
 
 ![A screenshot of TC_23 in the CloudCompare interface, with the vertices
 layer highlighted in the DB Tree. A red box highlights the Point Picker
-tool on the toolbar.](media/image1.png){width="7.480648512685915in"
-height="3.280284339457568in"}
+tool on the toolbar.](https://user-images.githubusercontent.com/67739490/94291971-3af9b300-ff54-11ea-9f26-7801acad60fb.png)
 
 4.  A new toolbar will appear in the top right corner of the 3D viewer
     -- to measure between two points, choose the second icon, and then
