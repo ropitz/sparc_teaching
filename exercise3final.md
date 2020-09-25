@@ -157,8 +157,7 @@ DB Tree).
 
 ![An image of part of the CloudCompare toolbar. The \'Clone\' icon is
 highlighted with a red
-rectangle.](media/image5.png){width="5.320461504811899in"
-height="0.6333880139982502in"}
+rectangle.](https://user-images.githubusercontent.com/67739490/94280851-d172a800-ff45-11ea-8b78-7982083eca97.png)
 
 1.  First, it is important that the fingerprint is as 'flat' as it can
     be in the 3D space, so that the software can recognise the high
