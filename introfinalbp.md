@@ -123,8 +123,7 @@ as a separate image file, like a .tif or .jpg file, or an .mtl file
 ![On the left, a close up image of a point cloud from one of the Boston
 Fingerprints ceramics. On the right, triangles have been generated
 between these points to create a
-mesh.](https://user-images.githubusercontent.com/67739490/94265716-ea249300-ff30-11ea-9e4b-ace2fc458230.png){width="9.554161198600175in"
-height="3.220278871391076in"}
+mesh.](https://user-images.githubusercontent.com/67739490/94265716-ea249300-ff30-11ea-9e4b-ace2fc458230.png)
 
 ***What kinds of questions can be addressed through the analysis of
 archived 3D models?***
