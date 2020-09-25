@@ -291,8 +291,7 @@ scale.](https://user-images.githubusercontent.com/67739490/94282312-91acc000-ff4
 
 ![A screenshot of the fingerprint where the grey color scale has been
 inverted. Now the raised ridge of clay is black, while the lower parts
-of the mesh are white. ](media/image18.PNG){width="9.693055555555556in"
-height="4.529166666666667in"}
+of the mesh are white. ](https://user-images.githubusercontent.com/67739490/94282412-b43ed900-ff47-11ea-8935-9ec887f1e335.png)
 
 10. While the above image appears more similar to how we might visualise
     a fingerprint, the raised ridge of clay along the centre is clearly
