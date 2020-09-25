@@ -171,11 +171,10 @@ rectangle.](https://user-images.githubusercontent.com/67739490/94280851-d172a800
 
 ![A part of another toolbar is presented here with a red rectangle
 highlighting the icon that would allow users to pick three points on the
-mesh to level the mesh. ](media/image6.png){width="0.625in"
-height="3.6197911198600177in"} ![A snapshot of the \'pick three points\'
+mesh to level the mesh. ](https://user-images.githubusercontent.com/67739490/94280928-ea7b5900-ff45-11ea-8de8-446e662ef1b6.png)
+![A snapshot of the \'pick three points\'
 levelling option in
-action.](media/image7.PNG){width="6.465567585301837in"
-height="3.3916666666666666in"}
+action.](https://user-images.githubusercontent.com/67739490/94280928-ea7b5900-ff45-11ea-8de8-446e662ef1b6.png)
 
 2.  An automated option for levelling the mesh is provided under
     'Tools', called 'Fit' to plane. This produces a **transformation
