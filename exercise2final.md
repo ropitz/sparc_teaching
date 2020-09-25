@@ -1,6 +1,6 @@
 **Exercise 2: Taking measurements in Meshlab**
 
-**(6 minute video, allow at least 20 minutes)**
+**(Allow at least 20 minutes for Exercise 2)**
 
 Visually inspecting 3D models is necessary to familiarise yourself with
 the dataset, to make initial judgements on the suitability of reused
