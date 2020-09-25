@@ -161,8 +161,7 @@ red triangle representing the maximum saturation value is circled in
 red. In the bottom image, the pottery wheel striations are more visible
 in PH 12 because the maximum saturation value has been decreased by
 dragging the red triangle to the
-left.](media/image8.png){width="6.453892169728784in"
-height="5.233787182852144in"}
+left.](https://user-images.githubusercontent.com/67739490/94292502-f884a600-ff54-11ea-9abe-694366fff7d5.png)
 
 12. As you compare the Roughness values of your chosen sherds, you may
     notice that some are characterised differently from what you'd
