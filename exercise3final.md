@@ -242,8 +242,7 @@ mesh.](https://user-images.githubusercontent.com/67739490/94281620-c10efd00-ff46
 
 ![A screenshot of the fingerprint mesh with its color set to Scalar
 field and a Viridis color scale
-applied.](media/image13.PNG){width="9.693055555555556in"
-height="4.427777777777778in"}
+applied.](https://user-images.githubusercontent.com/67739490/94281757-f0be0500-ff46-11ea-9d9d-8ef91e03467f.png)
 
 6.  From the SF display params, using the Viridis setting (above), you
     can see that the highest values are yellow, while the lowest values
