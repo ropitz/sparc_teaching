@@ -1,6 +1,6 @@
 **Exercise 4: Quantitative Approaches to Interpretation**
 
-**(13 minute video, allow for at least 1 hour for Exercise 4)**
+**(Allow at least 1 hour for Exercise 4)**
 
 As demonstrated above, the use of morphometric parameters as Scalar
 Fields has a great deal of potential for quantitative analysis. In this
