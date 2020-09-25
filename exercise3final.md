@@ -150,7 +150,7 @@ something goes wrong, you will not have to repeat the above steps each
 time. Highlight the Merged mesh.part and click the 'Clone' button (the
 icon shows two sheep, outlined in a red box below). If you want to save
 the work you have done in CloudCompare, you need to be sure that **[all
-components]{.ul}** you want to save are highlighted in the DB Tree
+components]** you want to save are highlighted in the DB Tree
 before you select 'Save' (you select multiple files/folders by holding
 down the 'Ctrl' button and clicking on the files you wish to save in the
 DB Tree).
