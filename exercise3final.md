@@ -1,6 +1,6 @@
 **Exercise 3: The Basics of CloudCompare**
 
-**(19 minute video, allow for at least 1 hour for Exercise 3)**
+**(Allow at least 1 hour for Exercise 3)**
 
 Meshlab allowed us to quickly visualise the datasets and take simple
 measurements from the 3D models to familiarise ourselves with the
@@ -66,8 +66,7 @@ represent the relative height of the mesh surface.
     Ctrl+O). Your screen should look something like the image below.
 
 ![A screenshot of the CloudCompare interface with both scans of PH 13
-imported.](media/image1.PNG){width="8.825in"
-height="4.582576552930884in"}
+imported.](https://user-images.githubusercontent.com/67739490/94279757-78564480-ff44-11ea-8941-e389118ae0c0.png)
 
 2.  In the top left section of the workspace, you can see a window that
     says 'DB Tree' at the top (which is short for 'DataBase Tree'). This
