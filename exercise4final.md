@@ -147,5 +147,4 @@ located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-f
 ![A screenshot of a fingerprint from PH 25 that appears to have been
 made when the pot was wet because of the peaks and pooling of clay
 evident. In this image, the Roughness calculation has been applied as a
-Scalar field.](media/image3.png){width="6.933333333333334in"
-height="3.2520800524934383in"}
+Scalar field.](https://user-images.githubusercontent.com/67739490/94288227-1818d000-ff4f-11ea-909b-7fd92c0457e1.png)
