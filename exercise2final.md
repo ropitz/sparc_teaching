@@ -39,8 +39,7 @@ still be recorded in the window in the bottom right corner.
 
 ![An image of a segment of the Meshlab Toolbar. The measuring tape icon
 is surrounded by a blue
-rectangle.](media/image1.PNG){width="10.183331146106736in"
-height="0.9333333333333333in"}
+rectangle.](https://user-images.githubusercontent.com/67739490/94272164-96b74280-ff3a-11ea-9e05-0759b6148465.png)
 
 ![The Ph25 merged mesh has been imported into Meshlab and the Radiance
 Scaling shader applied. An orange line stretches across one of the
