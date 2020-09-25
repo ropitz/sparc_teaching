@@ -62,8 +62,7 @@ tool on the toolbar.](https://user-images.githubusercontent.com/67739490/9429197
 corner.](https://user-images.githubusercontent.com/67739490/94292047-5795eb00-ff54-11ea-80db-0232a575a845.png)
 
 ![A close up of the measurement of the width of the tool mark on TC 23.
-It is roughly 4.1mm wide.](media/image3.PNG){width="7.192660761154856in"
-height="4.328613298337708in"}
+It is roughly 4.1mm wide.](https://user-images.githubusercontent.com/67739490/94292112-6e3c4200-ff54-11ea-855e-38a70bef4df9.png)
 
 5.  Import some more potsherds and see how their surface treatment
     differs. I have chosen PH_21 for this next set of measurements --
