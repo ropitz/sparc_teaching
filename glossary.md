@@ -16,14 +16,14 @@ already be familiar with (length, width, volume), but can also include
 parameters like 'Roughness' or 'Curvature'. Morphometrics only take into
 account the shape of the 3D surface.
 
-> **Roughness** -- Morphometric parameter calculated by CloudCompare in
-> the following way -- "For each point, the \'roughness\' value is equal
-> to the distance between this point and the best fitting plane computed
-> on its nearest neighbours."
->
-> **Curvature** - Morphometric parameter calculated by CloudCompare in
-> the following way - "The curvature at each point is estimated by best
-> fitting a quadric around it based on its nearest neighbours."
+ **Roughness** -- Morphometric parameter calculated by CloudCompare in
+ the following way -- "For each point, the \'roughness\' value is equal
+ to the distance between this point and the best fitting plane computed
+ on its nearest neighbours."
+
+ **Curvature** - Morphometric parameter calculated by CloudCompare in
+ the following way - "The curvature at each point is estimated by best
+ fitting a quadric around it based on its nearest neighbours."
 
 **Outliers** -- Data points which fall outside the normal range of the
 majority of the other points in the point cloud.
