@@ -24,6 +24,8 @@ bowl are about the same size in 3D. It should be stated somewhere in the
 metadata of the dataset how the 3D models have been scaled; in this
 case, the Boston Fingerprints dataset has been scaled in millimetres.
 
+>**Why is scaled data necessary for measurements?** While 3D models can be accurate visual representations of real-world objects, the 3D model needs to be scaled for metric analysis to be meaningful. If the 3D model is scaled, the measurements taken from the 3D model correspond to real-world measurements of the original, physical object (in real-world units, often millimetres or metres). Without being scaled, the units of the 3D mesh in the software are completely arbitrary and will not correspond to the actual dimensions of the real-life object.
+
 **The Measuring Tool**
 
 If you want to measure between two points on the 3D model, you can use
@@ -46,8 +48,13 @@ Scaling shader applied. An orange line stretches across one of the
 fingerprints after a measurement has been
 made.](https://user-images.githubusercontent.com/67739490/94272227-adf63000-ff3a-11ea-8425-3bcca045497a.png)
 
-![All five fingerprints and the spaces between four of these have been measured - orange lines stretch across and between these features. Each measurement has been labelled according to the distances recorded in the bottom right box. ](media/image3.PNG){width="9.084204943132109in"
-height="4.816666666666666in"}
+>**Try it yourself!** 
+>1.	For this exercise, open the STL file for PH_25. Begin by measuring the lengths of the fingerprints you can identify on PH_25. Examine your own fingers – Are your fingerprints longer, or about the same? If the fingerprints on PH_25 all belong to the same potter, can you guess at which finger(s) the prints might belong to? Take a screenshot of your measurements to add to your gallery.
+>2.	Try measuring the distances between the fingerprints you see – is it reasonable to suggest these are from the same hand and the same fingerprinting ‘event’? Why or why not?
+>3.	Are there any fingerprints that are unlikely to belong to the same hand/fingerprinting ‘event’? Why is this?
+
+
+![All five fingerprints and the spaces between four of these have been measured - orange lines stretch across and between these features. Each measurement has been labelled according to the distances recorded in the bottom right box. ](https://user-images.githubusercontent.com/67739490/94275280-aafd3e80-ff3e-11ea-8b3b-60a56c06cb1c.png)
 
 One could interpret that the fingerprints M0, M1, M2 and M3 are from the
 same hand and the same 'event' of the potter touching the pot, but would
@@ -57,6 +64,12 @@ from the same 'event'? Try arranging your fingers to match this layout
 their placement. There is also the possibility that M3 was not made
 during the same 'event', as it is not clear whether the print ridges are
 curving in the same direction as M0, M1 and M2.
+
+>**Reflect and Write** 
+>1.	Looking at your screenshot, how would you interpret the fingerprints on PH 25? 
+>2.	What stage of the manufacturing process might these represent? What has led you to this conclusion? 
+>3.	Write a short caption explaining your reasoning to accompany your screenshot in your gallery.
+
 
 Meshlab is powerful software; in this tutorial, we have only scratched
 the surface of how it can be used to visualise 3D data. However, the
