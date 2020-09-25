@@ -7,9 +7,7 @@
 -   MHC's Parker-Harris Pottery Online exhibit:
     <https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/parkerharris.htm>
 
--   MHC's Three Cranes Tavern Online exhibit:
-
-<https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/threecranes.htm>
+-   MHC's Three Cranes Tavern Online exhibit:<https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/threecranes.htm>
 
 **Ancient Fingerprints:**
 
@@ -17,7 +15,7 @@
     Academia.edu Page**):
     <https://www.academia.edu/13761528/Fingerprinting_Handout>
 
-> **Archiving/Metadata for Digital/3D Data**
+**Archiving/Metadata for Digital/3D Data**
 
 -   Creative Commons: Use & Remix
     (<https://creativecommons.org/use-remix/>) and Attribution Guidance
@@ -27,26 +25,17 @@
     repositories and platforms. Virtual Archaeology Review, 11(23),
     1-15.
 
-> **3D Analysis in Archaeology**
+**3D Analysis in Archaeology**
 
 -   CloudCompare Manual v2.6.1:
     <http://www.cloudcompare.org/doc/qCC/CloudCompare%20v2.6.1%20-%20User%20manual.pdf>
 
--   R. Vergne, R. Pacanowski, P. Barla, X. Granier, C. Schlick.
-
-Radiance scaling for versatile surface enhancement.
-
-Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D
-Graphics and Games (pp. 143-150). ACM, 2010.
-<https://dl.acm.org/doi/abs/10.1145/1730804.1730827>
+-   R. Vergne, R. Pacanowski, P. Barla, X. Granier, C. Schlick. Radiance scaling for versatile surface enhancement.Proceedings of the 2010 ACM SIGGRAPH symposium on Interactive 3D Graphics and Games (pp. 143-150). ACM, 2010. <https://dl.acm.org/doi/abs/10.1145/1730804.1730827>
 
 -   Opitz, R. (2017). An Experiment in Using Visual Attention Metrics to
     Think About Experience and Design Choices in Past Places. Journal of
     Archaeological Method and Theory, 24(4), 1203-1226.
 
-```{=html}
-<!-- -->
-```
 -   Limp, W. F. (2016). Measuring the Face of the Past and Facing the
     Measurement. In Digital Methods and Remote Sensing in Archaeology
     (pp. 349-369). Springer, Cham.
