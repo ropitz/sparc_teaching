@@ -263,8 +263,12 @@ box.](https://user-images.githubusercontent.com/67739490/94281838-08958900-ff47-
 color scale.](https://user-images.githubusercontent.com/67739490/94281910-1f3be000-ff47-11ea-8473-5361f813e075.png)
 
 ![A screenshot of the mesh with a grey color scale applied.
-](media/image16.PNG){width="9.693055555555556in"
-height="4.548611111111111in"}
+](https://user-images.githubusercontent.com/67739490/94282025-4397bc80-ff47-11ea-9a69-411a020472e2.png)
+
+>**Reflect**
+>-   Notice that this preset Grey Color Scale does not reflect what one might expect from the image of a fingerprint – the raised ridges of the fingerprint receive the black ink and leave their impression on a piece of paper. The ‘peaks’ of the fingerprint then make up the darkest part of a fingerprint, while the ‘valleys’ create the white space in between. This preset Grey Color Scale instead assumes that the highest points of the 3D model should be bright and low points should be dark.
+>-   Why is it that we expect the lower points on a 3D model to be dark and the brighter points on a 3D model to be bright? Are there any real-world situations that would lead to this expectation? Try picturing a mountainous landscape – as the sun moves across the sky, how does this affect the lighting of this landscape?
+>-   If we were analysing a 3D model (something other than fingerprints), is it more useful to match the expectation conveyed by the preset Grey Color Scale? Why?
 
 7.  Now go back and edit your edited scalar field. On the color bar, you
     will see two small boxes at either end of the bar. Click on the
