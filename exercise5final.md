@@ -184,10 +184,10 @@ left.](https://user-images.githubusercontent.com/67739490/94292502-f884a600-ff54
         you think is a reasonable characterisation of PH 21's surface?
         
 >**Outliers and Histograms**
-
->**Outliers** are points which, in this case, have a Roughness value that falls outside the normal range of the Roughness value for the majority of the other points in the point cloud.
-
->A **histogram** is a diagram that graphically represents the quantity of points that fall within equal ranges with rectangles that increase in size as more points fall within that range. 
+>**Outliers** are points which, in this case, have a Roughness value that falls outside the normal range of the Roughness value for the majority of the other points in the point 
+>cloud.
+>A **histogram** is a diagram that graphically represents the quantity of points that fall within equal ranges with rectangles that increase in size as more points fall within 
+>that range. 
 
 ![With the CloudCompare interface in the background, the larger
 Histogram showing the calculated roughness for PH 21\'s point cloud is
