@@ -74,7 +74,7 @@ with fingerprints and handprints and learn to:***
     combination of these approaches contribute to stronger
     interpretations of archaeological evidence.***
 
-##**Outputs**
+**Outputs**
 
 Throughout these exercises, in boxes labelled as 'Try it yourself!' or
 'Reflect and Write', you will be prompted to take a screenshot of your
