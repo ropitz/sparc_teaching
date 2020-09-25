@@ -47,8 +47,7 @@ individual fingerprint in CloudCompare.
 
 ![An image of the CloudCompare interface, indicating where the \'3D
 Views\' and \'Current Display\' dropdown menus are
-located.](media/image1.png){width="7.667331583552056in"
-height="4.27370406824147in"}
+located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-ff4e-11ea-889b-530599580e67.png)
 
 3.  After you have each of the individual fingerprints isolated on
     different 3D Views, ensure these meshes are uniformly flat as we did
