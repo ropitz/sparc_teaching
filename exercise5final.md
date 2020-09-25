@@ -144,8 +144,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-f
 
 ![In the CloudCompare interface, four potsherds with their roughness
 values applied as Scalar Fields are visible in four different 3D
-views.](media/image7.png){width="9.680753499562554in"
-height="4.218522528433946in"}
+views.](https://user-images.githubusercontent.com/67739490/94292423-d9861400-ff54-11ea-8391-c62c0207f02e.png)
 
 11. You may notice that the visualisation of the 'Roughness' calculation
     also proves quite useful in visual characterisation of the
