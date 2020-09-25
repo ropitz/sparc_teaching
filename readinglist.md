@@ -7,7 +7,7 @@
 -   MHC's Parker-Harris Pottery Online exhibit:
     <https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/parkerharris.htm>
 
--   MHC's Three Cranes Tavern Online exhibit:<https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/threecranes.htm>
+-   MHC's Three Cranes Tavern Online exhibit: <https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/threecranes.htm>
 
 **Ancient Fingerprints:**
 
