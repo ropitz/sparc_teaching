@@ -131,7 +131,7 @@ that the error is not interpreted as something culturally significant.
 reveals that the recording error, \'stripey data\', is a part of PH4_002
 scan. ](https://user-images.githubusercontent.com/67739490/94270663-53f46b00-ff38-11ea-9745-068987674a05.png)
 
->**Try it yourself!** Try these steps with at least another three potsherds from the Boston Fingerprints datasets – can you orient the 3D models to match the reference image and >find the fingerprints on the 3D models? Assess whether these fingerprints are defined enough to identify ridge patterns. 
+>**Try it yourself!** Try these steps with at least another three potsherds from the Boston Fingerprints datasets – can you orient the 3D models to match the reference image and find the fingerprints on the 3D models? Assess whether these fingerprints are defined enough to identify ridge patterns. 
 
 >**Reflect and Write**
 >1.	What else can you tell about the pottery from looking at these 3D models? What stages of the manufacturing processes can you identify? Were the surfaces of the potsherds all >treated in the same way? Take notes on the differences in appearance between the sherds – are these signs for different manufacturing processes? Do you think these were choices >made by the individual potter, or do these hint at different vessel types with different uses?
