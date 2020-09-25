@@ -308,7 +308,10 @@ of the mesh are white. ](https://user-images.githubusercontent.com/67739490/9428
 Radiance Scaling has been applied, but the display mode has been changed
 to Colored Descriptor. This brings out the ridges of the fingerprint
 despite the raised ridge of clay disrupting the centre of the
-fingerprint.](media/image19.PNG){width="8.958333333333334in"
-height="4.50997375328084in"}
+fingerprint.](https://user-images.githubusercontent.com/67739490/94282483-ce78b700-ff47-11ea-858a-51acc176d141.png)
 
-![](media/image20.png){width="3.7375in" height="3.9583333333333335in"}
+>**Reflect and Write** 
+>-   Try these visualisation processes with a flatter fingerprint from a different potsherd of your choice – do you run across the same issues? Does the curvature of the potsherd itself have a significant impact on the Z coordinates of the fingerprint?
+>-   Take a screenshot of what you think is an informative visualisation of a fingerprint from any of the potsherds in the Boston Fingerprints archive, and add this to your gallery – what are the benefits to this visualisation over the others explored here? Write an extended caption explaining why.
+
+![A screenshot of one of the fingerprint meshes run through the Fingerprint Minutiae Viewer software. Features potentially key to fingerprint identification have been highlighted with green rectangles.](media/image20.png){width="3.7375in" height="3.9583333333333335in"}
