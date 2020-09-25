@@ -278,8 +278,7 @@ color scale.](https://user-images.githubusercontent.com/67739490/94281910-1f3be0
     to 'Color'. For now, change this to white.
 
 ![A screenshot of edits being made to the copied color
-scale.](media/image17.PNG){width="9.693055555555556in"
-height="4.406944444444444in"}
+scale.](https://user-images.githubusercontent.com/67739490/94282312-91acc000-ff47-11ea-8bd5-ea2bc4938af4.png)
 
 8.  Now change the slider on the right side of the bar to black. Click
     apply and save the modifications.
