@@ -1,6 +1,6 @@
 **Exercise 1: Familiarising Yourself with 3D Data in Meshlab**
 
-**(10 minute video, allow at least 30 minutes for Exercise 1)**
+**(Allow at least 30 minutes for Exercise 1)**
 
 The purpose of this initial exercise is to:
 
