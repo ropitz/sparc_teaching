@@ -53,6 +53,13 @@ physical object become much more obvious when applied to the 3D model.
 In Exercise 3, we will begin with using the Z coordinates, which
 represent the relative height of the mesh surface.
 
+>**Shaders vs Morphometrics** While they can both be used to visualise data, **Shaders** function differently from **Morphometric Parameters**. As noted above in Exercise 1, Shaders take multiple factors into their calculation, including: lighting position and transparency, view position, material properties, and the shape of the 3D surface. Morphometrics are simpler in that they only take into account the shape of the 3D surface; however, there are a wide variety of morphometric parameters that can be used  in morphometrics (height, length, width, roughness, curvature) and can be used in quantitative applications, which will be explored more fully in Exercises 4 and 5.
+
+>**Roughness and Curvature** ‘Roughness’ and ‘Curvature’ are calculated using statistics. As defined by CloudCompare…
+>•	Roughness: “For each point, the 'roughness' value is equal to the distance between this point and the best fitting plane computed on its nearest neighbours.”
+>•	Curvature: “The curvature at each point is estimated by best fitting a quadric around it based on its nearest neighbours.”
+>Both of these calculations rely on a ‘nearest neighbours’ approach. While this concept can be applied differently in different fields, essentially the software determines whether a point is ‘different’ by looking at its neighbours within a given radius defined by the user. If a point’s elevation is quite similar compared to the plane formed by its neighbouring points, it will not be attributed to a high ‘roughness’ value. 
+
 **Getting Started**
 
 1.  To start, 'Open' both of the .stl files from PH 13 (you can also use
