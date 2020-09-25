@@ -44,9 +44,7 @@ PH_2 imported.](https://user-images.githubusercontent.com/67739490/94268556-42f6
     the 3D data on or off. When a file name is highlighted in yellow,
     this means changes will be made to this mesh only.
 
-3.  To turn off the colour of the 3D models, select the file name, and
-    > switch the Color setting from 'Face' to 'User-Def'. Repeat this
-    > step for the second STL file.
+3.  To turn off the colour of the 3D models, select the file name, and switch the Color setting from 'Face' to 'User-Def'. Repeat this step for the second STL file.
 
 ![The same screenshot as before, with the two files for PH_2\'s 3D model
 imported in Meshlab. However, the colour has been removed from one of
