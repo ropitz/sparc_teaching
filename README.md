@@ -5,7 +5,7 @@ This repository contains teaching materials designed to introduce university lev
 ### Licensing
 These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
-![License Image](https://creativecommons.org/images/deed/attribution_icon_white_x2.png)
+![License Image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 
 ### Table of Contents
 [Introduction](/introfinalbp.md)
