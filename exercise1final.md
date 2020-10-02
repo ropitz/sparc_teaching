@@ -137,5 +137,5 @@ scan. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20in
 >1.	What else can you tell about the pottery from looking at these 3D models? What stages of the manufacturing processes can you identify? Were the surfaces of the potsherds all >treated in the same way? Take notes on the differences in appearance between the sherds – are these signs for different manufacturing processes? Do you think these were choices >made by the individual potter, or do these hint at different vessel types with different uses?
 >2.	Try different shaders – are there any that define these details further? Take a screenshot of a potsherd with a different shader applied; write a long caption for the image >reflecting on how well this visualisation informs you about the artefact itself.
 
-[To Exercise 2:  Taking measurements in Meshlab](/exercise2final.md)
+[Back to the Introduction](/introfinalbp.md) | [To Exercise 2:  Taking measurements in Meshlab](/exercise2final.md)
 
