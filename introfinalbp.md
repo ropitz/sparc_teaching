@@ -123,7 +123,7 @@ as a separate image file, like a .tif or .jpg file, or an .mtl file
 ![On the left, a close up image of a point cloud from one of the Boston
 Fingerprints ceramics. On the right, triangles have been generated
 between these points to create a
-mesh.](https://user-images.githubusercontent.com/67739490/94265716-ea249300-ff30-11ea-9e4b-ace2fc458230.png)
+mesh.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Intro/Intro%201.png?raw=true)
 
 ***What kinds of questions can be addressed through the analysis of
 archived 3D models?***
@@ -274,7 +274,7 @@ space).
 
 ![A table that lists subsets of files that would be most useful during
 the exercises, in case users do not have much storage space on their
-computer.](https://user-images.githubusercontent.com/67739490/94265882-2ce66b00-ff31-11ea-879a-b3e6e01eaebe.png)
+computer.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Intro/Intro%202.png?raw=true)
 
 **The Archaeological Context for the Data**
 
