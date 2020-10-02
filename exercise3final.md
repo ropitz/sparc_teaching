@@ -34,7 +34,7 @@ CloudCompare requires more work.
 
 One big difference between CloudCompare and Meshlab is that, while you
 can work with 3D meshes in CloudCompare, the software was initially
-designed to work with **point clouds**, as the name 'CloudCompare'
+designed to work with [**point clouds**](/glossary.md), as the name 'CloudCompare'
 suggests. As described above in the introduction of this document, the
 point cloud is the cluster of individual points that are recorded by a
 3D recording technique, whether this was by photogrammetry, structured
@@ -53,9 +53,9 @@ physical object become much more obvious when applied to the 3D model.
 In Exercise 3, we will begin with using the Z coordinates, which
 represent the relative height of the mesh surface.
 
->**Shaders vs Morphometrics** While they can both be used to visualise data, **Shaders** function differently from **Morphometric Parameters**. As noted above in Exercise 1, Shaders take multiple factors into their calculation, including: lighting position and transparency, view position, material properties, and the shape of the 3D surface. Morphometrics are simpler in that they only take into account the shape of the 3D surface; however, there are a wide variety of morphometric parameters that can be used  in morphometrics (height, length, width, roughness, curvature) and can be used in quantitative applications, which will be explored more fully in Exercises 4 and 5.
+>**Shaders vs Morphometrics** While they can both be used to visualise data, **Shaders** function differently from [**Morphometric Parameters**](/glossary.md). As noted above in Exercise 1, Shaders take multiple factors into their calculation, including: lighting position and transparency, view position, material properties, and the shape of the 3D surface. Morphometrics are simpler in that they only take into account the shape of the 3D surface; however, there are a wide variety of morphometric parameters that can be used  in morphometrics (height, length, width, roughness, curvature) and can be used in quantitative applications, which will be explored more fully in Exercises 4 and 5.
 
->**Roughness and Curvature** ‘Roughness’ and ‘Curvature’ are calculated using statistics. As defined by CloudCompare…
+>**Roughness and Curvature** [‘Roughness’ and ‘Curvature’](/glossary.md) are calculated using statistics. As defined by CloudCompare…
 >-   Roughness: “For each point, the 'roughness' value is equal to the distance between this point and the best fitting plane computed on its nearest neighbours.”
 >-   Curvature: “The curvature at each point is estimated by best fitting a quadric around it based on its nearest neighbours.”
 
@@ -177,8 +177,8 @@ levelling option in
 action.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20PH%207.png?raw=true)
 
 2.  An automated option for levelling the mesh is provided under
-    'Tools', called 'Fit' to plane. This produces a **transformation
-    matrix** in the 'Console' area of the screen (usually at the bottom
+    'Tools', called 'Fit' to plane. This produces a [**transformation
+    matrix**](/glossary.md) in the 'Console' area of the screen (usually at the bottom
     of the window) that will align your mesh to the plane it has
     calculated. A matrix is an array that, in this case, dictates how
     the mesh needs to be mathematically rotated and translated to align
@@ -212,7 +212,7 @@ view.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20ind
 4.  Once the 3D model is aligned, navigate to 'Scalar Fields' from the
     'Edit' dropdown menu and select 'Export coordinate(s) to SF(s)'.
     Ensure that the checkbox next to 'Z' is selected before you hit
-    'Ok'. A **Scalar Field**, as defined in the CloudCompare manual, is
+    'Ok'. A [**Scalar Field**](/glossary.md), as defined in the CloudCompare manual, is
     'a set of values (one value per point)'; CloudCompare allows a value
     associated with a point/vertex to be displayed as colours or have
     filters or basic math operations applied to them. In this case, we
