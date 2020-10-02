@@ -67,7 +67,7 @@ represent the relative height of the mesh surface.
     Ctrl+O). Your screen should look something like the image below.
 
 ![A screenshot of the CloudCompare interface with both scans of PH 13
-imported.](https://user-images.githubusercontent.com/67739490/94279757-78564480-ff44-11ea-8941-e389118ae0c0.png)
+imported.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%201.png?raw=true)
 
 2.  In the top left section of the workspace, you can see a window that
     says 'DB Tree' at the top (which is short for 'DataBase Tree'). This
@@ -83,7 +83,7 @@ imported.](https://user-images.githubusercontent.com/67739490/94279757-78564480-
 ![This image shows the CloudCompare interface and shows how to merge two
 meshes into a single mesh using the \'Merge Multiple Clouds\' icon. This
 icon is highlighted with a red box in the
-image.](https://user-images.githubusercontent.com/67739490/94279854-98860380-ff44-11ea-8657-ea46371fc142.png)
+image.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%202.png?raw=true)
 
 3.  Rotating the mesh is slightly different in CloudCompare, as the
     trackball is not constantly visible. Click and hold the mesh -- the
@@ -93,7 +93,7 @@ image.](https://user-images.githubusercontent.com/67739490/94279854-98860380-ff4
     'Segment' tool in CloudCompare.
 
 >**Try it yourself!** 
->-   Kimberlee S Moran, a forensic archaeologist who specialises in ancient fingerprints, has produced a ‘Fingerprinting Handout’ that introduces the key features fingerprint analysts use to differentiate between fingerprints. In this handout, we can see that the print in the centre of the sherd PH 13 does not exhibit any of the three basic print patterns: arch, loop, or whorl. Instead, these ridges all seem to be travelling parallel to each other (although the significantly raised clay in the centre makes it difficult to be certain). Examine your own fingers and hands – are there any areas that exhibit a similar pattern? What might have caused the raised area in the centre?
+>-   Kimberlee S Moran, a forensic archaeologist who specialises in ancient fingerprints, has produced a [Fingerprinting Handout](https://www.academia.edu/13761528/Fingerprinting_Handout) that introduces the key features fingerprint analysts use to differentiate between fingerprints. In this handout, we can see that the print in the centre of the sherd PH 13 does not exhibit any of the three basic print patterns: arch, loop, or whorl. Instead, these ridges all seem to be travelling parallel to each other (although the significantly raised clay in the centre makes it difficult to be certain). Examine your own fingers and hands – are there any areas that exhibit a similar pattern? What might have caused the raised area in the centre?
 >-   As archaeologists, it is also important to consider at what stage of the manufacturing process these prints might have been made – the prints are made over the striations from the manufacturing processes, the clay was wet enough that prints were able to be made, and the prints were not effaced by the potter. What step in the manufacturing process might these prints represent? It could be that the print centrally positioned on the sherd represents a lower joint of the finger, rather than a fingertip. It could also be that this represents a partial hand-print, and that the clay ridge could have been caused by a palmar crease. If the former is true, the less well-defined print could be the fingerprint that we would want to examine, but is this detailed enough to identify features?
 
 
@@ -115,7 +115,7 @@ the toolbar) has been selected, so a new toolbar has appeared in the top
 right corner of the screen. After selecting the region of the
 fingerprint, the \'segment in\' option can be selected (again,
 highlighted in a red box and
-labelled).](https://user-images.githubusercontent.com/67739490/94280084-e569da00-ff44-11ea-8316-452f61f92132.png)
+labelled).](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%203.png?raw=true)
 
 2.  Once you have selected 'Segment In', the Segmentation function will
     pause. You can now rotate the area you have selected to ensure you
@@ -140,7 +140,7 @@ labelled).](https://user-images.githubusercontent.com/67739490/94280084-e569da00
 ![In Cloud Compare, a single fingerprint from PH 13 has been segmented
 from the rest of the mesh. In the Database Tree, a red rectangle
 highlights that users should double click on the file name to rename the
-mesh.](https://user-images.githubusercontent.com/67739490/94280597-7f318700-ff45-11ea-9fdc-bc1e6ed83853.png)
+mesh.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%204.png?raw=true)
 
 **Visualising 3D models in CloudCompare**
 
@@ -157,7 +157,7 @@ DB Tree).
 
 ![An image of part of the CloudCompare toolbar. The \'Clone\' icon is
 highlighted with a red
-rectangle.](https://user-images.githubusercontent.com/67739490/94280851-d172a800-ff45-11ea-8b78-7982083eca97.png)
+rectangle.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%205.png?raw=true)
 
 1.  First, it is important that the fingerprint is as 'flat' as it can
     be in the 3D space, so that the software can recognise the high
@@ -171,10 +171,10 @@ rectangle.](https://user-images.githubusercontent.com/67739490/94280851-d172a800
 
 ![A part of another toolbar is presented here with a red rectangle
 highlighting the icon that would allow users to pick three points on the
-mesh to level the mesh. ](https://user-images.githubusercontent.com/67739490/94280928-ea7b5900-ff45-11ea-8de8-446e662ef1b6.png)
+mesh to level the mesh. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%206.png?raw=true)
 ![A snapshot of the \'pick three points\'
 levelling option in
-action.](https://user-images.githubusercontent.com/67739490/94281058-11398f80-ff46-11ea-8345-ef6d3287a62d.png)
+action.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20PH%207.png?raw=true)
 
 2.  An automated option for levelling the mesh is provided under
     'Tools', called 'Fit' to plane. This produces a **transformation
@@ -200,14 +200,14 @@ action.](https://user-images.githubusercontent.com/67739490/94281058-11398f80-ff
 ![This image shows how to apply the transformation if using the \'Fit to
 plane\' levelling option. It shows where to find the transformation
 matrix in the console portion of the CloudCompare
-interface.](https://user-images.githubusercontent.com/67739490/94281206-40500100-ff46-11ea-8ea7-99d0f5eef803.png)
+interface.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%208.png?raw=true)
 
 ![A screenshot showing where to paste the transformation
-matrix.](https://user-images.githubusercontent.com/67739490/94281318-62e21a00-ff46-11ea-950b-4d5a39efa34d.png)
+matrix.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%209.png?raw=true)
 
 ![After the transformation has been applied, check the box next to the
 plane to remove it from
-view.](https://user-images.githubusercontent.com/67739490/94281393-79887100-ff46-11ea-8f6f-599f0209ee09.png)
+view.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2010.png?raw=true)
 
 4.  Once the 3D model is aligned, navigate to 'Scalar Fields' from the
     'Edit' dropdown menu and select 'Export coordinate(s) to SF(s)'.
@@ -227,7 +227,7 @@ view.](https://user-images.githubusercontent.com/67739490/94281393-79887100-ff46
 
 ![A screenshot showing the interface to export the Z coordinates of the
 3D model to the Scalar
-Field.](https://user-images.githubusercontent.com/67739490/94281491-9cb32080-ff46-11ea-9099-b8a291def14d.png)
+Field.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2011.png?raw=true)
 
 5.  If you highlight the 3D model and navigate to the 'Properties'
     window (often automatically pinned below the DB Tree window), you
@@ -238,11 +238,11 @@ Field.](https://user-images.githubusercontent.com/67739490/94281491-9cb32080-ff4
 
 ![A screenshot of the Properties window to show how to set the Scalar
 field as the color of the 3D
-mesh.](https://user-images.githubusercontent.com/67739490/94281620-c10efd00-ff46-11ea-97a4-bcdac268e82f.png)
+mesh.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20PH%2012.png?raw=true)
 
 ![A screenshot of the fingerprint mesh with its color set to Scalar
 field and a Viridis color scale
-applied.](https://user-images.githubusercontent.com/67739490/94281757-f0be0500-ff46-11ea-9d9d-8ef91e03467f.png)
+applied.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2013.png?raw=true)
 
 6.  From the SF display params, using the Viridis setting (above), you
     can see that the highest values are yellow, while the lowest values
@@ -257,13 +257,13 @@ applied.](https://user-images.githubusercontent.com/67739490/94281757-f0be0500-f
 
 ![A close up of the CloudCompare toolbar with the Color Scale
 Editor/Manager icon highlighted with a red
-box.](https://user-images.githubusercontent.com/67739490/94281838-08958900-ff47-11ea-86e7-29658608cb4b.png)
+box.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2014.png?raw=true)
 
 ![A screenshot showing the Color Scale Editor prior to copying the Grey
-color scale.](https://user-images.githubusercontent.com/67739490/94281910-1f3be000-ff47-11ea-8473-5361f813e075.png)
+color scale.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2015.png?raw=true)
 
 ![A screenshot of the mesh with a grey color scale applied.
-](https://user-images.githubusercontent.com/67739490/94282025-4397bc80-ff47-11ea-9a69-411a020472e2.png)
+](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2016.png?raw=true)
 
 >**Reflect**
 >-   Notice that this preset Grey Color Scale does not reflect what one might expect from the image of a fingerprint – the raised ridges of the fingerprint receive the black ink and leave their impression on a piece of paper. The ‘peaks’ of the fingerprint then make up the darkest part of a fingerprint, while the ‘valleys’ create the white space in between. This preset Grey Color Scale instead assumes that the highest points of the 3D model should be bright and low points should be dark.
@@ -278,7 +278,7 @@ color scale.](https://user-images.githubusercontent.com/67739490/94281910-1f3be0
     to 'Color'. For now, change this to white.
 
 ![A screenshot of edits being made to the copied color
-scale.](https://user-images.githubusercontent.com/67739490/94282312-91acc000-ff47-11ea-8bd5-ea2bc4938af4.png)
+scale.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2017.png?raw=true)
 
 8.  Now change the slider on the right side of the bar to black. Click
     apply and save the modifications.
@@ -291,7 +291,7 @@ scale.](https://user-images.githubusercontent.com/67739490/94282312-91acc000-ff4
 
 ![A screenshot of the fingerprint where the grey color scale has been
 inverted. Now the raised ridge of clay is black, while the lower parts
-of the mesh are white. ](https://user-images.githubusercontent.com/67739490/94282412-b43ed900-ff47-11ea-8935-9ec887f1e335.png)
+of the mesh are white. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2018.png?raw=true)
 
 10. While the above image appears more similar to how we might visualise
     a fingerprint, the raised ridge of clay along the centre is clearly
@@ -308,7 +308,7 @@ of the mesh are white. ](https://user-images.githubusercontent.com/67739490/9428
 Radiance Scaling has been applied, but the display mode has been changed
 to Colored Descriptor. This brings out the ridges of the fingerprint
 despite the raised ridge of clay disrupting the centre of the
-fingerprint.](https://user-images.githubusercontent.com/67739490/94282483-ce78b700-ff47-11ea-858a-51acc176d141.png)
+fingerprint.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2019.png?raw=true)
 
 >**Reflect and Write** 
 >-   Try these visualisation processes with a flatter fingerprint from a different potsherd of your choice – do you run across the same issues? Does the curvature of the potsherd itself have a significant impact on the Z coordinates of the fingerprint?
@@ -323,4 +323,4 @@ fingerprint.](https://user-images.githubusercontent.com/67739490/94282483-ce78b7
 >     -   Once you have installed FMV, you can open your new image of the fingerprint in the software and see what Minutiae are identified. Be sure to critically analyse these – do the features highlighted in green appear to be reliable, distinctive features, as highlighted in Kimberlee Moran’s handout, or do they appear to be digital artefacts? 
 
 
-![A screenshot of one of the fingerprint meshes run through the Fingerprint Minutiae Viewer software. Features potentially key to fingerprint identification have been highlighted with green rectangles.](https://user-images.githubusercontent.com/67739490/94282802-28797c80-ff48-11ea-8ff2-d80f5cd09244.png)
+![A screenshot of one of the fingerprint meshes run through the Fingerprint Minutiae Viewer software. Features potentially key to fingerprint identification have been highlighted with green rectangles.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2020.png?raw=true)
