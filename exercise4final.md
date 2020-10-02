@@ -47,7 +47,7 @@ individual fingerprint in CloudCompare.
 
 ![An image of the CloudCompare interface, indicating where the \'3D
 Views\' and \'Current Display\' dropdown menus are
-located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-ff4e-11ea-889b-530599580e67.png)
+located.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%204/Ex%204%20Ph%201.png?raw=true)
 
 3.  After you have each of the individual fingerprints isolated on
     different 3D Views, ensure these meshes are uniformly flat as we did
@@ -104,7 +104,7 @@ located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-f
 > of 1.1184 and with checked boxes next to Roughness and Surface
 > Variation. Finally, on the right, a screenshot of the mesh properties,
 > showing that the Color Scale should be marked as
-> visible.](https://user-images.githubusercontent.com/67739490/94287879-bc4e4700-ff4e-11ea-91e4-47783b7c6fb9.png)
+> visible.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%204/Ex%204%20Ph%202.png?raw=true)
 
 5.  Begin alternating between 3D viewports to observe the differences in
     roughness between these fingerprints. Take note of the numbers at
@@ -147,4 +147,4 @@ located.](https://user-images.githubusercontent.com/67739490/94287750-96c13d80-f
 ![A screenshot of a fingerprint from PH 25 that appears to have been
 made when the pot was wet because of the peaks and pooling of clay
 evident. In this image, the Roughness calculation has been applied as a
-Scalar field.](https://user-images.githubusercontent.com/67739490/94288227-1818d000-ff4f-11ea-909b-7fd92c0457e1.png)
+Scalar field.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%204/Ex%204%20Ph%203.png?raw=true)
