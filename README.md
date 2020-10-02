@@ -9,3 +9,11 @@ These teaching materials are made available under a [Creative Commons CC-BY 4.0 
 
 ### Table of Contents
 [Introduction](/introfinalbp.md)
+[Exercise 1](/exercise1final.md)
+[Exercise 2](/exercise2final.md)
+[Exercise 3](/exercise3final.md)
+[Exercise 4](/exercise4final.md)
+[Exercise 5](/exercise5final.md)
+[Conclusion](/conclusion.md)
+[Reading List](/readinglist.md)
+[Glossary](/glossary.md)
