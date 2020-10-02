@@ -317,4 +317,4 @@ Please note that the keystrokes and shortcuts in this tutorial are for
 Windows, and those using Mac OS will need to identify alternative
 keystrokes.
 
-[To Exercise 1](/exercise1final.md)
+[To Exercise 1:Familiarising Yourself with 3D Data in Meshlab](/exercise1final.md)
