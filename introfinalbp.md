@@ -316,3 +316,5 @@ disk space will be required to install CloudCompare.
 Please note that the keystrokes and shortcuts in this tutorial are for
 Windows, and those using Mac OS will need to identify alternative
 keystrokes.
+
+[To Exercise 1](/exercise1final.md)
