@@ -101,16 +101,16 @@ a monument, or an artefact.
 ***What is a 3D model?***
 
 Essentially, a 3D model is made up of a [**point cloud**](/glossary.md) (below left) and
-**polygons**(/glossary.md) generated between those points (below right). The point
+**polygons** generated between those points (below right). The point
 cloud is captured when the digital imaging technique measures and
 records the surface of an object as calculated points in
 three-dimensional space; each point is defined by a set of coordinates
 on the X, Y and Z planes. Triangular polygons are then generated between
-these points until a 'solid' **mesh** is created. If the colour of the
+these points until a 'solid' [**mesh**](/glossary.md) is created. If the colour of the
 recorded object is also captured by the digital imaging technique, this
 will be stored with the point cloud and transferred to the mesh.
 Depending on the technique used, it may also be possible to create a
-photorealistic **texture,** a flat image that can be 'draped' over the
+photorealistic [**texture,**](/glossary.md) a flat image that can be 'draped' over the
 3D model to give it a more realistic appearance. A texture can also be
 created independently and applied to a 3D model with no colour
 information. 3D models can be saved in a variety of file types,
@@ -145,7 +145,7 @@ representations.
 **How to identify a reusable dataset that is appropriate to your
 research aim -- A guide to metadata**
 
-**What is metadata? --** Metadata is information that describes other
+**What is metadata? --** [Metadata](/glossary.md) is information that describes other
 data. In this case, metadata is information that describes the 3D
 dataset. The basic metadata for a 3D model should, at a bare minimum,
 describe the file formats of the data, the creators of the data, when
@@ -285,7 +285,7 @@ Tavern (TC). The sites were 100 metres apart; tightly dated ceramics
 assemblages were found at both sites, and it was clear that the
 Parker-Harris Pottery was supplying the tavern with coarse earthenware
 ceramics. The potsherds and
-[trivets](https://www.sec.state.ma.us/mhc/mhcarchexhibitsonline/parkerharris.htm)
+[trivets](/glossary.md)
 in this dataset were scanned because fingerprints and handprints were
 visible in their fabric; if the fingerprints could be matched between
 these sites and pinpointed to specific potters employed by the pottery,
