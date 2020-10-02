@@ -51,7 +51,7 @@ imported in Meshlab. However, the colour has been removed from one of
 the two .stl files, so the 3D model appears banded, grey speckled with
 the real potsherd colour.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%202.png?raw=true)
 
-4.  To accentuate the topography of the 3D model, **Shaders** can be
+4.  To accentuate the topography of the 3D model, [**Shaders**](/glossary.md) can be
     applied. Meshlab provides a variety of options for these under the
     **'Render'** dropdown menu. One that is particularly useful here is
     the **'Radiance Scaling'** shader. A menu should pop up -- to
