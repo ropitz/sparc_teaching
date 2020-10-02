@@ -233,3 +233,5 @@ treatments.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for
 
 >**Reflect and Write!**
 >Calculate different morphometric parameters for each of your potsherds – are there any that distinguish between the different surface treatments quite well? Take a screenshot of the parameter that works best and write a short caption on why this is. 
+
+[Conclusion](/conclusion.md)
