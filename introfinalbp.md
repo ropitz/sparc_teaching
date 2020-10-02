@@ -318,3 +318,5 @@ Windows, and those using Mac OS will need to identify alternative
 keystrokes.
 
 [To Exercise 1: Familiarising Yourself with 3D Data in Meshlab](/exercise1final.md)
+
+[To the Reading List](/readinglist.md)
