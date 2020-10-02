@@ -37,7 +37,7 @@ potsherds from the dataset. In this exercise, you will learn to:
 
 ![A screenshot of TC_23 in the CloudCompare interface, with the vertices
 layer highlighted in the DB Tree. A red box highlights the Point Picker
-tool on the toolbar.](https://user-images.githubusercontent.com/67739490/94291971-3af9b300-ff54-11ea-9f26-7801acad60fb.png)
+tool on the toolbar.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%201.png?raw=true)
 
 4.  A new toolbar will appear in the top right corner of the 3D viewer
     -- to measure between two points, choose the second icon, and then
@@ -59,10 +59,10 @@ tool on the toolbar.](https://user-images.githubusercontent.com/67739490/9429197
 
 ![Two points have been picked to measure the length of a tool mark on TC
 23. The point picker toolbar is highlighted in the top right
-corner.](https://user-images.githubusercontent.com/67739490/94292047-5795eb00-ff54-11ea-80db-0232a575a845.png)
+corner.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%202.png?raw=true)
 
 ![A close up of the measurement of the width of the tool mark on TC 23.
-It is roughly 4.1mm wide.](https://user-images.githubusercontent.com/67739490/94292112-6e3c4200-ff54-11ea-855e-38a70bef4df9.png)
+It is roughly 4.1mm wide.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%203.png?raw=true)
 
 5.  Import some more potsherds and see how their surface treatment
     differs. I have chosen PH_21 for this next set of measurements --
@@ -82,7 +82,7 @@ It is roughly 4.1mm wide.](https://user-images.githubusercontent.com/67739490/94
 ![On the left, a trailed band is measured on PH 21. It is roughly 6.9mm
 wide. On the right, a trailed band from a lower position on the same
 vessel measures 6.8mm
-wide.](https://user-images.githubusercontent.com/67739490/94292180-81e7a880-ff54-11ea-8d85-481f0ad2a850.png)
+wide.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%204.png?raw=true)
 
 6.  You may wish to compare two potsherds side by side in real time;
     this is useful because they will both be at the same scale in the
@@ -100,7 +100,7 @@ wide.](https://user-images.githubusercontent.com/67739490/94292180-81e7a880-ff54
 
 ![A screenshot of both TC 23 and PH 21 in the same 3D View. The
 \'Translate/Rotate\' tool is highlighted with a red box on the
-toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-ff54-11ea-80b5-8a1a78c3a5a6.png)
+toolbar.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%205.png?raw=true)
 
 7.  Recall that, if you want to allocate these 3D models to different 3D
     spaces, you can do this with the '3D Views' drop down menu.
@@ -118,7 +118,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-f
 > ![A screenshot showing PH 21 and TC 23 in different 3D views in
 > different tiles. The 3D views dropdown menu and the Current display
 > option under the mesh Properties are both highlighted with red
-> boxes.](https://user-images.githubusercontent.com/67739490/94292359-c07d6300-ff54-11ea-935a-f90b8f1223b8.png)
+> boxes.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%206.png?raw=true)
 
 8.  Instead of individual measurements, what if we used 'Roughness' as a
     method of characterising the different surface treatments? First,
@@ -144,7 +144,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292270-a2affe00-f
 
 ![In the CloudCompare interface, four potsherds with their roughness
 values applied as Scalar Fields are visible in four different 3D
-views.](https://user-images.githubusercontent.com/67739490/94292423-d9861400-ff54-11ea-8391-c62c0207f02e.png)
+views.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%207.png?raw=true)
 
 11. You may notice that the visualisation of the 'Roughness' calculation
     also proves quite useful in visual characterisation of the
@@ -161,7 +161,7 @@ red triangle representing the maximum saturation value is circled in
 red. In the bottom image, the pottery wheel striations are more visible
 in PH 12 because the maximum saturation value has been decreased by
 dragging the red triangle to the
-left.](https://user-images.githubusercontent.com/67739490/94292502-f884a600-ff54-11ea-9abe-694366fff7d5.png)
+left.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%208.png?raw=true)
 
 12. As you compare the Roughness values of your chosen sherds, you may
     notice that some are characterised differently from what you'd
@@ -195,7 +195,7 @@ left.](https://user-images.githubusercontent.com/67739490/94292502-f884a600-ff54
 Histogram showing the calculated roughness for PH 21\'s point cloud is
 visible on the right side of the image. The icon to bring up this larger
 histogram is highlighted with a red box on the
-toolbar.](https://user-images.githubusercontent.com/67739490/94292654-22d66380-ff55-11ea-8b97-e1e748f2fe10.png)
+toolbar.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%209.png?raw=true)
 
 13. Another way to deal with outliers is to work with the 'SF display
     params' as we did in step 11 of this exercise.
@@ -220,7 +220,7 @@ toolbar.](https://user-images.githubusercontent.com/67739490/94292654-22d66380-f
 post-depositional pitting previously visible on many of the potsherds is
 now greyed out. This is reflected in the Color Scale to the right of
 each potsherd, which now show a more reliable Roughness value for their
-respective sherds.](https://user-images.githubusercontent.com/67739490/94293324-01c24280-ff56-11ea-8c81-e567382887d0.png)
+respective sherds.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%2010.png?raw=true)
 
 >**Try it yourself!**
 >-   Open the histograms for each sherd; after removing the post-depositional outliers, how well does Roughness value distinguish between the different surface treatments you have observed?
@@ -229,7 +229,7 @@ respective sherds.](https://user-images.githubusercontent.com/67739490/94293324-
 ![A close up of the four potsherds after the Maximum Scalar Values have
 been decreased to remove outliers, followed by decreasing the Maximum
 Saturation values to highlight the subtler surface
-treatments.](https://user-images.githubusercontent.com/67739490/94293413-1f8fa780-ff56-11ea-8e75-0d451a18226e.png)
+treatments.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%205/Ex%205%20Ph%2011.png?raw=true)
 
 >**Reflect and Write!**
 >Calculate different morphometric parameters for each of your potsherds – are there any that distinguish between the different surface treatments quite well? Take a screenshot of the parameter that works best and write a short caption on why this is. 
