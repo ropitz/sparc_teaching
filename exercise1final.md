@@ -34,7 +34,7 @@ techniques identifiable?).
     look like this.
 
 ![A screenshot of Meshlab with the two files comprising the 3D model of
-PH_2 imported.](https://user-images.githubusercontent.com/67739490/94268556-42f62a80-ff35-11ea-9b32-1f7fb9ca823e.PNG)
+PH_2 imported.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20PH%201.PNG?raw=true)
 
 2.  On the left, you can view the 3D model. Note the two lines and
     circle surrounding the sherd -- this is called the **trackball** and
