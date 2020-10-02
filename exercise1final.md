@@ -49,7 +49,7 @@ PH_2 imported.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20
 ![The same screenshot as before, with the two files for PH_2\'s 3D model
 imported in Meshlab. However, the colour has been removed from one of
 the two .stl files, so the 3D model appears banded, grey speckled with
-the real potsherd colour.](https://user-images.githubusercontent.com/67739490/94268717-7f298b00-ff35-11ea-9d69-a1c2bb642b58.png)
+the real potsherd colour.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%202.png?raw=true)
 
 4.  To accentuate the topography of the 3D model, **Shaders** can be
     applied. Meshlab provides a variety of options for these under the
@@ -62,7 +62,7 @@ the real potsherd colour.](https://user-images.githubusercontent.com/67739490/94
 Scaling shader has been applied, which highlights the striations of the
 potsherd\'s fabric. A fingerprint is faintly visible. There are several
 holes in the mesh, especially on the right side of the
-image.](https://user-images.githubusercontent.com/67739490/94268839-a718ee80-ff35-11ea-8c3d-e0f4ebc1b595.png)
+image.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%203.png?raw=true)
 
 
 >**What is a Shader?** Shaders are powerful visualisation tools. They render the appearance of the surface based on a number of factors, including lighting position and >transparency, view position, material properties, and shape of  the 3D surface. Complicated algorithms underly these shaders – take a look at this publication on Meshlab’s >Radiance Scaling algorithm to get a sense of the complexity!
@@ -85,7 +85,7 @@ image.](https://user-images.githubusercontent.com/67739490/94268839-a718ee80-ff3
 the reference image for PH_2 has been opened. It is a photograph of the
 potsherd resting on its artefact bag. The left side shows the 3D model
 aligned in Meshlab to match the alignment of the photograph of the
-potsherd.](https://user-images.githubusercontent.com/67739490/94270449-f52ef180-ff37-11ea-8125-c282c2e5b2fe.png)
+potsherd.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%204.png?raw=true)
 
 **Potential Data Capture Issues**
 
@@ -102,7 +102,7 @@ examine the area to the right of the FP1 label, but on the 3D model, you
 should see a partial fingerprint preserved in the potsherd.
 
 ![A close-up on the 3D model of PH_2, with a red rectangle surrounding
-the fingerprint.](https://user-images.githubusercontent.com/67739490/94270550-1db6eb80-ff38-11ea-97bb-04fdb6ac2d2a.png)
+the fingerprint.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%205.png?raw=true)
 
 In addition to recording errors caused by the properties of the object
 (like the black, reflective glaze above), there are errors that can be
@@ -114,7 +114,7 @@ that some strange light-grey diagonal striations on the potsherd.
 ![A screenshot of the two stl files comprising the 3D model of a new
 potsherd, PH_4. Light grey striations are visible going obliquely over
 the sherd, but these are a result of a recording
-error.](https://user-images.githubusercontent.com/67739490/94270614-3e7f4100-ff38-11ea-92a9-10198085c92c.png)
+error.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%206.png?raw=true)
 
 If we turn off the visibility of STL_ph4_001 (by clicking the eye symbol
 next to the layer, highlighted in the red box below), we find that the
@@ -129,7 +129,7 @@ that the error is not interpreted as something culturally significant.
 
 ![Another screenshot of PH_4, but PH4_001 was been turned off. This
 reveals that the recording error, \'stripey data\', is a part of PH4_002
-scan. ](https://user-images.githubusercontent.com/67739490/94270663-53f46b00-ff38-11ea-9745-068987674a05.png)
+scan. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%207.png?raw=true)
 
 >**Try it yourself!** Try these steps with at least another three potsherds from the Boston Fingerprints datasets – can you orient the 3D models to match the reference image and find the fingerprints on the 3D models? Assess whether these fingerprints are defined enough to identify ridge patterns. 
 
