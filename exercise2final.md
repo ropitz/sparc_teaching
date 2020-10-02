@@ -41,12 +41,12 @@ still be recorded in the window in the bottom right corner.
 
 ![An image of a segment of the Meshlab Toolbar. The measuring tape icon
 is surrounded by a blue
-rectangle.](https://user-images.githubusercontent.com/67739490/94272164-96b74280-ff3a-11ea-9e05-0759b6148465.png)
+rectangle.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%202/Ex%202%20Ph%201a.png?raw=true)
 
 ![The Ph25 merged mesh has been imported into Meshlab and the Radiance
 Scaling shader applied. An orange line stretches across one of the
 fingerprints after a measurement has been
-made.](https://user-images.githubusercontent.com/67739490/94272227-adf63000-ff3a-11ea-8425-3bcca045497a.png)
+made.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%202/Ex%202%20Ph%201.png?raw=true)
 
 >**Try it yourself!** 
 >1.	For this exercise, open the STL file for PH_25. Begin by measuring the lengths of the fingerprints you can identify on PH_25. Examine your own fingers – Are your fingerprints longer, or about the same? If the fingerprints on PH_25 all belong to the same potter, can you guess at which finger(s) the prints might belong to? Take a screenshot of your measurements to add to your gallery.
@@ -54,7 +54,7 @@ made.](https://user-images.githubusercontent.com/67739490/94272227-adf63000-ff3a
 >3.	Are there any fingerprints that are unlikely to belong to the same hand/fingerprinting ‘event’? Why is this?
 
 
-![All five fingerprints and the spaces between four of these have been measured - orange lines stretch across and between these features. Each measurement has been labelled according to the distances recorded in the bottom right box. ](https://user-images.githubusercontent.com/67739490/94275280-aafd3e80-ff3e-11ea-8b3b-60a56c06cb1c.png)
+![All five fingerprints and the spaces between four of these have been measured - orange lines stretch across and between these features. Each measurement has been labelled according to the distances recorded in the bottom right box. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%202/Ex%202%20Ph%202.png?raw=true)
 
 One could interpret that the fingerprints M0, M1, M2 and M3 are from the
 same hand and the same 'event' of the potter touching the pot, but would
