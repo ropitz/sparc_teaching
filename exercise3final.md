@@ -325,4 +325,4 @@ fingerprint.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20fo
 
 ![A screenshot of one of the fingerprint meshes run through the Fingerprint Minutiae Viewer software. Features potentially key to fingerprint identification have been highlighted with green rectangles.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2020.png?raw=true)
 
-[To Exercise 4:  Quantitative Approaches to Interpretation](/exercise4final.md)
+[Back to Exercise 2](/exercise2final.md) | [To Exercise 4:  Quantitative Approaches to Interpretation](/exercise4final.md)
