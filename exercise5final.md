@@ -168,14 +168,14 @@ left.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20ind
     expect. For example, the maximum Roughness value of PH 12 is 0.319,
     closer in magnitude to PH 21 (0.382) and TC 23 (0.338) than PH 19
     (0.1), though PH 12's surface treatment appears quite visually
-    similar to PH 19. This could be, in part, affected by **outliers**
+    similar to PH 19. This could be, in part, affected by [**outliers**](/glossary.md)
     caused by post-depositional processes, like the pitting that appears
     red on the surface of the potsherd in the image above.
 
     a.  If we want to better understand the manufacturing process in
         relation to roughness, these outliers are not useful and should
         be excluded from our analysis. While the 'visible color scale'
-        provides a summary **histogram** on the right, you can view a
+        provides a summary [**histogram**](/glossary.md) on the right, you can view a
         larger version by selecting the mesh and 'Show Histogram' (the
         toolbar icon is highlighted with a red box below). Because the
         PH 21 sherd is uneven (though mostly due to the design of the
@@ -185,10 +185,10 @@ left.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20ind
         
 >**Outliers and Histograms**
 > 
->**Outliers** are points which, in this case, have a Roughness value that falls outside the normal range of the Roughness value for the majority of the other points in the point 
+>[**Outliers**](/glossary.md) are points which, in this case, have a Roughness value that falls outside the normal range of the Roughness value for the majority of the other points in the point 
 >cloud.
 > 
->A **histogram** is a diagram that graphically represents the quantity of points that fall within equal ranges with rectangles that increase in size as more points fall within 
+>A [**histogram**](/glossary.md) is a diagram that graphically represents the quantity of points that fall within equal ranges with rectangles that increase in size as more points fall within 
 >that range. 
 
 ![With the CloudCompare interface in the background, the larger
