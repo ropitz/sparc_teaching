@@ -149,4 +149,4 @@ made when the pot was wet because of the peaks and pooling of clay
 evident. In this image, the Roughness calculation has been applied as a
 Scalar field.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%204/Ex%204%20Ph%203.png?raw=true)
 
-[To Exercise 5: Simple Measurements in CloudCompare](/exercise5final.md)
+[Back to Exercise 3](/exercise3final.md) | [To Exercise 5: Simple Measurements in CloudCompare](/exercise5final.md)
