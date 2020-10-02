@@ -79,4 +79,4 @@ the YouTube channel [Mister P. Meshlab
 Tutorials](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg).
 
 
-[To Exercise 3:  The Basics of CloudCompare](/exercise3final.md)
+[Back to Exercise 1] (/exercise1final.md) | [To Exercise 3:  The Basics of CloudCompare](/exercise3final.md)
