@@ -100,7 +100,7 @@ a monument, or an artefact.
 
 ***What is a 3D model?***
 
-Essentially, a 3D model is made up of a **point cloud**(/glossary.md) (below left) and
+Essentially, a 3D model is made up of a [**point cloud**](/glossary.md) (below left) and
 **polygons**(/glossary.md) generated between those points (below right). The point
 cloud is captured when the digital imaging technique measures and
 records the surface of an object as calculated points in
