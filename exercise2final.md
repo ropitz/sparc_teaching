@@ -77,3 +77,6 @@ vast majority of Meshlab's functions are not intuitive. Fortunately,
 there are many tutorials available online, the most popular of which is
 the YouTube channel [Mister P. Meshlab
 Tutorials](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg).
+
+
+[To Exercise 3:  The Basics of CloudCompare](/exercise3final.md)
