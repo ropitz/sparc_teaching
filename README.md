@@ -17,7 +17,11 @@ These teaching materials are made available under a [Creative Commons CC-BY 4.0 
 [Exercise 3](/exercise3final.md)
 
 [Exercise 4](/exercise4final.md)
+
 [Exercise 5](/exercise5final.md)
+
 [Conclusion](/conclusion.md)
+
 [Reading List](/readinglist.md)
+
 [Glossary](/glossary.md)
