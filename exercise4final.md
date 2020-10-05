@@ -2,7 +2,7 @@
 
 **(Allow at least 1 hour for Exercise 4)**
 
-[A step-by-step guide to Exercise 4 can be found here.](https://youtu.be/Av5RfyGT4wE)
+[A step-by-step video guide to Exercise 4 can be found here.](https://youtu.be/Av5RfyGT4wE)
 
 As demonstrated above, the use of morphometric parameters as Scalar
 Fields has a great deal of potential for quantitative analysis. In this
@@ -151,6 +151,6 @@ made when the pot was wet because of the peaks and pooling of clay
 evident. In this image, the Roughness calculation has been applied as a
 Scalar field.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%204/Ex%204%20Ph%203.png?raw=true)
 
-[A step-by-step guide to Exercise 4 can be found here.](https://youtu.be/Av5RfyGT4wE)
+[A step-by-step video guide to Exercise 4 can be found here.](https://youtu.be/Av5RfyGT4wE)
 
 [Back to Exercise 3](/exercise3final.md) | [To Exercise 5: Simple Measurements in CloudCompare](/exercise5final.md)
