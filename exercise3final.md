@@ -2,6 +2,8 @@
 
 **(Allow at least 1 hour for Exercise 3)**
 
+[A step-by-step guide to Exercise 3 can be found here.](https://youtu.be/QU42853oRn0)
+
 Meshlab allowed us to quickly visualise the datasets and take simple
 measurements from the 3D models to familiarise ourselves with the
 dataset. To take our analysis to the next step, we will use a different
@@ -324,5 +326,7 @@ fingerprint.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20fo
 
 
 ![A screenshot of one of the fingerprint meshes run through the Fingerprint Minutiae Viewer software. Features potentially key to fingerprint identification have been highlighted with green rectangles.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%203/Ex%203%20Ph%2020.png?raw=true)
+
+[A step-by-step guide to Exercise 3 can be found here.](https://youtu.be/QU42853oRn0)
 
 [Back to Exercise 2](/exercise2final.md) | [To Exercise 4:  Quantitative Approaches to Interpretation](/exercise4final.md)
