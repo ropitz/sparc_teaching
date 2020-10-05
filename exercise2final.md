@@ -80,6 +80,6 @@ there are many tutorials available online, the most popular of which is
 the YouTube channel [Mister P. Meshlab
 Tutorials](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg).
 
-[A step-by-step guide to Exercise 2 can be found on Youtube here.](https://youtu.be/6Uhd_o0DJP8)
+[A step-by-step guide to Exercise 2 can be found here.](https://youtu.be/6Uhd_o0DJP8)
 
 [Back to Exercise 1](/exercise1final.md) | [To Exercise 3:  The Basics of CloudCompare](/exercise3final.md)
