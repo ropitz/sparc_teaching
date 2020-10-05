@@ -2,6 +2,9 @@
 
 **(Allow at least 1.5 hours for Exercise 5)**
 
+Two videos providing step-by-step guidance to Exercise 5 can be found from the links below.
+[Part 1](https://youtu.be/e5zIDvyxlkk) |  [Part 2](https://youtu.be/W2QLR7cqm-o)
+
 Let's say we want to consider the different manufacturing techniques
 used in creating the pottery from the Parker-Harris Pottery site and the
 Three Cranes tavern. We'll want to combine both visual and metric
@@ -233,5 +236,8 @@ treatments.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for
 
 >**Reflect and Write!**
 >Calculate different morphometric parameters for each of your potsherds – are there any that distinguish between the different surface treatments quite well? Take a screenshot of the parameter that works best and write a short caption on why this is. 
+
+Two videos providing step-by-step guidance to Exercise 5 can be found from the links below.
+[Part 1](https://youtu.be/e5zIDvyxlkk) |  [Part 2](https://youtu.be/W2QLR7cqm-o)
 
 [Back to Exercise 4](/exercise4final.md) | [Conclusion](/conclusion.md)
