@@ -2,7 +2,7 @@
 
 **(Allow at least 20 minutes for Exercise 2)**
 
-[A step-by-step guide to Exercise 2 can be found here.](https://youtu.be/6Uhd_o0DJP8)
+[A step-by-step video guide to Exercise 2 can be found here.](https://youtu.be/6Uhd_o0DJP8)
 
 Visually inspecting 3D models is necessary to familiarise yourself with
 the dataset, to make initial judgements on the suitability of reused
@@ -80,6 +80,6 @@ there are many tutorials available online, the most popular of which is
 the YouTube channel [Mister P. Meshlab
 Tutorials](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg).
 
-[A step-by-step guide to Exercise 2 can be found here.](https://youtu.be/6Uhd_o0DJP8)
+[A step-by-step video guide to Exercise 2 can be found here.](https://youtu.be/6Uhd_o0DJP8)
 
 [Back to Exercise 1](/exercise1final.md) | [To Exercise 3:  The Basics of CloudCompare](/exercise3final.md)
