@@ -4,7 +4,7 @@
 
 Two videos providing step-by-step guidance to Exercise 5 can be found from the links below.
 
-[Part 1](https://youtu.be/e5zIDvyxlkk) |  [Part 2](https://youtu.be/W2QLR7cqm-o)
+[Part 1, Steps 1-7](https://youtu.be/e5zIDvyxlkk) |  [Part 2, Steps 8-13](https://youtu.be/W2QLR7cqm-o)
 
 Let's say we want to consider the different manufacturing techniques
 used in creating the pottery from the Parker-Harris Pottery site and the
@@ -240,6 +240,6 @@ treatments.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for
 
 Two videos providing step-by-step guidance to Exercise 5 can be found from the links below.
 
-[Part 1](https://youtu.be/e5zIDvyxlkk) |  [Part 2](https://youtu.be/W2QLR7cqm-o)
+[Part 1, Steps 1-7](https://youtu.be/e5zIDvyxlkk) |  [Part 2, Steps 8-13](https://youtu.be/W2QLR7cqm-o)
 
 [Back to Exercise 4](/exercise4final.md) | [Conclusion](/conclusion.md)
