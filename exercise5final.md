@@ -1,4 +1,4 @@
-**Exercise 5: Simple Measurements in CloudCompare**
+**Exercise 5: Combining Visual and Metric Analyses in Artefact Interpretation**
 
 **(Allow at least 1.5 hours for Exercise 5)**
 
