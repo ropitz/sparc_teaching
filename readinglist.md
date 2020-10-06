@@ -102,3 +102,5 @@
 -   Journal of Ancient Fingerprints 2007 **(only one issue available as
     PDF -- image of human remains pg 10, 11^th^ page of PDF;**
     <https://web.archive.org/web/20160124234954/http://www.ancientfingerprints.org/journal.htm>)
+    
+-   Martínez-Sevilla, F., Arqués, M., Jordana, X., Malgosa, A., Lozano Rodríguez, J., Romero, M., . . . Rus, J. (2020). Who painted that? The authorship of Schematic rock art at the Los Machos rockshelter in southern Iberia. Antiquity, 94(377), 1133-1151. doi:10.15184/aqy.2020.140
