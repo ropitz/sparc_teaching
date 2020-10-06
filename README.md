@@ -1,6 +1,6 @@
 ## Delving into the Boston Fingerprints Project Archive: A SPARC Teaching Resource
 
-This repository contains teaching materials designed to introduce university level students to working with archived digital 3D models. It provides step-by-step instructions for an exercise in the reanalysis and reinterpretation of models collected through the [SPARC Project](https://sparc.cast.uark.edu/).
+This repository contains teaching materials designed to introduce university level students to working with archived digital 3D models. It provides step-by-step instructions for an exercise in the reanalysis and reinterpretation of models collected through the [SPARC Project](https://sparc.cast.uark.edu/). Video tutorials of each exercise are provided on the [SPARC Teaching YouTube channel.](https://www.youtube.com/channel/UCp3iM6q1K7K77VTb0GoEl-Q/featured)
 
 ### Licensing
 These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
