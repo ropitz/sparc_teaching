@@ -1,4 +1,4 @@
-**Exercise 2: Taking measurements in Meshlab**
+**Exercise 2: Taking measurements in MeshLab**
 
 **(Allow at least 20 minutes for Exercise 2)**
 
