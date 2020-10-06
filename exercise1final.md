@@ -1,4 +1,4 @@
-**Exercise 1: Familiarising Yourself with 3D Data in Meshlab**
+**Exercise 1: Familiarising Yourself with 3D Data in MeshLab**
 
 **(Allow at least 30 minutes for Exercise 1)**
 
