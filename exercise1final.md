@@ -29,13 +29,13 @@ your research question (i.e. are the fingerprints clear enough in the
 dataset to identify similarities; are specific ceramic manufacturing
 techniques identifiable?).
 
-1.  First, open Meshlab. Import the STL files for PH_2 -- you can either
+1.  First, open MeshLab. Import the STL files for PH_2 -- you can either
     do this by selecting 'Import Mesh' from the File dropdown menu, the
     icon for 'Import Mesh' on the toolbar, or by hitting Ctrl+I. Import
     both BostonFingerprints2014_STL_ph2_001 and 002. Your screen should
     look like this.
 
-![A screenshot of Meshlab with the two files comprising the 3D model of
+![A screenshot of MeshLab with the two files comprising the 3D model of
 PH_2 imported.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20PH%201.PNG?raw=true)
 
 2.  On the left, you can view the 3D model. Note the two lines and
@@ -49,12 +49,12 @@ PH_2 imported.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20
 3.  To turn off the colour of the 3D models, select the file name, and switch the Color setting from 'Face' to 'User-Def'. Repeat this step for the second STL file.
 
 ![The same screenshot as before, with the two files for PH_2\'s 3D model
-imported in Meshlab. However, the colour has been removed from one of
+imported in MeshLab. However, the colour has been removed from one of
 the two .stl files, so the 3D model appears banded, grey speckled with
 the real potsherd colour.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%202.png?raw=true)
 
 4.  To accentuate the topography of the 3D model, [**Shaders**](/glossary.md) can be
-    applied. Meshlab provides a variety of options for these under the
+    applied. MeshLab provides a variety of options for these under the
     **'Render'** dropdown menu. One that is particularly useful here is
     the **'Radiance Scaling'** shader. A menu should pop up -- to
     increase the contrast between the features, click and drag the
@@ -75,7 +75,7 @@ image.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20in
     that the location of fingerprints identified by researchers have
     been marked with labels. To find this fingerprint, orient the 3D
     model to the position of the sherd in the photograph. Left-clicking
-    and dragging in a direction anywhere in Meshlab's 3D space will turn
+    and dragging in a direction anywhere in MeshLab's 3D space will turn
     the 3D model around, but if you use the **trackball** (the circles
     surrounding the 3D model), you will have better control over how the
     3D model moves. If you have a mouse-wheel, you can use this to zoom
@@ -86,7 +86,7 @@ image.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20in
 ![A screenshot with two windows open side by side. On the right side,
 the reference image for PH_2 has been opened. It is a photograph of the
 potsherd resting on its artefact bag. The left side shows the 3D model
-aligned in Meshlab to match the alignment of the photograph of the
+aligned in MeshLab to match the alignment of the photograph of the
 potsherd.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Exercise%201/Ex%201%20Ph%204.png?raw=true)
 
 **Potential Data Capture Issues**
@@ -108,7 +108,7 @@ the fingerprint.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%
 
 In addition to recording errors caused by the properties of the object
 (like the black, reflective glaze above), there are errors that can be
-caused by the recording process itself. Restart Meshlab and import the
+caused by the recording process itself. Restart MeshLab and import the
 STL files for PH_4 into a new project. Change the 'color' of the STLs to
 User-Defined, and then apply the Radiance Scaling shader. You may notice
 that some strange light-grey diagonal striations on the potsherd.
@@ -142,5 +142,5 @@ scan. ](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20in
 
 [A step-by-step video guide to Exercise 1 can be found here.](https://youtu.be/rI3qMvuXBQQ)
 
-[Back to the Introduction](/introfinalbp.md) | [To Exercise 2:  Taking measurements in Meshlab](/exercise2final.md)
+[Back to the Introduction](/introfinalbp.md) | [To Exercise 2:  Taking measurements in MeshLab](/exercise2final.md)
 
