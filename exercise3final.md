@@ -34,7 +34,7 @@ is more intuitive than MeshLab, although creating a visualisation as
 informative as the 'Radiance Scaling' shader from MeshLab in
 CloudCompare requires more work.
 
-One big difference between CloudCompare and Meshlab is that, while you
+One big difference between CloudCompare and MeshLab is that, while you
 can work with 3D meshes in CloudCompare, the software was initially
 designed to work with [**point clouds**](/glossary.md), as the name 'CloudCompare'
 suggests. As described above in the introduction of this document, the
