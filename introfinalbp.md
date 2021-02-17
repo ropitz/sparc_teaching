@@ -272,6 +272,9 @@ and 1 .stl where these five scans have been merged. After extracting PH
 25's data, one could delete all but the merged .stl and save 228 MB of
 space).
 
+[**Note that PH25**](https://doi.org/10.5281/zenodo.4543737) and [**Note that PH30**](https://zenodo.org/record/3947995#.YC0xYWieSUk)
+may not unzip correctly from the main archive. These files are available individually from these links.
+
 ![A table that lists subsets of files that would be most useful during
 the exercises, in case users do not have much storage space on their
 computer.](https://github.com/ropitz/sparc_teaching/blob/master/Numbered%20for%20individual%20upload/Intro/Intro%202.png?raw=true)
