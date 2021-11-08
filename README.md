@@ -4,6 +4,7 @@ This repository contains teaching materials designed to introduce university lev
 
 ### Licensing
 To cite these teaching materials, please use the following reference: Kasten, M. (2020) Delving into the Boston Fingerprints Project Archive: A SPARC Teaching Resource. https://github.com/ropitz/sparc_teaching.
+
 These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
 ![License Image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
