@@ -1,13 +1,15 @@
+# SPARC Teaching Resources
+### Licensing
+These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![License Image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+
 ## Delving into the Boston Fingerprints Project Archive: A SPARC Teaching Resource
 
 This repository contains teaching materials designed to introduce university level students to working with archived digital 3D models. It introduces terminology and metadata specific to digital 3D data and provides step-by-step instructions for five exercises in the reanalysis and reinterpretation of models collected through the [SPARC Project](https://sparc.cast.uark.edu/). Video tutorials of each exercise are provided on the [SPARC Teaching YouTube channel.](https://www.youtube.com/channel/UCp3iM6q1K7K77VTb0GoEl-Q/featured)
 
-### Licensing
+### Citation
 To cite these teaching materials, please use the following reference: Kasten, M. (2020) Delving into the Boston Fingerprints Project Archive: A SPARC Teaching Resource. https://github.com/ropitz/sparc_teaching.
-
-These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-
-![License Image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
 
 ### Table of Contents
 [Introduction](/introfinalbp.md)
@@ -27,3 +29,11 @@ These teaching materials are made available under a [Creative Commons CC-BY 4.0 
 [Reading List](/readinglist.md)
 
 [Glossary](/glossary.md)
+
+## The Basics of Creating Digital Archaeological Reconstructions: A SPARC Teaching Resource
+This repository contains teaching materials designed to introduce university level students to key considerations, issues, and current scholarship surrounding the creation of digital reconstructions of archaeological resources. Using laser scan data produced by [SPARC](https://sparc.cast.uark.edu/) for the [Malthi Revisited](https://www.sia.gr/en/articles.php?tid=140&page=1) project, six exercises provide step-by-step instructions to guide students through critically considering what is needed for a digital reconstruction, processing the dataset into a usable form, and deciding how to disseminate the reconstruction to a wider audience. 
+
+### Citation
+To cite these teaching materials, please use the following reference: Kasten, M. (2021) The Basics of Creating Digital Archaeological Reconstructions: A SPARC Teaching Resource. https://github.com/ropitz/sparc_teaching.
+
+### Table of Contents
