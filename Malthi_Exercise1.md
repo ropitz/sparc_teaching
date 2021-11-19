@@ -4,7 +4,7 @@ The aim of this teaching resource is to introduce you to the technical basics an
 
 **The Project Brief**: Develop a scaled digital 3D reconstruction of the structures on the site of Malthi to help researchers and the general public to better understand its layout and how this impacted the settlement’s inhabitants and their movement within the site. Due to the complexity of the standing remains, 3D laser scans of the site, archived with SPARC, will form the ‘foundation’ for the site reconstruction to ensure the spatial relationships between structures are metrically accurate. This reconstruction may be used as the groundwork for creating more detailed hypothetical interpretations for wider distribution. 
 
-If we break down the project brief into separate tasks and outputs as a short outline to frame your  ‘Design Document’ (which you will build on later), we can see that it necessitates certain key skills and considerations:
+If we break down the project brief into separate tasks and outputs as a short outline to frame your  [‘Design Document’](https://github.com/ropitz/sparc_teaching/blob/master/Design%20Document%20Template.docx) (which you will build on later), we can see that it necessitates certain key skills and considerations:
 
 1. Assess the various archived files and 3D resources for quality and relevance to the project aims;
 
@@ -48,7 +48,7 @@ These considerations are complicated, as they are often underpinned by a combina
 As suggested above, while the aims or purpose of a digital reconstruction should ideally be defined from the outset in the project brief, this may need fuller consideration, as this will impact almost all of the other choices to be made in the project.  In archaeology, there could be many purposes for digitally reconstructing a site, though some are more frequently employed than others. There are two main ‘types’ that digital archaeological reconstructions tend to fall under:
 
 1. Curated public-oriented interpretation with at least some emphasis on visual aesthetics, either for delivery via VR, AR, or online delivery (games, 2D or 3D, video or flythrough; includes museum installations)
-1. Information-laden for other specialists/archaeologists; can be used as a tool to develop interpretations through their working process (GIS/layered interface, multiple phases, multiple interpretations of possible construction of structures)
+2. Information-laden for other specialists/archaeologists; can be used as a tool to develop interpretations through their working process (GIS/layered interface, multiple phases, multiple interpretations of possible construction of structures)
 
 However, it is important to note that these types are not necessarily mutually exclusive; in some cases, feasible interpretations may be tested by archaeologists and illustrators in a Type 2 reconstruction behind the scenes, but what reaches the public is a curated, more manageable Type 1 reconstruction. It is essential to identify what type of digital reconstruction your project is aiming to produce, as this has implications throughout. 
 
