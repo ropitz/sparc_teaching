@@ -1,4 +1,4 @@
-**Introduction**
+**Introduction and Intended Learning Outcomes**
 
 This teaching resource will introduce students to key considerations, issues, and current scholarship surrounding the creation of digital reconstructions of archaeological sites. In an increasingly digital world, the ability to critically interrogate and explore the research applications of the reconstructive process have become useful skillsets to employ in understanding archaeological sites. Exercises will reuse an archaeological dataset archived by SPARC from the site of Malthi, a Bronze Age settlement in northern Messenia, Greece, as a case study. This teaching resource will act as an example of good practice in leveraging archival data for new purposes and generating new value and understanding from site-level laser scan data.
 
