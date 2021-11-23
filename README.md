@@ -45,5 +45,7 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 [Part C: Extracting and Cleaning Data](/Malthi_Exercise1_C.md)
 
+### [Exercise 2](/Malthi_Exercise2.md)
+
   
 
