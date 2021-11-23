@@ -91,7 +91,7 @@ To address these questions fully, we will take a few different approaches; we wi
 
 **Cinema 4D** – Maxon’s Cinema 4D is focused on all of the 3D modelling, animating, rendering, and texturing necessary to produce a 3D animation. There are sculpting tools in the software, as a search for ‘[sculpt’ in Cinema 3D’s documentation](https://help.maxon.net/c4d/en-us/#search-sculpt) provides many results. Like many of the other software packages discussed here, a search for ‘[point cloud’](https://help.maxon.net/c4d/en-us/#search-point%20cloud) results in only particle effects. Cinema 4D also provides a variety of guidance on [Maxon’s YouTube channel](https://www.youtube.com/c/MaxonVFX). Like the other industry standard software packages, Cinema 4D has a great deal of external support/compatibility, including with After Effects, Adobe Illustrator, Unreal and Unity.  
 
-To directly compare the system requirements for each of these in a tabulated form, see the Software Comparison table. 
+To directly compare the system requirements for each of these in a tabulated form, see the [Software Comparison table](/Malthi_Exercise2_ComparingSoftware.xlsx). 
 
 >**Think and Respond**: Given your searches through the software documentation and the Software Comparison table, which options would be best suited to this project? Which options are best suited to your budget/future skills building?
 
