@@ -1,5 +1,5 @@
 ﻿## Reflect further (Optional)
-### Archiving: Ethics of Digital Reconstruction
+### Archiving and Ethics in Digital Reconstructions
 As you create your project, you should keep in mind that at the end of the project, it should be archived. In the UK, this may be with an accredited digital repository like the [Archaeology Data Service](https://archaeologydataservice.ac.uk/advice/guidelinesForDepositors.xhtml), or an institution-based archive. It’s important to note that an archive is not the same thing as a digital backup, nor have you archived your reconstruction by making it available online via Sketchfab or another webpage. An archival service ensures that your datasets are kept up-to-date, especially in terms of file formats. This service costs a certain amount of money, often dependant on the size of the dataset. Along with your dataset, archives expect both records of your digital files’ paradata and metadata. 
 ### Paradata
 As mentioned in Exercise 1 and described more fully in Exercise 2, alterations or decisions that are made in the process of creating a reconstruction need to be recorded as **paradata**. As a refresher, this should/could include the following:
