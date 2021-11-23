@@ -42,3 +42,4 @@ You may notice that some of the Archaeology Data Service webpages mention ‘Lin
 - Ross, D. 2017. The Role of Ethics, Culture, and Artistry. *Scientific Illustration, Technical Communication Quarterly*, 26(2): 145-172. DOI: 10.1080/10572252.2017.1287376
 - Watterson, A. 2015. Beyond Digital Dwelling: Re-thinking Interpretive Visualisation in Archaeology. *Open Archaeology,* 1(1): 119-130. <https://doi.org/10.1515/opar-2015-0006>.
 
+[Go back to the Conclusion](/Malthi_Conclusion.md) | [Go back to SPARC Teaching](https://github.com/ropitz/sparc_teaching)
