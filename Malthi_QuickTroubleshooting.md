@@ -1,4 +1,7 @@
-﻿Quick Troubleshooting
+# Quick Troubleshooting #
+
+The following provides a quick reference for common issues encountered during these exercises.
+
 ## Exercise 1
 ### CANUPO doesn’t seem to be classifying the vegetation correctly – how can I increase its accuracy?
 Because CANUPO is a machine learning algorithm, it may need more samples to correctly differentiate between stone and vegetation. Try adding more samples from different parts of your segmented dataset. 
@@ -6,6 +9,7 @@ Because CANUPO is a machine learning algorithm, it may need more samples to corr
 It could be that by subsampling your dataset too much, your clumps of grass are no longer distinctive enough to be correctly identified (try this – can you still identify that something is grass? Try turning on the dataset with the original density of points – is it much clearer?). Applying CANUPO to an un-subsampled point cloud will undoubtedly cause the software to crash, so it may be better to try subsampling the point cloud a bit less.
 
 If you are still having trouble, try calculating roughness under ‘Tools > Other > Compute Geometric Features’, as instructed in Step 3 of Exercise 1. By setting this as a Scalar Field, it should be easier to identify vegetation features to add to the classifier.
+
 ## Exercise 3
 ### I’ve reopened my Blender file and the normal map is missing – what happened?
 Did you move your normal maps or other files to a different folder? If so, it is likely that this is caused by directory issues – move the files back to their original folder and reopen your Blender file. It is important to create a clear file structure from the beginning, as directory issues commonly crop up in specialised software. If this does not fix the issue, check when the last save took place – was it before or after the Normal map was generated?
@@ -24,6 +28,7 @@ First, try hitting ‘Viewport Shading’ in the 3D Viewport with only the decim
 - If none of these things make a difference, ensure that you have highlighted the correct nodes and layers in the correct order before baking the normal. 
 ### I’ve tried putting all of my meshes together, and it’s causing my computer to lag. What can I do?
 Are there some tiles that are much larger than the others? You may need to re-decimate these meshes (though try doing this with Blender’s inbuilt decimation tool first – see directions at the beginning of Exercise 5). Note that this can cause issues with your normal maps though.
+
 ## Exercise 4
 ### Why won’t my house roof extrude in a straight line?
 As mentioned in the exercise, modelling becomes more complicated when working with imperfect shapes (ie our houses that are snapped to foundation corners, rather than regular primitive proportions (1x1x1)). Try to change your view on the house, then freehand extrude the peak of the roof to what looks like the correct position. 
@@ -31,6 +36,7 @@ As mentioned in the exercise, modelling becomes more complicated when working wi
 If you find this difficult, you can try to adapt a prefab house onto real-world coordinates instead. However, it may be more difficult to assign all of the vertices of one corner to the edge of a real-world foundation.
 ### I deleted X and now it’s ruined!
 Remember that **Ctrl+U** is the shortcut for undo!
+
 ## Exercise 5
 ### I noticed something that needed editing after exporting my reconstruction, but after I edited and then re-exported the file, it didn’t save the changes. What’s happening?
 Overwriting exports causes issues in Blender. Try re-exporting it and assigning it a new file name. 
