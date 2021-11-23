@@ -82,33 +82,49 @@ There are a couple of methods that will allow you to fill these holes. First, sw
 
 To fill the hole visible towards the centre of this mesh, you can try using the automatic ‘hole fill’ algorithm by selecting the mesh (by hitting ‘**A**’, for all), and navigating to ‘Mesh > Clean Up > Fill holes’. This will not always work, if the hole is large or complex in shape.
 
+![Using the automatic 'Fill holes' algorithm in Blender.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig14.png)
+
 To manually fill the hole, ‘**Alt + Left Click’** in the hole. This will select the edges of the hole. Then, press **‘Alt + F’**. The software should automatically fill the hole with triangles. Once all holes are filled, switch back from Edit mode to ‘Object Mode’. 
 
-**Try it yourself!** Which of these options worked best to fill any holes in your decimated mesh? If something didn’t work, why do you think caused it?
+>**Try it yourself!** Which of these options worked best to fill any holes in your decimated mesh? If something didn’t work, why do you think caused it?
+
+![Manually selecting a hole in the decimated mesh.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig15.png)
 
 Now we need to smooth our Decimated Mesh so that the mapping of your high-resolution normals onto the low-resolution geometry transitions more smoothly between mesh faces (for further insight into this process, see [this blog](https://80.lv/articles/tutorial-how-normal-maps-work-baking-process/) by Carlos Lemos here). Once in Object Mode, right click anywhere in the viewport and select ‘Shade Smooth’. To further smooth your decimated mesh, Next, you may want to add a modifier called ‘Subdivision Surface’. Access this by selecting the ‘wrench’ icon in the ‘Properties’ area of the Blender interface (highlighted with a red box below). Set the ‘Levels View’ to 2. 
 
+![The Malthi mesh is visible in the Blender viewport. A small wrench symbol is highlighted with a red box to indicate where the 'Add Modifier' section is to allow for further smoothing of your decimated mesh.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig16.png)
+
 Now we need to start to build the image file that we will be projecting the normal map onto. Move your mouse to the top left of the screen, just under the Blender symbol on the toolbar, and your mouse should change to look like crosshairs. **Click this and drag your mouse to the right** to split your screen. In your new window, open the ‘Editor Type’ menu (highlighted in a red box below) and select ‘Shader Editor’. This is where we will be adding nodes.
 
-Nodes are a form of programming; in Blender, they are primarily used for shaders and materials, though they can also be applied to lighting and animation. Each node you add will be specialised to perform a specific function. These nodes can be combined in different ways by making connections between them. For creating a Normal Map, we only need to add two nodes – Image Texture and Normal map. When you first enter the Shader Editor, there should be two nodes already there – Principled BDSF and Material output. To remove the additional ‘Node’ menu on the right side of the Shader Editor, click in the Shader Editor viewport and then press the ‘**N**’ key. To add the ‘Image Texture’ node, press ‘**Shift and the A key’**, press the ‘**S**’ key for Search, type ‘Image’ and hit Enter when ‘Image Texture’ is highlighted in blue. Use your mouse to move and place the node by left-clicking.
+![A red box highlights how to open the Shader Editor Menu.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig17.png)
+
+Nodes are a form of programming; in Blender, they are primarily used for shaders and materials, though they can also be applied to lighting and animation. Each node you add will be specialised to perform a specific function. These nodes can be combined in different ways by making connections between them. For creating a Normal Map, we only need to add two nodes – Image Texture and Normal map. When you first enter the Shader Editor, there should be two nodes already there – Principled BDSF and Material output. To remove the additional ‘Node’ menu on the right side of the Shader Editor, click in the Shader Editor viewport and then press the ‘**N**’ key. To add the ‘Image Texture’ node, press ‘**Shift and the A key’**, press the ‘**S**’ key for Search, type in ‘Image’ and hit Enter when ‘Image Texture’ is highlighted in blue. Use your mouse to move and place the node by left-clicking.
+
+![Adding nodes to the Shader editor.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig18.png)
 
 Repeat these steps, except this time search for ‘Normal Map’ (not Normal). Place the node between Image Texture and the Principled BDSF nodes. If we look at the ‘Image Texture’ node, we will see that there are two traits on the right side of the box – Color and Alpha. Click and drag the small circle next to ‘Color’ and drag this to the circle next to ‘Color’ on the left side of the ‘Normal Map’ node. Next, connect the ‘Normal’ option on the right side of the ‘Normal Map’ node and connect it to the ‘Normal’ option on the Principled BDSF. Your nodes should be connected as they are in the image below.
 
+![Connecting the nodes to enable the creation of a normal map.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig19.png)
+
 Now, let’s create our image file. On the ‘Image Texture’ node, left-click ‘new’. This will prompt you to name and set the size of your normal map. Ensure that you follow the naming convention you set out at the start of this Exercise. You can create a 4K texture if you set the width and height to 4096 px. Click OK. There will now be new options available on your ‘Image Texture’ node, and it will be renamed to match your image name. Change the ‘Color Space’ drop down menu to ‘Non-colour’. 
+
+![Creating the image texture and setting it to non-colour.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig20.png)
 
 Now we need to UV Unwrap our decimated mesh. UV Unwrapping comprises of unfolding and flattening your 3D mesh into a 2D image. While similar in concept, it is a bit different from unwrapping a gift, because you cannot have any overlap or folds in your 2D ‘paper’. To get started, change your ‘Shader Editor’ window to ‘UV Editor’ and set the image as the one you created in the Shader Editor. This is where your ‘unwrapped shapes’ will appear.
 
+![Changing your Shader Editor to UV Editor and selecting your target image.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig21.png)
+
 In your ‘Layout workspace’ viewport with your decimated mesh, change to ‘Edit mode’. Now there are a few ways to unwrap your UVs – you can either create your own seams, from which you want the software to unwrap your UVs, but it takes practice to identify the best way to ‘cut’ these, especially in a mesh with such complicated topography, even when decimated. 
 
-{**Note:** If you want to create your own seams, ensure that your Layout workspace is in Edit mode with ‘Edge select’ enabled. Left click to select individual edges; you can also ‘**Ctrl + left-click’** anywhere on the mesh and it will find the shortest path between your starting and ending points. When you are happy with your seam, right click anywhere in the layout space and click ‘create seams’. Once you are happy with your seams, change to ‘Face Select’, press the ‘**A**’ key to select all, the ‘**U**’ key to unwrap.}
+>**Note:** If you want to create your own seams, ensure that your Layout workspace is in Edit mode with ‘Edge select’ enabled. Left click to select individual edges; you can also ‘**Ctrl + left-click’** anywhere on the mesh and it will find the shortest path between your starting and ending points. When you are happy with your seam, right click anywhere in the layout space and click ‘create seams’. Once you are happy with your seams, change to ‘Face Select’, press the ‘**A**’ key to select all, the ‘**U**’ key to unwrap.
 
 To use the ‘Smart UV Project’, put your Layout workspace into ‘Edit mode’ with the decimated model visible, change to ‘Face Select’, press the **‘A**’ key to select all, and then Navigate to ‘UV > Smart UV Project’. Accept the default options and press ‘OK’. Your unwrapped mesh should appear in your UV Editor viewport.
 
+![The navigation to the Smart UV unwrapping tool in Blender.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig22.png)
+
 While the UV map generated by the ‘Smart UV Project’ tool will not be pretty, necessarily, and will create many islands, these still result in very good normal maps. Use the ‘UV Selection Mode’ from the UV Editor toolbar if you want to select, move or rotate any individual UV.
 
-
-
-**Think and Respond:** Watch part of [J Middleton’s](https://youtu.be/MrUVeV0wsH8) tutorial video (at least from 25:45 – 32:48). Did you create your own seams? How did they turn out? (and if they didn’t, why do you think J Middleton’s seams worked for the UV map?) If you used the Smart UV project, can you see why this would be disadvantageous for other projects (especially those incorporating colour)?
+>**Think and Respond:** Watch part of [J Middleton’s](https://youtu.be/MrUVeV0wsH8) tutorial video (at least from 25:45 – 32:48). Did you create your own seams? How did they turn out? (and if they didn’t, why do you think J Middleton’s seams worked for the UV map?) If you used the Smart UV project, can you see why this would be disadvantageous for other projects (especially those incorporating colour)?
 
 Now, put your Layout workspace into ‘Object Mode’ if it isn’t already, and make your high-resolution model visible again. Use the ‘Measure’ tool from the toolbar of green icons to identify the distance between your decimated mesh and your original mesh by enabling the tool, left-clicking a place on the mesh where the decimated mesh is visible through the high resolution mesh, and drag your mouse to the point on your high-resolution mesh that appears to correlate to that decimated feature. Take note of this, as this will help find the best ‘extrusion’ level to set in the baking settings (see Jayanam’s tutorial [here](https://youtu.be/DQPjIGncXcM)).
 
