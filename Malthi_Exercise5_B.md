@@ -272,5 +272,5 @@ Unity User Manual 2020.3 (<https://docs.unity3d.com/Manual/index.html>)
 - de Byl, Penny. 2018. “FBX Importing to Unity 2017/2018+ | Where did my textures go?” *Youtube*. Uploaded by Holistic3d, 25 January 2018, [https://www.youtube.com/watch?v=xOeodlLTx8g]().
 - [Imphenzia](https://youtube.com/playlist?list=PLC7nmYI-cbT1uGmB9_D74VIUh7qN_YsH5).  2020. “LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make”. *YouTube*. Uploaded by Imphenzia, 24 July 2020, [https://youtu.be/pwZpJzpE2lQ]().
 
-[Go back to Exercise 5 Part A](/Malthi_Exercise5.md)
+[Go back to Exercise 5 Part A](/Malthi_Exercise5.md) | [Go to the Conclusion](/Malthi_Conclusion.md)
 
