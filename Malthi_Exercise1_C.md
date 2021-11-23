@@ -236,4 +236,4 @@ Further reading:
 - Watterson, A., Baxter, K., and Anderson, J. 2020. *Designing Digital Engagements: Approaches to creative practice and adaptable programming for archaeological visualisation*. Electronic Visualisation & the Arts Conference. Online Conference. London. 16-18th Nov 2020. https://vimeo.com/436695991.
 - Watterson, A. 2012. The Value and Application of Creative Media to the Process of Archaeological Reconstruction and Interpretation. In (eds) Chrysanthi, A., Murrieta Flores, P., and Papadopoulos, C. *Thinking Beyond the Tool: Archaeological computing in the interpretive process.* Oxford: Archaeopress. Pages 14-23.
 
-[Back to Exercise 1 Part B](/Malthi_Exercise1_B.md) | To Exercise 2
+[Back to Exercise 1 Part B](/Malthi_Exercise1_B.md) | [To Exercise 2](/Malthi_Exercise2.md)
