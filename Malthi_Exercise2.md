@@ -107,3 +107,5 @@ For this exercise, we will be utilising Blender due to its open access approach 
 - Sullivan, E., Nieves, A. D., and Synder, L. M. 2017. Making the Model: Scholarship and Rhetoric in 3-D Historical Reconstructions. In (ed) Sayers, J. Making Things and Drawing Boundaries: Experiments in the Digital Humanities. Minneapolis: University of Minnesota Press. Accessed from: https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/d441edf8-4e56-4721-a3f4-0a9a1674c15f#ch35.
 - Worsham, R., Lindblom, M., and Zikidi, C. 2018. Preliminary report of the Malthi Archaeological Project, 2015–2016. *Opuscula,* 11: 7-28.
 - Yang, R. 2017. How To Graybox/Blockout a 3D Video Game Level. Blog. URL: https://www.blog.radiator.debacle.us/2017/09/how-to-graybox-blockout-3d-video-game.html.
+
+[Back to Exercise 1 Part C](/Malthi_Exercise1_C.md) | To Exercise 3
