@@ -1,6 +1,6 @@
 ﻿## Reflect further (Optional)
 ### Archiving: Ethics of Digital Reconstruction
-As you create your project, you should keep in mind that at the end of the project, it should be archived. In the UK, this may be with an accredited digital repository like the [Archaeology Data Service]( ), or an institution-based archive. It’s important to note that an archive is not the same thing as a digital backup, nor have you archived your reconstruction by making it available online via Sketchfab or another webpage. An archival service ensures that your datasets are kept up-to-date, especially in terms of file formats. This service costs a certain amount of money, often dependant on the size of the dataset. Along with your dataset, archives expect both records of your digital files’ paradata and metadata. 
+As you create your project, you should keep in mind that at the end of the project, it should be archived. In the UK, this may be with an accredited digital repository like the [Archaeology Data Service](https://archaeologydataservice.ac.uk/advice/guidelinesForDepositors.xhtml), or an institution-based archive. It’s important to note that an archive is not the same thing as a digital backup, nor have you archived your reconstruction by making it available online via Sketchfab or another webpage. An archival service ensures that your datasets are kept up-to-date, especially in terms of file formats. This service costs a certain amount of money, often dependant on the size of the dataset. Along with your dataset, archives expect both records of your digital files’ paradata and metadata. 
 ### Paradata
 As mentioned in Exercise 1 and described more fully in Exercise 2, alterations or decisions that are made in the process of creating a reconstruction need to be recorded as **paradata**. As a refresher, this should/could include the following:
 
@@ -30,7 +30,7 @@ You may notice that some of the Archaeology Data Service webpages mention ‘Lin
 - Archaeology Data Service: <https://archaeologydataservice.ac.uk/about/ourWork.xhtml>
   - Archival Strategy: <https://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-0>
   - Metadata: <https://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2>
-  - Templates: [https://archaeologydataservice.ac.uk/advice/Downloads.xhtml]( )
+  - Templates: <https://archaeologydataservice.ac.uk/advice/Downloads.xhtml>
 - Europeana. 2021. https://pro.europeana.eu/. 
   - Mission Statement: <https://pro.europeana.eu/about-us/mission#brief-history>
   - Process: <https://pro.europeana.eu/share-your-data/process>
