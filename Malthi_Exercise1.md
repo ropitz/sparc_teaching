@@ -77,3 +77,4 @@ In the case of Malthi, the layout of the standing remains is complex, so buildin
 ![Diagram suggesting a line of questioning that will allow students to determine whether they need to use reality captured 3D data in their reconstruction.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig01.png)
 
 
+[Back to the Introduction](/Malthi_1Intended%20Learning%20Outcomes%20and%20Background.md) | [To Exercise 1 Part B](/Malthi_Exercise1_B.md)
