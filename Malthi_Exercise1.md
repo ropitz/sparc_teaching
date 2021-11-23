@@ -1,5 +1,5 @@
 ## **Exercise 1**
-### **Introduction**
+### **Part A: Introduction**
 
 The aim of this teaching resource is to introduce you to the technical basics and the theoretical issues underlying the process of creating digital reconstructions of archaeological sites. As will become apparent throughout the module, certain elements of the actual workflow are very project-specific and contingent on the needs of the project. To frame your thinking and the decisions you make in the following exercises, we have provided an example ‘Project Brief’ below.
 
@@ -25,7 +25,7 @@ If we break down the project brief into separate tasks and outputs as a short ou
 
 Though you would normally be working with a diverse team of specialists, the exercises will prioritise learning about the technical workflow and theoretical background specific to the role of 3D reconstruction artist. In the first exercise, though each of these steps are intrinsically linked, we will cover the first three points as a ‘pre-project planning’ and data assessment phase. We will then discuss the process of working within a team, how to decide on the appearance of structural elements not found in the archaeological record, and how to choose between the variety of 3D modelling software to create reconstructed assets in Exercise 2. Step 4a will be covered in Exercise 3 and 4, as we consider the process of optimisation of 3D assets and the generation of new assets to illustrate the reconstruction. Exercise 5 will address Step 4ai, where you will evaluate Sketchfab and Unity for their suitability to accomplish the research aims. Finally, optional resources outline the appropriate methods of archival for reconstruction projects and the associated paradata and metadata will be presented and discussed.
 
-### **Part A**
+
 ### **Preparation – Key Considerations Before Undertaking a Digital Reconstruction of a Monument, Urban or Rural place**
 
 There are a number of practical and intellectual considerations that need to be addressed before undertaking a digital reconstruction of an archaeological site or monument. While many of the following points would be made explicit through a more detailed project brief, it is important to ensure that these are clear from the outset to create a successful digital reconstruction. In general, these will help you assemble the information you need before going into an initial collaborative meeting:
