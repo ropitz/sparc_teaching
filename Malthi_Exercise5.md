@@ -119,4 +119,4 @@ Once your 3D model is ready, click ‘Publish’. This is now a shareable 3D rec
 
 >**Think and Respond:** Does the Sketchfab approach seem quite simple? Effective? Does this qualify as interactable? Are there any issues you can think of to use Sketchfab on a long-term basis? Does this approach meet the project aims/requirements set out in Exercise 1? Why or why not?
 
-[Go back to Exercise 4 Part C](/Malthi_Exercise4_C.md) | [Go to Exercise 5 Part B (Optional Activity: Unity)](/Malthi_Exercise5_B.md)
+[Go back to Exercise 4 Part C](/Malthi_Exercise4_C.md) | [Go to Exercise 5 Part B (Optional Activity: Unity)](/Malthi_Exercise5_B.md) | [Go to the Conclusion](/Malthi_Conclusion.md)
