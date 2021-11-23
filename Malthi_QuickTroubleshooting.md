@@ -54,4 +54,4 @@ Check which version of the first person controller you have installed. If you mi
 ### When I test the First Person controller, the camera clips through the player capsule/I can see green lines. How do I fix it?
 First, ensure that the ‘Nested Parent Unpack’ asset is selected, then change the Y axis to a slightly lower value. You can also try to change the position of the nested camera, or change the maximum speed that your player character can achieve. 
 ### I can’t add textures to my mesh in Unity?
-Unpack the materials of your mesh, as instructed at the end of Exercise 5. They need to be unpacked to be editable. Use Prof Penny de Byl’s video for further instruction.
+Unpack the materials of your mesh, as instructed at the end of [Exercise 5 Part B](/Malthi_Exercise5_B.md). They need to be unpacked to be editable. Use Prof Penny de Byl’s video for further instruction.
