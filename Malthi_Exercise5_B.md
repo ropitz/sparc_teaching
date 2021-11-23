@@ -230,8 +230,8 @@ You may also want to produce an AR or VR application to allow for a fuller explo
 - Cine’s Roundme of St Catherine’s Church and Graveyard Reconstruction, Co. Donegal Ireland: <https://roundme.com/embed/553737/1812563>
 - Villa Livia Reloaded: <http://www.v-must.net/villa-livia-reloaded>
 - Open Virtual Worlds: 
-    - Edinburgh 1544: [https://www.smarthistory.co.uk/Edinburgh1544/16th_Century_Edinburgh.html?fbclid=IwAR0ZD_nbChSMqO0D6giTQB2JR6BA_gCMo0XghL8TnA_IUgXZ9-RIfsAxXmQ]( )
-    - Moredun Top Hillfort, 50 AD: [https://roundme.com/tour/155618/view/393262/]()
+    - Edinburgh 1544: <https://www.smarthistory.co.uk/Edinburgh1544/16th_Century_Edinburgh.html?fbclid=IwAR0ZD_nbChSMqO0D6giTQB2JR6BA_gCMo0XghL8TnA_IUgXZ9-RIfsAxXmQ>
+    - Moredun Top Hillfort, 50 AD: <https://roundme.com/tour/155618/view/393262/>
 
 ### Applications to Disseminate Reconstructed Outputs 
 - 3DHOP: <https://www.3dhop.net/index.php> Marco Potenziani, Marco Callieri, Matteo Dellepiane, Massimiliano Corsini, Federico Ponchio, and Roberto Scopigno. 2015. 3DHOP. Computers and Graphics. 52, C (November 2015), 129–141. DOI: <https://doi.org/10.1016/j.cag.2015.07.001>
@@ -269,8 +269,8 @@ Unity User Manual 2020.3 (<https://docs.unity3d.com/Manual/index.html>)
 
 
 ### YouTube Videos Utilised:
-- de Byl, Penny. 2018. “FBX Importing to Unity 2017/2018+ | Where did my textures go?” *Youtube*. Uploaded by Holistic3d, 25 January 2018, [https://www.youtube.com/watch?v=xOeodlLTx8g]().
-- [Imphenzia](https://youtube.com/playlist?list=PLC7nmYI-cbT1uGmB9_D74VIUh7qN_YsH5).  2020. “LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make”. *YouTube*. Uploaded by Imphenzia, 24 July 2020, [https://youtu.be/pwZpJzpE2lQ]().
+- de Byl, Penny. 2018. “FBX Importing to Unity 2017/2018+ | Where did my textures go?” *Youtube*. Uploaded by Holistic3d, 25 January 2018, <https://www.youtube.com/watch?v=xOeodlLTx8g>.
+- [Imphenzia](https://youtube.com/playlist?list=PLC7nmYI-cbT1uGmB9_D74VIUh7qN_YsH5).  2020. “LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make”. *YouTube*. Uploaded by Imphenzia, 24 July 2020, <https://youtu.be/pwZpJzpE2lQ>.
 
 [Go back to Exercise 5 Part A](/Malthi_Exercise5.md) | [Go to the Conclusion](/Malthi_Conclusion.md)
 
