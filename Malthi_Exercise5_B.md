@@ -1,6 +1,5 @@
 ## Exercise 5 ##
-### Part B ###
-### Advanced Outputs: Unity (Optional Activity) ###
+### Part B: Advanced Outputs: Unity (Optional Activity) ###
 
 *(Many thanks to Cole Juckette for his help with Exercise 5!)*
 
