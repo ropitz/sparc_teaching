@@ -125,7 +125,7 @@ Overall, this exercise has introduced you to many of the essential 3D modelling 
 - the differences between faces, edges, and vertices;
 - and how to scale, extrude, move, inset, loop cut, and bevel these geometric features.
 
-**If you wish to try applying textures to your house, continue to [Part C of Exercise 4](/Malthi_Exercise4_C.md)**
+**If you wish to try applying textures to your house, continue to [Part C of Exercise 4](/Malthi_Exercise4_C.md) before Exporting.**
 
 ### Export
 
