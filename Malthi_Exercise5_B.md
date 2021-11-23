@@ -5,7 +5,7 @@
 
 A more advanced approach to creating an interactive reconstruction of Malthi is to use a game engine, like Unity, to essentially make a walking simulator of the site. Though Sketchfab is a very simple and quick way to get your 3D assets out into the world, Unity offers significantly more freedom in what is possible to create. 
 
-**Think and Respond**: Before you start this optional activity, reflect on your own learning objectives. Do you feel that the additional work and time investment that you will put into learning this new skillset is worth the range of possibilities Unity offers for archaeological reconstructions? Which features offered by Unity (and not offered by Sketchfab) do you think are particularly important for interpreting reconstructed archaeological sites?
+>**Think and Respond**: Before you start this optional activity, reflect on your own learning objectives. Do you feel that the additional work and time investment that you will put into learning this new skillset is worth the range of possibilities Unity offers for archaeological reconstructions? Which features offered by Unity (and not offered by Sketchfab) do you think are particularly important for interpreting reconstructed archaeological sites?
 
 You will need to make an account to access the Unity Asset Store, and you can install Unity from this [link](https://unity3d.com/get-unity/download). In the asset store, you will want to find the most up-to-date, free ‘First Person Character Controller’ (preferably made available by Unity Technologies). At the time of writing, this could be found at this [link](https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-196525), but be sure that you familiarise yourself with how the Unity Asset Store functions.
 
@@ -30,7 +30,7 @@ Finally, you need to ensure that most large holes (most of which arise from merg
 
 - Finally, use **‘Alt+F’** or right-click anywhere and select the ‘Fill’ tool. 
 
-![A screenshot of the filled hole in the mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig23.png)
+![A screenshot of the filled hole in the mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig23.jpg)
 
 Once your data is ready, export them into either the FBX or OBJ format. While you can import the entire [BLEND file into Unity](https://docs.unity3d.com/530/Documentation/Manual/HOWTO-ImportObjectBlender.html), at the time of writing this was still less reliable than exporting the files directly.
 
