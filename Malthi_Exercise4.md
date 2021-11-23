@@ -1,4 +1,5 @@
-## Exercise 4: How to model assets in Blender
+## Exercise 4 ##
+### Part A: How to model assets in Blender ###
 
 In the first three exercises, you generated clean, georeferenced meshes of the archaeological structures visible at Malthi, considered how best to represent these features, and optimised the dataset to build upon it. In this exercise, we will first discuss the process and benefits of greyboxing, a term that was introduced in Exercise 2. Then, we will go through the basics of modelling assets (using Blender version 2.93.1) and how to apply textures to those assets, should you choose to do so. We'll then discuss how to export your final reconstructed assets for use in Exercise 5.
 
@@ -106,3 +107,4 @@ As explained in [Exercise 2](/Malthi_Exercise2.md), Greyboxing is a technique us
 
 >**Think and Respond:** As you greybox your chosen area, can you identify individual rooms? Individual buildings? How certain are you in separating these? Have you been able to identify access points?
 
+[Go back to Exercise 3 Part B](/Malthi_Exercise3_B.md) | [To Exercise 4 Part B](/Malthi_Exercise4_B.md)
