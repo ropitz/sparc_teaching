@@ -1,4 +1,4 @@
-**Exercise 1 Part B**
+### **Exercise 1 Part B**
 ### **Get to know your data - start by reading the metadata and reports**
 With any sort of dataset, we need to assess the quality of the data. There are a number of considerations to take into account when assessing the 3D datasets you have at your disposal. The first step is to obtain any reports or metadata concerning the dataset. **Metadata** is information that describes other data – this may describe something as simple as the file format in which the data is saved, what equipment was used to record the data, or what other files are associated with the data. Understanding your data is essential as there are several characteristics that will dictate which software packages will be most useful in managing and processing the dataset for use.
 
