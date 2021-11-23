@@ -1,5 +1,5 @@
 ## Exercise 4 ##
-### Part C (optional): Texturing in Blender
+### Part C: Texturing in Blender (Optional)
 
 Depending on the aims of your reconstruction, you may wish to texture your reconstructed features. Though our prompt does not specify that texturing/colouring is required, you may want the reconstruction to look more realistic, or you may want to differentiate between reality-captured data (untextured) and 3D modelled data. The basics of texturing in Blender will be outlined below, but this is by no means comprehensive. There are many tutorials online that guide you through the processes of UV mapping and texturing in Blender; some will be highlighted below.
 
