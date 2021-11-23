@@ -32,16 +32,16 @@ There are a number of practical and intellectual considerations that need to be 
 
 1. **What are the aims/purpose of the reconstruction?** Who is the audience? Who are the stakeholders? What afterlives might the reconstruction have?
 
-2. **What is the quality and character of the 3D laser scan or photogrammetric data available?** What datasets are required to fully address the aims of the reconstruction?**
+2. **What is the quality and character of the 3D laser scan or photogrammetric data available?** What datasets are required to fully address the aims of the reconstruction?
 Does it need to be metrically accurate? How do you assess the quality of the available 3D datasets; what level of detail is needed for the reconstruction (Exercise 1)? 
 
 3. **Which software tools are suitable to employ in the project?** How do you critically evaluate software tools for a specific purpose (Exercise 2)?
 
 4. **How much time is available to complete the project?** How to prioritise different aspects and manage expectations (Exercise 2)? 
 
-5. **What additional functionality would need to be built in to successfully address the aims of the reconstruction?** How will you denote ambiguity – will this be depicted differently than ‘certainty’? Will multiple phases of the site be included (Exercise 2 - 5)?** 
+5. **What additional functionality would need to be built in to successfully address the aims of the reconstruction?** How will you denote ambiguity – will this be depicted differently than ‘certainty’? Will multiple phases of the site be included (Exercises 2 - 5)?
 
-6. **When recording paradata** (**Paradata** is a record of the decisions made and your thought processes for including or excluding certain elements), **what level of detail will you document?** How will you characterise your workflow? What format will this take in the final output and archive (Optional Materials)?
+6. **When recording paradata** (**Paradata** is a record of the decisions made and your thought processes for including or excluding certain elements), **what level of detail will you document?** How will you characterise your workflow? What format will this take in the final output and archive (Reflect Further materials)?
 
 By ensuring that these are fully considered before an initial meeting with your collaborators, you will be prepared to ask more specific questions and have a more productive first meeting.
 
@@ -78,4 +78,4 @@ In the case of Malthi, the layout of the standing remains is complex, so buildin
 ![Diagram suggesting a line of questioning that will allow students to determine whether they need to use reality captured 3D data in their reconstruction.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig01.png)
 
 
-[Back to the Introduction](/Malthi_1Intended%20Learning%20Outcomes%20and%20Background.md) | [To Exercise 1 Part B](/Malthi_Exercise1_B.md)
+[Back to the Introduction](/Malthi_1Intended%20Learning%20Outcomes%20and%20Background.md) | [Continue To Exercise 1 Part B](/Malthi_Exercise1_B.md)
