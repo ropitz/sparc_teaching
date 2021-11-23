@@ -125,3 +125,26 @@ Overall, this exercise has introduced you to many of the essential 3D modelling 
 - the differences between faces, edges, and vertices;
 - and how to scale, extrude, move, inset, loop cut, and bevel these geometric features.
 
+**If you wish to try applying textures to your house, continue to [Part C of Exercise 4](/Malthi_Exercise4_C.md)**
+
+### Export
+
+Once you have created your reconstruction, it is time to export your creation for use in another venue (Sketchfab, Unity, Unreal, etc). If we want to maintain the positioning of our different features, we may want to export all of our greyboxed walls, our reconstructed house, and the base-map of Malthi. Ensure that all of these are selected in the ‘Scene Collection’ window by left-clicking them while holding the Ctrl key. 
+
+Once these are highlighted, navigate to ‘File > Export > FBX’. This will bring up a window where you have many options. First, name your file a sensible name. Then, ensure that you check the ‘Limit to Selected Objects’ box and the ‘Apply Transform’ options. Then click ‘Export’. 
+
+![A screenshot of the options available upon export.](https://github.com/ropitz/sparc_teaching/blob/2ce1bed99c56260ad1ba408cc8e3bc4c8c633908/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig38.png)
+
+All of the associations with materials will be maintained in this file. You can change the orientation of your reconstruction before exporting, by changing the ‘Forward’ and ‘Up’ settings, but ensure that you know what orientation the destination game engine or 3D hosting platform uses (though in most cases it is quite simple to realign your reconstruction, even if you misjudge it here).
+
+>**Think and Respond:** Do you feel that these assets are sufficient for a reconstruction of the site? What do you feel is missing? While sculpting individual bricks into the side of your reconstructed house might be satisfying, is it necessary to fulfil the brief? Do you need a textured house for the purposes of your reconstruction?
+
+### Resources for Exercise 4:
+
+- Kormann, M., Katsarou, S., Katsonopoulou, D. and Lock, G. 2015. Structural Integrity Modelling of an Early Bronze Age Corridor House in Helike of Achaea, NW Peloponnese, Greece, _CAA Proceedings- Siena 2015_, 825-836. URL: http://www.helikeproject.gr/discoveries.htm
+- Worsham, R., Lindblom, M., and Zikidi, C. 2018. Preliminary report of the Malthi Archaeological Project, 2015–2016. _Opuscula,_ 11: 7-28.
+- Lile, D. 2020. &quot;Intro to Blender UV Mapping&quot;. _YouTube_. Uploaded by Darrin Lile, 19 May 2020, [https://youtu.be/GTd8NBg8EZU](https://youtu.be/GTd8NBg8EZU)
+- The CG Essentials. 2020. &quot;How to Model 7 Different Kinds of ROOFS in Blender - Architectural Modeling Tutorial&quot;. _YouTube_. Uploaded by The CG Essentials, 10 August 2020, [https://youtu.be/Pcb-BBeGt8w](https://youtu.be/Pcb-BBeGt8w).
+- The Institute for the Visualization of History. 2012. http://www.vizin.org/projects/tsoungiza/gallery.html.
+
+[Go back to Part A of Exercise 4](/Malthi_Exercise4.md) | [Go to optional Part C of Exercise 4](/Malthi_Exercise4_C.md) | Go to Exercise 5
