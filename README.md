@@ -64,6 +64,8 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 [Part B: Outputs - Unity (optional)](/Malthi_Exercise5_B.md)
 
+### [Conclusion](/Malthi_Conclusion.md)
+
 ### [Reflect Further: Archiving and Ethics in Digital Reconstructions](/Malthi_ReflectFurther_archive.md)
 
 ### [Quick Troubleshooting](/Malthi_QuickTroubleshooting.md)
