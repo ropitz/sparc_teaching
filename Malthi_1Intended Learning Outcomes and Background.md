@@ -30,4 +30,4 @@ The fifth exercise will present a variety of options for making the reconstructi
 
 Additional resources will discuss what is necessary for including in the reconstruction project’s archive. The importance of paradata, metadata, and archive-friendly file formats will be emphasised. A basic troubleshooting guide is provided, which highlights common issues that students may encounter during the exercise.
 
-
+[To Exercise 1 Part A: Preparation](/Malthi_Exercise1.md)
