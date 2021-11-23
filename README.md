@@ -11,24 +11,24 @@ This repository contains teaching materials designed to introduce university lev
 ### Citation
 To cite these teaching materials, please use the following reference: Kasten, M. (2020) Delving into the Boston Fingerprints Project Archive: A SPARC Teaching Resource. https://github.com/ropitz/sparc_teaching.
 
-### Table of Contents
-[Introduction](/introfinalbp.md)
+## Table of Contents
+### [Introduction](/introfinalbp.md)
 
-[Exercise 1: Familiarising Yourself with 3D Data in MeshLab](/exercise1final.md)
+### [Exercise 1: Familiarising Yourself with 3D Data in MeshLab](/exercise1final.md)
 
-[Exercise 2: Taking measurements in MeshLab](/exercise2final.md)
+### [Exercise 2: Taking measurements in MeshLab](/exercise2final.md)
 
-[Exercise 3: The Basics of CloudCompare](/exercise3final.md)
+### [Exercise 3: The Basics of CloudCompare](/exercise3final.md)
 
-[Exercise 4: Quantitative Approaches to Interpretation](/exercise4final.md)
+### [Exercise 4: Quantitative Approaches to Interpretation](/exercise4final.md)
 
-[Exercise 5: Combining Visual and Metric Analyses in Artefact Interpretation](/exercise5final.md)
+### [Exercise 5: Combining Visual and Metric Analyses in Artefact Interpretation](/exercise5final.md)
 
-[Conclusion](/conclusion.md)
+### [Conclusion](/conclusion.md)
 
-[Reading List](/readinglist.md)
+### [Reading List](/readinglist.md)
 
-[Glossary](/glossary.md)
+### [Glossary](/glossary.md)
 
 ## The Basics of Creating Digital Archaeological Reconstructions: A SPARC Teaching Resource
 This repository contains teaching materials designed to introduce university level students to key considerations, issues, and current scholarship surrounding the creation of digital reconstructions of archaeological resources. Using laser scan data produced by [SPARC](https://sparc.cast.uark.edu/) for the [Malthi Revisited](https://www.sia.gr/en/articles.php?tid=140&page=1) project, five exercises provide step-by-step instructions to guide students through critically considering what is needed for a digital reconstruction, processing the dataset into a usable form, and deciding how to disseminate the reconstruction to a wider audience. 
