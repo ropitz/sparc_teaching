@@ -147,4 +147,4 @@ All of the associations with materials will be maintained in this file. You can 
 - The CG Essentials. 2020. &quot;How to Model 7 Different Kinds of ROOFS in Blender - Architectural Modeling Tutorial&quot;. _YouTube_. Uploaded by The CG Essentials, 10 August 2020, [https://youtu.be/Pcb-BBeGt8w](https://youtu.be/Pcb-BBeGt8w).
 - The Institute for the Visualization of History. 2012. http://www.vizin.org/projects/tsoungiza/gallery.html.
 
-[Go back to Part A of Exercise 4](/Malthi_Exercise4.md) | [Go to optional Part C of Exercise 4](/Malthi_Exercise4_C.md) | Go to Exercise 5
+[Go back to Part A of Exercise 4](/Malthi_Exercise4.md) | [Go to optional Part C of Exercise 4](/Malthi_Exercise4_C.md) | [Go to Exercise 5](/Malthi_Exercise5.md)
