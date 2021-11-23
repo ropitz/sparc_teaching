@@ -52,5 +52,15 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 [Part B: Baking Normals in Blender](/Malthi_Exercise3_B.md)
 
-  
+### Exercise 4
+[Part A: How to Model Assets in Blender](/Malthi_Exercise4.md)
+
+[Part B: Building a Prehistoric House in Blender](/Malthi_Exercise4_B.md)
+
+[Part C: Texturing in Blender (optional)](/Malthi_Exercise4_C.md)
+
+### Exercise 5
+[Part A: Outputs - Sketchfab](/Malthi_Exercise5.md)
+
+[Part B: Outputs - Unity (optional)](/Malthi_Exercise5_B.md)
 
