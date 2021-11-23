@@ -25,7 +25,8 @@ Select one of the faces of your structure; ensure that the ‘UV Editor’ windo
 
 It is also possible to apply solid colours to your mesh – first, navigate to the ‘Material Properties’ options by clicking the red textured sphere (highlighted with a white square); click the ‘+’ button next to the list of materials to create a new slot (highlighted with a red square below). This will cause the name of the material (highlighted with a blue box below) to change to a button that says ‘New’ – press this and a new material will appear. You can change the solid colour either by clicking the ‘base color’ of the new material node, or click the ‘Use nodes’ button to turn it off, and click the ‘Base Color’ option (highlighted with a yellow box below) to change the colour. As before, click the UV island/faces you would like to change and assign this new material to these features.
 
-![Adding solid colour to your 3D model(https://github.com/ropitz/sparc_teaching/blob/f1d70c5f873aaf606c9e8fe6683271e66ab98745/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig37.png)
+![Adding solid colour to your 3D model](https://github.com/ropitz/sparc_teaching/blob/f1d70c5f873aaf606c9e8fe6683271e66ab98745/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig37.png)
 
 This is only a fragment of what you can do with your reconstruction in Blender. As discussed in Exercise 2, it is an important skill to identify what is necessary to achieve the aims of the project, and what is possible in the time-scale you are given.
 
+[Go back to Exercise 4 Part B to Finish Exporting](/Malthi_Exercise4_B.md) | Go to Exercise 5
