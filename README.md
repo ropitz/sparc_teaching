@@ -47,5 +47,10 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 ### [Exercise 2: Planning the next steps for Reconstructed Assets](/Malthi_Exercise2.md)
 
+### Exercise 3
+[Part A: Mesh Cleaning and Decimating](/Malthi_Exercise3.md)
+
+[Part B: Baking Normals in Blender](/Malthi_Exercise3_B.md)
+
   
 
