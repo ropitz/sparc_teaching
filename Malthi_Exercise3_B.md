@@ -38,7 +38,7 @@ To manually fill the hole, ‘**Alt + Left Click’** in the hole. This will sel
 
 ![Manually selecting a hole in the decimated mesh.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig15.png)
 
-Now we need to smooth our Decimated Mesh so that the mapping of your high-resolution normals onto the low-resolution geometry transitions more smoothly between mesh faces (for further insight into this process, see [this blog](https://80.lv/articles/tutorial-how-normal-maps-work-baking-process/) by Carlos Lemos here). Once in Object Mode, right click anywhere in the viewport and select ‘Shade Smooth’. To further smooth your decimated mesh, Next, you may want to add a modifier called ‘Subdivision Surface’. Access this by selecting the ‘wrench’ icon in the ‘Properties’ area of the Blender interface (highlighted with a red box below). Set the ‘Levels View’ to 2. 
+Now we need to smooth our Decimated Mesh so that the mapping of your high-resolution normals onto the low-resolution geometry transitions more smoothly between mesh faces (for further insight into this process, see [this blog](https://80.lv/articles/tutorial-how-normal-maps-work-baking-process/) by Carlos Lemos). Once in Object Mode, right click anywhere in the viewport and select ‘Shade Smooth’. To further smooth your decimated mesh, Next, you may want to add a modifier called ‘Subdivision Surface’. Access this by selecting the ‘wrench’ icon in the ‘Properties’ area of the Blender interface (highlighted with a red box below). Set the ‘Levels View’ to 2. 
 
 ![The Malthi mesh is visible in the Blender viewport. A small wrench symbol is highlighted with a red box to indicate where the 'Add Modifier' section is to allow for further smoothing of your decimated mesh.](https://github.com/ropitz/sparc_teaching/blob/fd3a3d6b424c406a91c56f20427b735d2c970e69/Malthi%20Images%201/Exercise%203%20Images/Ex3Fig16.png)
 
@@ -124,4 +124,4 @@ Middleton, J. 2020. “Photogrammetry Meshroom | Clean up Mesh in Blender | High
 
 Mister P. MeshLab Tutorials. 2011. "Cleaning: Basic Filters." *Youtube.* Uploaded by Mister P. MeshLab Tutorials, 25 May 2011, <https://youtu.be/aoDLrXp1sfY>.
 
-[Back to Exercise 3 Part A](/Malthi_Exercise3.md) | To Exercise 4
+[Back to Exercise 3 Part A](/Malthi_Exercise3.md) | [Continue To Exercise 4](/Malthi_Exercise4.md)
