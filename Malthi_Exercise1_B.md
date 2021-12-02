@@ -20,7 +20,7 @@ With any sort of dataset, we need to assess the quality of the data. There are a
   - and the type of data these files contain (point cloud). A point cloud is composed of calculated points in three-dimensional space, produced when a digital imaging technique measures and records the surface of an object; each point is defined by a set of coordinates on the X, Y and Z planes. 
 
 >**Think and Respond**: Summarise what you now know about the dataset after reading the metadata report. What are some of the challenges you can see in working with this dataset?  Take note of what you think is most important and add it to your Design Document under the Resources: Available section.
-### **Get to know your data – visually open and review samples**
+### **Get to know your data – open and visually review samples**
 Now that we know what type of data and what format the files are saved in, we need to identify how much of the site is represented in the record. First, we need to open the dataset in software well-suited to dealing with point clouds in the .las or .laz format. There are a number of paid software packages that will work with these files (Leica Cyclone, Autodesk ReCap, Esri ArcGIS), but there are a number of free and reliable open source software packages available. In this case, download and install the relevant version of [CloudCompare](https://www.danielgm.net/cc/). 
 
 - Next, download the Profile slices from the relevant Zenodo entry from the SPARC archive here: <https://doi.org/10.5281/zenodo.3833880>. 
