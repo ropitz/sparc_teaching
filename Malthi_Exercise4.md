@@ -69,7 +69,7 @@ As explained in [Exercise 2](/Malthi_Exercise2.md), Greyboxing is a technique us
 
 ![Snapshot of the 'Snap' dropdown menu from the 3D Viewport toolbar.](https://github.com/ropitz/sparc_teaching/blob/41dbafcac5ce6d04a010bf07b3075be689f2c726/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig03.png)
 
-- To scale your cube to reflect these constraints, ensure that the cube is highlighted in the Scene Collection. Press the **N key** tto call up the ‘Transform’ panel, which will appear on the right side of the 3D viewport. Keeping in mind which axis represents the ‘height’ of your scene, in the Dimensions section, change these to reflect the desired scale of your ‘walls’ in real-world units. Once these are set, in the ‘Scale’ section, enable the ‘locks’ next to the two axes you changed. 
+- To scale your cube to reflect these constraints, ensure that the cube is highlighted in the Scene Collection. Press the **N key** to call up the ‘Transform’ panel, which will appear on the right side of the 3D viewport. Keeping in mind which axis represents the ‘height’ of your scene, in the Dimensions section, change these to reflect the desired scale of your ‘walls’ in real-world units. Once these are set, in the ‘Scale’ section, enable the ‘locks’ next to the two axes you changed. 
 
 ![How to alter the dimensions/scale of the cube primitives in Blender.](https://github.com/ropitz/sparc_teaching/blob/41dbafcac5ce6d04a010bf07b3075be689f2c726/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig04.png)
 
