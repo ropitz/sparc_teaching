@@ -3,6 +3,9 @@
 The following provides a quick reference for common issues encountered during these exercises.
 
 ## Exercise 1
+### I've tried segmenting a cloud, but nothing seems to be happening?
+Make sure that you have the correct cloud selected/highlighted in the 'DB Tree', then try segmenting the point cloud again.
+
 ### CANUPO doesn’t seem to be classifying the vegetation correctly – how can I increase its accuracy?
 Because CANUPO is a machine learning algorithm, it may need more samples to correctly differentiate between stone and vegetation. Try adding more samples from different parts of your segmented dataset. 
 
