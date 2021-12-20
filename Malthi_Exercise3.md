@@ -1,4 +1,7 @@
 ﻿## Exercise 3
+ 
+ *Allow at least 1 1/2 hours for Exercise 3 - additional time will be needed if creating Normal maps for multiple regions of the laser scan data from Malthi.*
+ 
 ### Optimising Reality-Captured Assets in MeshLab and Blender
  
 ### Part A: Cleaning and Decimating ###
