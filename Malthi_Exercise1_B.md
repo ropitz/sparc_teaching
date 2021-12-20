@@ -21,6 +21,9 @@ With any sort of dataset, we need to assess the quality of the data. There are a
 
 >**Think and Respond**: Summarise what you now know about the dataset after reading the metadata report. What are some of the challenges you can see in working with this dataset?  Take note of what you think is most important and add it to your Design Document under the Resources: Available section.
 ### **Get to know your data – open and visually review samples**
+
+[A step-by-step guide from this point onward in Exercise 1 can be found here.](https://youtu.be/RYlTGRx3hbE)
+
 Now that we know what type of data and what format the files are saved in, we need to identify how much of the site is represented in the record. First, we need to open the dataset in software well-suited to dealing with point clouds in the .las or .laz format. There are a number of paid software packages that will work with these files (Leica Cyclone, Autodesk ReCap, Esri ArcGIS), but there are a number of free and reliable open source software packages available. In this case, download and install the relevant version of [CloudCompare](https://www.danielgm.net/cc/). 
 
 - Next, download the Profile slices from the relevant Zenodo entry from the SPARC archive here: <https://doi.org/10.5281/zenodo.3833880>. 
