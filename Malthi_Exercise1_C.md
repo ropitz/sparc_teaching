@@ -1,6 +1,8 @@
 ## **Exercise 1**
 ### **Part C: Prepare your data – extracting what you need**
 
+[Step-by-step instructions for this part of the exercise can be found here.](https://youtu.be/RYlTGRx3hbE?t=300)
+
 For the purposes of our exercise, we are primarily interested in the foundations of the buildings at a minimum, as we wish to understand what it would be like to navigate the built space. We also decided that we want to work with meshes rather than point clouds because, while point clouds are aesthetically pleasing and technically the most accurate part of a 3D dataset, point clouds are not the traditional basic unit of construction used in 3D modelling; instead, we will be working with meshes. Like the SfM photogrammetry models you viewed in the previous step, a **mesh** is formed when triangular polygons are generated between the points of a point cloud until a ‘solid’ mesh is created. The point cloud becomes the **vertices** of the mesh. This means that, to progress further, we need to translate from a point cloud to a mesh. Conceptually, this means we need to get our point cloud to only include points we want forming the meshed surface. Meshing is the software essentially playing connect-the-dots to draw a picture. If you include dots (laser scan points) that you don’t want to have be part of the picture the software is drawing, it will include them anyway and your picture will look pretty strange. 
 
 ![On the left, a series of 'points' - on the right, the dots have been connected to form a meaningful 'mesh'.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig04.png)
