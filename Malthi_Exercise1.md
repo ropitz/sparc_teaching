@@ -1,4 +1,4 @@
-## **Exercise 1**
+## Exercise 1
 ### **Part A: Introduction**
 
 The aim of this teaching resource is to introduce you to the technical basics and the theoretical issues underlying the process of creating digital reconstructions of archaeological sites. As will become apparent throughout the module, certain elements of the actual workflow are very project-specific and contingent on the needs of the project. To frame your thinking and the decisions you make in the following exercises, we have provided an example ‘Project Brief’ below.
