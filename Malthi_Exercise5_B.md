@@ -19,20 +19,20 @@ Finally, you need to ensure that most large holes (most of which arise from merg
 
 - In edit mode, select two edges that are close to each other, but belong to the two meshes you are attempting to join. (Do this by holding shift while left-clicking each edge.)
 
-![Screenshot showing the selection of two small edges (in orange) to enable bridging edge loops.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig20.png)
+![Screenshot showing the selection of two small edges (in orange) to enable bridging edge loops.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig20.png?raw=true)
 
 - **Right-click** anywhere in the scene, then select ‘Bridge Edge Loops’ from the menu that appears.
 - Repeat this at the other ‘end’ of the hole – you want to ensure that you have created an ‘Open Loop’ between the two meshes. 
 
-![A screenshot showing where to find the 'Bridge Edge Loops' option.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig21.png)
+![A screenshot showing where to find the 'Bridge Edge Loops' option.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig21.png?raw=true)
 
 - You should now be able to select the loop by holding ‘**Alt**’ **and left-clicking inside or near the edge of the hole**. If it does not select the whole loop automatically, use a series of ‘**Ctrl + left click**’ to build a loop through the ‘Shortest path’ function.
 
-![A screenshot showing the hole outlined in orange, which can now be closed with the 'Fill' option.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig22.png)
+![A screenshot showing the hole outlined in orange, which can now be closed with the 'Fill' option.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig22.png?raw=true)
 
 - Finally, use **‘Alt+F’** or right-click anywhere and select the ‘Fill’ tool. 
 
-![A screenshot of the filled hole in the mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig23.jpg)
+![A screenshot of the filled hole in the mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig23.jpg?raw=true)
 
 Once your data is ready, export them into either the FBX or OBJ format. While you can import the entire [BLEND file into Unity](https://docs.unity3d.com/530/Documentation/Manual/HOWTO-ImportObjectBlender.html), at the time of writing this was still less reliable than exporting the files directly.
 
@@ -41,7 +41,7 @@ Now that your files are ready, you’ve installed Unity on your computer, and yo
 
 First, open Unity. You will be greeted with a pop up like the one below (note that this Exercise will be providing examples from version 2020.3.18f1). Choose a 3D Template, name your project and choose where to save it. It will then take some time to create the project.
 
-![The window that pops up when you start Unity (version 2020.3.18f1). Choose '3D Template'](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig24.png)
+![The window that pops up when you start Unity (version 2020.3.18f1). Choose '3D Template'](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig24.png?raw=true)
 
 Now that you have created your blank Unity project, here are a few basic controls you will need to get used to:
 
@@ -50,7 +50,7 @@ Now that you have created your blank Unity project, here are a few basic control
 - Right click and drag: Rotate 3D view (not to rotate the 3D model)
 - To move/rotate the 3D assets, use the toolbar in the top left corner of the Unity interface:
 
-![Toolbar used to move and rotate the 3D assets in the Unity viewport.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig25.png)
+![Toolbar used to move and rotate the 3D assets in the Unity viewport.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig25.png?raw=true)
 
 More of Unity’s controls can be found in its [Documentation here.](https://docs.unity3d.com/Manual/SceneViewNavigation.html)
 
@@ -59,40 +59,40 @@ If you wish to keep your laser scan data looking exactly as it did in Blender, y
 
 When Unity opens the 3D Template, you will see a few familiar-looking areas. For one, it has a ‘Hierarchy Window’ much like Blender, where you can find all of the ‘layers’ or individual ‘assets’ in the project. There is a ‘Project Window’ at the bottom of the screen, where you will likely see a sole ‘Assets’ folder. Open the assets folder, and drag your decimated, normal-mapped laser scan data into the ‘Assets’ folder.
 
-![Drag and drop your 'site' or 'terrain' data into the Asset folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig26.png)
+![Drag and drop your 'site' or 'terrain' data into the Asset folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig26.png?raw=true)
 
 Once your 3D data is in the ‘Assets’ folder, you can click and drag it directly into the ‘Scene’ window.
 
-![Dragging the map of Malthi into the 'Scene'.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig27.png)
+![Dragging the map of Malthi into the 'Scene'.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig27.png?raw=true)
 
 Now, let’s rotate the model so that the surface of the site is pointing up (note that the Y axis is up in Unity). Select the Malthi model and the ‘Inspector Window’ will provide many options. Under ‘Transform’, change the rotation of the X Axis to 270.
 
-![Aligning the 'site' so that 'up' is aligned with the Y axis.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig28.png)
+![Aligning the 'site' so that 'up' is aligned with the Y axis.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig28.png?raw=true)
 
 Next, copy over your ‘Structures’ in the same way, and apply the same transformation so that they are roughly aligned with your site.
 
-![Importing the 'Structures'.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig29.png)
+![Importing the 'Structures'.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig29.png?raw=true)
 
 When we place the structures into the scene, they will not be perfectly aligned with the site. 
 
 - You can use ‘Transform’ to position them in roughly the correct place, but undoubtedly you will still need to use the ‘Move’ and ‘Rotation’ tools (highlighted in the red box below) to place them perfectly. Left-click and drag the arrows to move the features along one axis; the same can be done with the rotational tool (left-click and drag one coloured circle to rotate the 3D data along one axis).
 - Like in Blender, you can use the navigational gizmo to align yourself above Malthi by clicking the ‘Y’ cone (highlighted with a blue box below).
 
-![Use the 'Move' and 'Rotation' tools to align the structures with the walls visible in the mesh](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig30.png)
+![Use the 'Move' and 'Rotation' tools to align the structures with the walls visible in the mesh](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig30.png?raw=true)
 
 Now you may want to add your normal maps to the Unity project – you can either drag all of your normal maps into the Asset folder (like you did with the 3D objects), or create a new folder for them. When you import your normal maps, Unity should automatically identify that they are normal maps, because they were attached to your 3D model in Blender as ‘Materials’; Unity should automatically identify this reference. This triggers a pop up window, with Unity asking if you want to ‘fix’ them – click ‘Fix now’ and these will become associated with your laser scanned data.
 
-![Unity automatically identifies that the texture you have imported is a normal map - it asks before labelling the image as a normal map.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig31.png)
+![Unity automatically identifies that the texture you have imported is a normal map - it asks before labelling the image as a normal map.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig31.png?raw=true)
 
 If something doesn’t look quite right, you can check the ‘Inspector’ for your laser scanned data – for each dataset that you broke down the original laser scan data into, there will be a specific material slot. If you open this ‘material slot’ as in the image below, you can check that the correct Normal map has been assigned by clicking on the normal map slot (highlighted with a red box) – it will highlight the normal map that is assigned to this material slot in the ‘Assets’ folder.
 
-![If a normal map does not appear to have been applied correctly, check that the correct normal map has been applied to each material slot for your laser scan data.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig32.png)
+![If a normal map does not appear to have been applied correctly, check that the correct normal map has been applied to each material slot for your laser scan data.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig32.png?raw=true)
 
 Now, to ensure that the user will be able to walk on your laser scan data, we need to add something called a ‘Mesh Collider’. This will ensure that the laser scan data is treated as a ‘solid surface’, enabling characters to ‘collide’ with the site data. To add a Mesh Collider to your laser scan data, ensure that your mesh is highlighted and its details are visible in the Inspector. In the Inspector window, scroll all the way down to the ‘Add Component’ option. Then, search for the ‘Mesh Collider’ component, as shown below. Select Mesh Collider, and it will be added to the list of components (likely above the material slots). Once this is applied, check the ‘convex’ box. This process may take some time to complete.
 
-![After clicking 'Add Component', you will be able to search for the 'Mesh Collider' component.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig33.png)
+![After clicking 'Add Component', you will be able to search for the 'Mesh Collider' component.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig33.png?raw=true)
 
-![The Mesh Collider Component will appear in the Inspector just above the Material slots. Check the box next to 'Convex'](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig34.png)
+![The Mesh Collider Component will appear in the Inspector just above the Material slots. Check the box next to 'Convex'](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig34.png?raw=true)
 
 At this point, you have now converted your laser scan data into a ‘solid surface’ for your users to (eventually) navigate! If you are happy with this, **skip to the ‘Adding the First Person Controller’ section below.**
 
@@ -101,91 +101,91 @@ If, instead of wanting to keep your normal maps, you want to work with Unity’s
 
 - Once you have acquired this script, right click in your Assets folder and ‘Create > Folder’. When you name this folder, name it Editor – ensure it has a capital E and that you’ve spelled it correctly, otherwise the script will not work.
 
-![Create the Editor folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig35.png)
+![Create the Editor folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig35.png?raw=true)
 
 - Open the newly created Editor folder, then click and drag the ‘Object2Terrain’ script into the Editor folder.
 
-![Drag the 'Object2Terrain' script into the Editor folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig36.png)
+![Drag the 'Object2Terrain' script into the Editor folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig36.png?raw=true)
 
 - Unity will then ask if you consent to the script updating – say yes to these and other pop ups that might appear.
 
-![Allow the script to update.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig37.png)
+![Allow the script to update.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig37.png?raw=true)
 
 - Once this has completed, note that there is a new menu item added to Unity called ‘Terrain’. This has been added by the script.
 
-![Note that the 'Terrain' tab has been added as a dropdown menu from the top of the Unity interface.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig38.png)
+![Note that the 'Terrain' tab has been added as a dropdown menu from the top of the Unity interface.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig38.png?raw=true)
 
 - Now add your assets – Open the main Assets folder, and drag your decimated laser scan data into the ‘Assets’ folder.
 - Drag your mesh from the ‘Assets’ folder into the 3D Viewer.
 - With your mesh  highlighted, rotate the model so that the surface of the site is pointing up (note that the Y axis is up in Unity). The ‘Inspector Window’ will provide many options. Under ‘Transform’, change the rotation of the X Axis to 270.  
 - Take note of the grid that you can see in the scene – to create a terrain, you want your original mesh to be located above the grid. Use the ‘Move’ tool – drag up on the arrows that appear on the mesh until the grid lines are clearly positioned below the mesh.
 
-![The move tool is highlighted in the Unity toolbar.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig39.png)
+![The move tool is highlighted in the Unity toolbar.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig39.png?raw=true)
 
-![The mesh is clearly positioned above the grid.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig40.png)
+![The mesh is clearly positioned above the grid.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig40.png?raw=true)
 
 - Once you are certain the mesh is positioned above the grid, ensure that the laser scanned mesh is highlighted. Then, navigate to the ‘Terrain’ drop down menu, and select ‘Object to Terrain’.
 
-![The image shows the Unity interface, with the 'Terrain' dropdown menu engaged, showing the 'Object to Terrain' option, which should then be selected.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig41.png)
+![The image shows the Unity interface, with the 'Terrain' dropdown menu engaged, showing the 'Object to Terrain' option, which should then be selected.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig41.png?raw=true)
 
 - Selecting ‘Object to Terrain’ will prompt a new dialog box to appear. It asks for you to set the resolution of your terrain (the example mesh has been set to 1080), along with a few other options. Ensure that ‘Bottom Up’ is selected, as the script will prompt Unity to extrude a mesh to match the current elevation of your mesh (essentially, it will project a terrain mesh upwards from the grid, until it matches/adheres to the contours of your decimated mesh).
 - It is important that you do not exceed 2000 for any of the values in this dialog box, as this may cause the software to crash.
 
-![The Object2Terrain dialogue box prompts you to provide a resolution at which to project the details from your mesh to the terrain mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig42.png)
+![The Object2Terrain dialogue box prompts you to provide a resolution at which to project the details from your mesh to the terrain mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig42.png?raw=true)
 
 - After the script completes, a new mesh will appear in the 3D viewer (likely in a check-box texture, as shown below). This is your new terrain, derived from your decimated mesh. This will now enable you to easily apply textures to your mesh and to use the [Terrain tools](https://docs.unity.cn/560/Documentation/Manual/script-Terrain.html) built into Unity’s interface.
 - Now, add your structures to the Assets folder like you did with the original mesh. Drag these into the 3D viewer and align it with your Terrain. 
 
-![Your structures can now be added to the scene and positioned onto your Terrain mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig43.png)
+![Your structures can now be added to the scene and positioned onto your Terrain mesh.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig43.png?raw=true)
 
 **- Make sure you save!**
 
 ### Adding the First Person Controller
 Whether you decided to go with the ‘Terrain’ or the ‘Mesh Collider’ approach to creating the floor of your experience, you can now add your user’s first-person player character. To do this, navigate to the ‘Window’ option and select ‘Package Manager’. (Note: The following instructions assume that you have added a first person player controller from the Unity store, as outlined at the start of this exercise.)
 
-![A screenshot showing how to access the Unity Package Manager from the Window drop down menu.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig44.png)
+![A screenshot showing how to access the Unity Package Manager from the Window drop down menu.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig44.png?raw=true)
 
 In the Package manager, change the ‘Package’ drop down menu to ‘My Assets’ (highlighted with a red box below). From here, choose ‘Starter Assets – First Person Character Controller’ and click ‘Import’ in the bottom right hand corner (highlighted with a blue box below).
 
-![How to add the 'Starter Assets - First Person Character Controller' to the project.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig45.png)
+![How to add the 'Starter Assets - First Person Character Controller' to the project.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig45.png?raw=true)
 
 Unity will then take some time before coming up with another pop up as shown below, click import again.
 
-![A new pop up window will provide details for the assets that you are adding to your project - click Import.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig46.png)
+![A new pop up window will provide details for the assets that you are adding to your project - click Import.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig46.png?raw=true)
 
 Unity will then take some time to add these components to your project. After some time, a new pop up will appear, asking if you want to enable backends. Click YES, which will cause Unity to do some more processing, and then will restart completely. 
 
-![Unity will ask if you want to enable backends - click Yes and Unity will restart.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig47.png)
+![Unity will ask if you want to enable backends - click Yes and Unity will restart.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig47.png?raw=true)
 
 **Be sure to save!**
 
 - The Starter Assets have now been added to a new folder called ‘Starter Assets’. In this folder, navigate to the ‘FirstPerson’ folder by double-clicking.
 
-![How your screen will appear once the Starter Assets have been added to your project. Navigate to the First Person folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig48.png)
+![How your screen will appear once the Starter Assets have been added to your project. Navigate to the First Person folder.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig48.png?raw=true)
 
 - Then navigate to the ‘Prefabs’ folder. You will want the ‘Nested Parent’ asset. Like you have done with the others, click and drag the controller in, but be sure that you position it somewhere above the site. If you need to reposition it, you will need to zoom out significantly to find the ‘move’ interface on screen.
 
-![After dragging in the FPC, you may need to zoom out significantly to find the 'move' controls.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig49.png)
+![After dragging in the FPC, you may need to zoom out significantly to find the 'move' controls.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig49.png?raw=true)
 
 - Take some time to examine the individual components of the ‘Nested Parent’ character – you can do this by clicking the arrow next to it in the ‘Hierarchy’ window. 
   - Essentially, the capsule acts as the ‘player’, which houses the main camera, which is then directed to ‘follow the player’. There is also the on-screen interface.
   - Because there is a camera incorporated into the capsule, we do not need the additional ‘main camera’ that the 3D template started us out with. Go back to the main hierarchy list and delete the ‘Main Camera’ there.
 
-![The components of the 'Nested Parent' first person character controller.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig50.png)
+![The components of the 'Nested Parent' first person character controller.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig50.png?raw=true)
 
 - Now it is time to test your experience! Above your 3D viewport, you may have noticed a ‘play’ button. Press the play button to begin.
 
-![Use the 'play' button to test your game.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig51.png)
+![Use the 'play' button to test your game.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig51.png?raw=true)
 
 - You will now take control of your ‘player capsule’. Move your character in the viewport much like you would most PC games: use the ‘WASD’ keys to move the character, move your mouse to change where your character is looking. The space key will cause the character to jump, and holding a ‘Shift’ key will cause your character to run.
 
-![You should be able to test your 'game' in the 3D viewport using the WASD keys. Your mouse controls the direction of the camera.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig52.png)
+![You should be able to test your 'game' in the 3D viewport using the WASD keys. Your mouse controls the direction of the camera.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig52.png?raw=true)
 
 - If you want to exit the ‘test’ phase, hit the ‘Esc’ key to make your mouse visible again, then press either the ‘pause’ button, or press ‘play’ again to reset the position of your first person player controller.
 - If you want to change how quickly your character can move, or to change its height, open the ‘Nested Parent’ layer in the Hierarchy window and highlight the ‘Player Capsule’. Under ‘First Person Controller (Script)’, you will see a number of options that you can change. 
   - Be sure to test after each of these changes you make to see how it affects the experience, because it can cause some problems.  For example, if you make it so that your character can move quite quickly, this may cause the camera to ‘clip through’ the player capsule.
 
-![How to edit the speed, jump height, etc of your player capsule.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig53.png)
+![How to edit the speed, jump height, etc of your player capsule.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig53.png?raw=true)
 
 >**Try it yourself!** You may have noticed that your character is currently able to move through the walls of your reconstruction. How would you ensure that your player character collides with these structures?
 
@@ -195,20 +195,20 @@ If you have instead chosen to keep your normal maps intact, you will already hav
 
 - To make your materials editable, click on your original mesh in the ‘Assets’ folder below (highlighted with a red box) so that the Inspector displays the materials information. Create a Materials folder, then click ‘Extract materials’ from the Inspector (highlighted with a blue box). From the pop up menu, select your materials folder. 
 
-![Click on your original mesh to find the 'Extract materials' option in the Inspector window.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig54.png)
+![Click on your original mesh to find the 'Extract materials' option in the Inspector window.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig54.png?raw=true)
 
 - Once the materials are unpacked, click on your mesh in the scene twice to open all of the options available in the Inspector tab. You will now see a Materials drop down menu under ‘Mesh Renderer’ that are interactable. Double-click on one of the materials to open the inspector for that material (highlighted with a red box below).
 
-![Choose one of the materials to open the material Inspector.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig55.png)
+![Choose one of the materials to open the material Inspector.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig55.png?raw=true)
 - If you haven’t already, ensure that your normal maps are also imported into the Unity project (preferably in the same folder as your unpacked materials). Begin assigning normal maps to the corresponding material. If you did not name your material slots in Blender, it is likely that this will not be immediately clear which normal map belongs to each material. To simplify this, change the colour of the material by clicking the box next to ‘Albedo’ in the Material inspector and pick a colour (highlighted with a blue box below). As long as you named your mesh sub-sections in a structured way, it should be easy to find the corresponding normal map for the section that has had its colour changed. Click the circle next to ‘Normal Map’ (highlighted with a red box below) and assign the correct file. It should be immediately apparent if the normal map is the correct one, as your details will appear.
 
 >**Note:** Unity may not recognise that these are Normal maps upon import (especially if you are working with an OBJ file). Simply click on the normal map and change (or if you assign a normal map to a material, it will ask if you want to fix this now and do it automatically). 
 
-![Change the colour of the material so that you can identify the correct normal map to assign to it.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig56.png)
+![Change the colour of the material so that you can identify the correct normal map to assign to it.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig56.png?raw=true)
 
 - To make future changes easier, be sure to rename the Material to match its corresponding Normal Map after you have identified it, by right-clicking on the Material in the folder and selecting ‘Rename’. You can then experiment with different settings for each material by adding textures or  colour until you get the look you want for your site.
 
-![Screenshot showing how to rename the Materials to make matching materials to different areas of your mesh easier](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig57.png)
+![Screenshot showing how to rename the Materials to make matching materials to different areas of your mesh easier](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig57.png?raw=true)
 
 >**Think and respond:** What other details can you add to your reconstruction? What is necessary to address the aims of the project? Other textures? Should the light source in the scene be positioned in a certain direction (where would the sun be above the actual site of Malthi during the morning? The afternoon? The evening?) As you test your experience, what is missing? Do you need to add a bounding box to ensure your users cannot fall into the ‘void’? What about sound?
 
@@ -216,7 +216,7 @@ While this tutorial has introduced you to a few of the basics behind creating a 
 
 Now, how will your Unity project be made available? There are a number of options for you to explore if you navigate to ‘File>Build Settings’, as shown below. If you want to publish it on a website, you will likely need to publish it for WebGL – Unity provides a tutorial specifically for this [here](https://learn.unity.com/tutorial/how-to-publish-for-webgl). 
 
-![Window displaying the Build options for a Unity project.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig58.png)
+![Window displaying the Build options for a Unity project.](https://github.com/ropitz/sparc_teaching/blob/e6e66d728b708629dbc2831778a64e3e56f86d06/Malthi%20Images%202/Exercise%205%20Images/Ex5Fig58.png?raw=true)
 
 **Thinking about going further**
 
