@@ -92,6 +92,7 @@ There are a few automated tools to remove these unwanted features in CloudCompar
 - The point cloud will now have a ‘Scalar Field’ available called ‘CANUPO.class’ that can be visualised. This is how the plugin has classified the entirety of the point cloud – as either ‘Grass/vegetation’ or ‘Stone’ in this example. 
 
 >**Try it yourself!** How successful was your classifier at separating the point cloud into vegetation vs non-vegetation geometry?
+
 ![A visualisation of how CANUPO has classified our Malthi dataset. ](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig15.png?raw=true)
 
 - The point cloud can then be split according to the classifier by navigating to ‘Edit > Scalar fields > Filter by Value’ and changing this to exclude one of the two classifiers (for example, changing the range to 1.1 – 2.0, which will exclude the Class #1 points). Hit the ‘Split’ button and two separate point clouds will be generated. The ‘Stone-classifier’ point cloud will be retained for meshing.
@@ -178,6 +179,7 @@ Despite removing the global coordinates, the meshes produced from the Malthi las
 >*n.b. In a real project, you would now go back and deploy this routine over all your point clouds you want to convert to meshes.*
 
 >**Think and Respond:** By the end of this process, you should have a mesh of all or part of the site of Malthi. Take a closer look at the mesh – is this a sufficient level of detail for what you will need to reconstruct the site? What essential parts are present, if the aim of the reconstruction is to get a sense of how the site would be navigated? Which essential parts are missing? Are there any stray bits of mesh that need to be cleaned up/removed?
+
 ### Step 6: Export your data
 Ensure that, at a minimum, you have saved your completed mesh(es) and their associated point cloud as a backup .bin file in case you ever wish to make adjustments. As noted above, you may want to use the map from the preliminary Malthi report to record the names you gave subsets of the data. 
 
