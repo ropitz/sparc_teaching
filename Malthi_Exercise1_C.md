@@ -1,4 +1,4 @@
-## **Exercise 1**
+## Exercise 1
 ### **Part C: Prepare your data – extracting what you need**
 
 [Step-by-step instructions for this part of the exercise can be found here.](https://youtu.be/RYlTGRx3hbE?t=300)
