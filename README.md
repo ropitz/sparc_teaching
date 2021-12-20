@@ -72,3 +72,4 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 ### [All Resources](/allresources.md)
 
+### [Think and Respond Worksheet: All 'Think and Respond' and 'Try it yourself!' tasks](/thinkandrespondworksheet.md)
