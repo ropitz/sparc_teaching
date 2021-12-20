@@ -103,3 +103,19 @@ Unity User Manual 2020.3 (<https://docs.unity3d.com/Manual/index.html>)
 ### YouTube Videos Utilised:
 - de Byl, Penny. 2018. “FBX Importing to Unity 2017/2018+ Where did my textures go?” *Youtube*. Uploaded by Holistic3d, 25 January 2018, <https://www.youtube.com/watch?v=xOeodlLTx8g>.
 - [Imphenzia](https://youtube.com/playlist?list=PLC7nmYI-cbT1uGmB9_D74VIUh7qN_YsH5).  2020. “LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make”. *YouTube*. Uploaded by Imphenzia, 24 July 2020, <https://youtu.be/pwZpJzpE2lQ>.
+
+## Reflect Further: Archiving and Ethics
+- Archaeology Data Service: <https://archaeologydataservice.ac.uk/about/ourWork.xhtml>
+  - Archival Strategy: <https://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-0>
+  - Metadata: <https://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2>
+  - Templates: <https://archaeologydataservice.ac.uk/advice/Downloads.xhtml>
+- Europeana. 2021. https://pro.europeana.eu/. 
+  - Mission Statement: <https://pro.europeana.eu/about-us/mission#brief-history>
+  - Process: <https://pro.europeana.eu/share-your-data/process>
+  - Europeana Data Model: <https://pro.europeana.eu/page/edm-documentation>
+- Dublin Core Metadata Initiative. 2021. <http://dublincore.org/>. 
+  - Metadata Basics: [http://dublincore.org/resources/metadata-basics/#](http://dublincore.org/resources/metadata-basics/)
+- Jones, M. 2012. Hypothesizing Southampton in 1454:  A Three-dimensional Model of the  Medieval Town. In: (eds) Bentkowska-Kafel, A., Denard, H., and Baker, D. *Paradata and Transparency in Virtual Heritage.* Surrey: Ashgate Publishing Ltd.
+- Lanjouw, T. 2016. Discussing the obvious or defending the contested: why are we still discussing the ‘scientific value’ of 3D applications in archaeology? In: (eds) Kamermans, H., de Neef, W., Piccoli, C., Posluschny, A., and Scopigno, R. *The Three Dimensions of Archaeology: Proceedings of the XVII UISPP World Congress (1–7 September 2014, Burgos, Spain).* Oxford: Archaeopress. Pages 1-12. 
+- Ross, D. 2017. The Role of Ethics, Culture, and Artistry. *Scientific Illustration, Technical Communication Quarterly*, 26(2): 145-172. DOI: 10.1080/10572252.2017.1287376
+- Watterson, A. 2015. Beyond Digital Dwelling: Re-thinking Interpretive Visualisation in Archaeology. *Open Archaeology,* 1(1): 119-130. <https://doi.org/10.1515/opar-2015-0006>.
