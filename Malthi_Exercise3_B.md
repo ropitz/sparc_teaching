@@ -1,4 +1,4 @@
-## Exercise 3 ##
+## Exercise 3
 ### Part B: Baking Normals in Blender ###
 
 [A step-by-step video for this part of Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY?t=415)
