@@ -1,6 +1,8 @@
 ## Exercise 4 ##
 ### Part B: Building a prehistoric house in Blender 2.9.3.1 ###
 
+[A step-by-step video for Exercise 4B can be found here.](https://youtu.be/0pWxZ5atUQk)
+
 While greyboxing may give us enough to work with to meet the some of the most basic requirements of our reconstruction (layout of buildings/walls and scale of features), it is likely that you will want to model assets to provide a more detailed interpretation of the site. For this, we may want to review some reference images for proposed reconstructions of Middle/Late Bronze Age structures in Greece (have a look online, but be critical; which seem credible?). For the purposes of this exercise, we will go through how to recreate the basic form of one of the Late Bronze Age houses at [Tsoungiza](http://www.vizin.org/projects/tsoungiza/gallery.html).
 
 ![One of the reconstructed Late Bronze age houses created for the site of Tsoungiza, created by The Institute for the Visualisation of History.](https://github.com/ropitz/sparc_teaching/blob/2ce1bed99c56260ad1ba408cc8e3bc4c8c633908/Malthi%20Images%202/Exercise%204%20Images/Ex4Fig12.png)
