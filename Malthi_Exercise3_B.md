@@ -123,7 +123,7 @@ KatsBits. 2015. “Bake Normal Maps With Cycles.” Website. 9 May 2015, <https:
 
 Lemos, C. 2020. “Tutorial: How Normal Maps Work & Baking Process”. *80.LV Article.* 24 March 2020. https://80.lv/articles/tutorial-how-normal-maps-work-baking-process/.
 
-Middleton, J. 2020. “Photogrammetry Meshroom | Clean up Mesh in Blender | High-Poly to Low-Poly Normal Map Baking.” *YouTube.* Uploaded by J Middleton, 21 October 2020, <https://youtu.be/MrUVeV0wsH8>.
+Middleton, J. 2020. “Photogrammetry Meshroom Clean up Mesh in Blender High-Poly to Low-Poly Normal Map Baking.” *YouTube.* Uploaded by J Middleton, 21 October 2020, <https://youtu.be/MrUVeV0wsH8>.
 
 Mister P. MeshLab Tutorials. 2011. "Cleaning: Basic Filters." *Youtube.* Uploaded by Mister P. MeshLab Tutorials, 25 May 2011, <https://youtu.be/aoDLrXp1sfY>.
 
