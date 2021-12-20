@@ -1,4 +1,4 @@
-## Exercise 4 ##
+## Exercise 4
 ### Part A: How to model assets in Blender ###
 
 [A step-by-step video for Exercise 4A can be found here.](https://youtu.be/vQICbC3rljQ)
