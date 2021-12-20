@@ -20,6 +20,7 @@ With any sort of dataset, we need to assess the quality of the data. There are a
   - and the type of data these files contain (point cloud). A point cloud is composed of calculated points in three-dimensional space, produced when a digital imaging technique measures and records the surface of an object; each point is defined by a set of coordinates on the X, Y and Z planes. 
 
 >**Think and Respond**: Summarise what you now know about the dataset after reading the metadata report. What are some of the challenges you can see in working with this dataset?  Take note of what you think is most important and add it to your Design Document under the Resources: Available section.
+
 ### **Get to know your data – open and visually review samples**
 
 [A step-by-step guide from this point onward in Exercise 1 can be found here.](https://youtu.be/RYlTGRx3hbE)
