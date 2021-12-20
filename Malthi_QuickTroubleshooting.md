@@ -29,6 +29,7 @@ First, try hitting ‘Viewport Shading’ in the 3D Viewport with only the decim
 - If that doesn’t work, use Smart UV Project rather than creating your own islands at first – this can cause issues too. 
 - Make sure that your nodes are aligned correctly. Be sure that your Image Texture is set to ‘Non-Colour’ space. 
 - If none of these things make a difference, ensure that you have highlighted the correct nodes and layers in the correct order before baking the normal. 
+
 ### I’ve tried putting all of my meshes together, and it’s causing my computer to lag. What can I do?
 Are there some tiles that are much larger than the others? You may need to re-decimate these meshes (though try doing this with Blender’s inbuilt decimation tool first – see directions at the beginning of Exercise 5). Note that this can cause issues with your normal maps though.
 
