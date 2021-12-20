@@ -70,3 +70,5 @@ To cite these teaching materials, please use the following reference: Kasten, M.
 
 ### [Quick Troubleshooting](/Malthi_QuickTroubleshooting.md)
 
+### [All Resources](/allresources.md)
+
