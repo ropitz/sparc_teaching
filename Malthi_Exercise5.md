@@ -1,4 +1,7 @@
 ﻿## Exercise 5
+ 
+ *Allow 30 - 45 minutes for Sketchfab activity; allow at least 2 hours for Unity activity, though processing times may vary according to hardware available.*
+ 
 ### Planning your outputs: Interactions and Platforms
 Now that you have your completed reconstruction of Malthi in Blender, you will undoubtedly have a better archaeological understanding of the site and how the structural evidence could have restricted/allowed movement through different parts of the site. But what do you plan on doing with this 3D reconstruction? Do you plan on making this accessible to the wider public? What type of format do you think would make this most effective?
 
