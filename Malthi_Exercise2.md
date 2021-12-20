@@ -1,4 +1,5 @@
-﻿## Exercise 2: Planning the next steps for Reconstructed Assets
+﻿## Exercise 2 
+### Planning the next steps for Reconstructed Assets
 In the first exercise, you prepared your ‘reality captured’ assets to integrate into your reconstruction. In the next steps of planning, you will need to decide how to design features that are not well preserved in the archaeological record, choose the tools you will use to design and build ‘reconstructed’ assets, and maintain a record of your modelling decisions as you make these for later archiving.
 
 **Design Decisions and Tools**
