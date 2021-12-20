@@ -1,4 +1,5 @@
-﻿## Exercise 3: Optimising Reality-Captured Assets in MeshLab and Blender
+﻿## Exercise 3
+## Optimising Reality-Captured Assets in MeshLab and Blender
  
 ### Part A: Cleaning and Decimating ###
 
