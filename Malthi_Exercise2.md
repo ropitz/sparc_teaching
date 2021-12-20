@@ -59,13 +59,13 @@ When considering the different possibilities for your reconstruction, whether cr
 >**Try it yourself!** Create a list of potential features and interactions you could include in a reconstruction of Malthi. Assign each of these according to the MoSCoW method – think about how you decided which features were ‘must haves’ rather than ‘should haves’. Which factors could change how you’ve classified these? If more time was available for the project? Add these to your Design Document, which you started in Exercise 1.
 >
 >As you make these design decisions, it is important to keep track of your reasoning behind making these decisions. While paradata will be discussed again in the additional archive materials, in general most will agree that in your paradata you should include 1) the sources, references, and data utilised in the reconstruction, 2) a summary of the changes made to ‘real’ datasets captured via 3D recording methods (if incorporated), and 3) a summary of the choices/justifications/assumptions made in representing uncertain elements of the reconstruction.
-
-One of the most common ways to ensure a good level of paradata is recorded is to keep some sort of diary, much like the blog produced by Kastanis (2019). This should include:
-
-- A specific list of the resources and comparanda utilised; 
-- A summary of the different choices made accompanied with a short justification; 
-- A reference for the original datasets utilised in the reconstruction (if any); and
-- A record of the decisions made when discussing the project with other members; this may include saving emails and notes to refer back to at the end of the project.
+>
+>One of the most common ways to ensure a good level of paradata is recorded is to keep some sort of diary, much like the blog produced by Kastanis (2019). This should include:
+>
+>- A specific list of the resources and comparanda utilised; 
+>- A summary of the different choices made accompanied with a short justification; 
+>- A reference for the original datasets utilised in the reconstruction (if any); and
+>- A record of the decisions made when discussing the project with other members; this may include saving emails and notes to refer back to at the end of the project.
 
 There are a variety of other methods and design tools that you may need at your disposal, particularly if you are collaborating at some distance from the other members of your time. You may want to create sketches of what you think the ‘reconstructed’ assets should look like (perhaps to share with your collaborators, to get their input). While pen and paper are classic materials to use in this process, with the increasing emphasis on online working and collaboration, you may wish to use an on-screen sketching or storyboarding software. Free and open source, [Storyboarder](https://wonderunit.com/storyboarder/) is an option, though there are many others that have free trials available. 
 
