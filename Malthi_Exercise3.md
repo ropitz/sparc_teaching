@@ -1,7 +1,7 @@
 ﻿## Exercise 3: Optimising Reality-Captured Assets in MeshLab and Blender
  
 ### Part A: Cleaning and Decimating ###
-[A step-by-step video for the decimation steps and onward in Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY)
+[A step-by-step video for the decimation steps onward in Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY)
 
 So far, you have done a lot of preparation for your archaeological reconstruction. In Exercise 1, you took archived point cloud data from laser scans and processed this into a series of [cleaned](/Malthi_Exercise1_C.md), georeferenced meshes that we will be using as the foundation for the 3D reconstruction. In [Exercise 2](/Malthi_Exercise2.md), you made key design decisions about the reconstruction, including what the structures should look like (shape, materials, etc) based on the archaeological evidence, how to set aims and goals with collaborators, and what software you will be using to put together the reconstruction based on your budget, skillset, and needs to create the reconstruction.
 
