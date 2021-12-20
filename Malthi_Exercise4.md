@@ -1,6 +1,8 @@
 ## Exercise 4 ##
 ### Part A: How to model assets in Blender ###
 
+[A step-by-step video for Exercise 4A can be found here.](https://youtu.be/vQICbC3rljQ)
+
 In the first three exercises, you generated clean, georeferenced meshes of the archaeological structures visible at Malthi, considered how best to represent these features, and optimised the dataset to build upon it. In this exercise, we will first discuss the process and benefits of greyboxing, a term that was introduced in Exercise 2. Then, we will go through the basics of modelling assets (using Blender version 2.93.1) and how to apply textures to those assets, should you choose to do so. We'll then discuss how to export your final reconstructed assets for use in Exercise 5.
 
 For this exercise, you may wish to choose one section of the site to work with (one which you have already prepared through Exercises 1 – 3). If have prepared the data from the entire site, the optimised dataset can still be small enough that you'll be able to progress through this exercise.
