@@ -1,4 +1,7 @@
 ## Exercise 4
+
+*Allow at least 30 minutes to reconstruct assets; further time will be needed for texturing or other details to be added.* 
+
 ### Part B: Building a prehistoric house in Blender 2.9.3.1 ###
 
 [A step-by-step video for Exercise 4B can be found here.](https://youtu.be/0pWxZ5atUQk)
