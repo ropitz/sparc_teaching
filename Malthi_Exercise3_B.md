@@ -1,5 +1,8 @@
 ## Exercise 3 ##
 ### Part B: Baking Normals in Blender ###
+
+[A step-by-step video for this part of Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY?t=415)
+
 The remaining part of this exercise will walk you through how to generate normal maps, a process often known as ‘baking normals’, in [Blender](https://www.blender.org/download/). You’ll remember from [Exercise 1](/Malthi_Exercise1_C.md) that normals indicate the directional trend of the data and dictate how light interacts with your mesh. The aim of a ‘normal map’ is to take all of the geometric detail from the original, high resolution mesh to transfer it onto the decimated mesh via an image file. It does this by calculating how light interacts with the geometry of your original mesh and projects it to a 2D image that matches the ‘UV map’ of your decimated mesh. This will allow you to work with a lower resolution mesh, which will require less processing power to add to, with the detail of the original ‘painted on’. To get to this point, though, we first need to import both our original resolution mesh and our decimated mesh into Blender.
 
 When Blender loads up, open a ‘General’ file type and you will be presented with a cube at the centre of the screen. Delete this by ensuring that only the cube is highlighted in the ‘Scene Collection’ at the top right of the screen and then click ‘Delete’ on your keyboard.
