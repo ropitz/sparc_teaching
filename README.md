@@ -1,4 +1,7 @@
 # SPARC Teaching Resources
+
+These teaching resources have been created to encourage the reuse of digital archaeological data archived by [SPARC](https://sparc.cast.uark.edu/), in accordance with the ['Reusability' FAIR principle](https://www.go-fair.org/fair-principles/).
+
 ### Licensing
 These teaching materials are made available under a [Creative Commons CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
