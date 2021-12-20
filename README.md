@@ -37,7 +37,7 @@ This repository contains teaching materials designed to introduce university lev
 To cite these teaching materials, please use the following reference: Kasten, M. (2021) An Introduction to Digital Archaeological Reconstructions: A SPARC Teaching Resource. https://github.com/ropitz/sparc_teaching.
 
 ## Table of Contents
-### [Introduction](/Malthi_1Intended%20Learning%20Outcomes%20and%20Background.md)
+### [Introduction](https://github.com/ropitz/sparc_teaching/blob/b875b105f5b91ebe96586f9d17a331f20c193fb2/Malthi_1Intended%20Learning%20Outcomes%20and%20Background.md)
 ### Exercise 1
 [Part A: Preparation](/Malthi_Exercise1.md)
 
