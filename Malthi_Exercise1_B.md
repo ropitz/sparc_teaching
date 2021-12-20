@@ -32,14 +32,14 @@ Now that we know what type of data and what format the files are saved in, we ne
 - In CloudCompare, navigate to ‘File > Open >’ And choose your first profile slice.
 - This will prompt a pop up dialog box, where it will ask you which information fields it should look for in the file and let you know how many points are in the file (under info). Leave the default settings as they are and hit ‘Apply’.
 
-![Screencapture of the CloudCompare dialog box as it appears after importing a .las file.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig02.png)
+![Screencapture of the CloudCompare dialog box as it appears after importing a .las file.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig02.png?raw=true)
 
 - This will prompt a new dialog box to appear. The software wants to shift the dataset to the local coordinate system (closer to 0, 0, 0) because the data’s current coordinates correspond to the site’s global position using UTM (Universal Transverse Mercator) coordinates, which indicate the site’s distance from the equator and the prime meridian in metres. These coordinates are quite large and, while this is common practice in software designed to work with the geospatial sector, like ArcGIS, most 3D modelling software is not designed to work with such large numbers. If we keep the original coordinates, some 3D modelling software will place the dataset 4 million units away from the **origin**; in other software, like MeshLab or Blender, keeping the UTM coordinates can also cause graphical glitches. Because we will not be using this data in geospatial software, we need to make sure that the UTM coordinates are **not preserved**. 
   - **Ensure that the box that says ‘Preserve Global shift on Save’ is unchecked.** 
   - **Take note of the numbers used in the proposed shift for your records to ensure that the same translation is applied to the other profile slices in the future.** Otherwise these will be misaligned in later steps.
   - Allow CloudCompare to translate the dataset to local coordinates with the recommended settings. 
 
-![The second dialog box that appears to translate the point cloud from a global coordinate system to a local coordinate system. A red rectangle highlights that the 'Preserve Global shift on Save' box should be unchecked.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig03.png)
+![The second dialog box that appears to translate the point cloud from a global coordinate system to a local coordinate system. A red rectangle highlights that the 'Preserve Global shift on Save' box should be unchecked.](https://github.com/ropitz/sparc_teaching/blob/master/Malthi%20Images%201/Exercise%201%20Images/Ex1Fig03.png?raw=true)
 
 - After some time processing, a cloud of white points should appear. To better define the features in the visualisation, there are a couple of options.
   - You can apply shaders – navigate to Display> Shaders & Filters> and select EDL.
