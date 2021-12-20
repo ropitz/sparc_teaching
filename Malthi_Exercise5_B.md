@@ -3,6 +3,8 @@
 
 *(Many thanks to Cole Juckette for his help with Exercise 5!)*
 
+[A step-by-step video of the 'Mesh Collider' version of this exercise can be found here.](https://youtu.be/OUrvvFM9AKk)
+
 A more advanced approach to creating an interactive reconstruction of Malthi is to use a game engine, like Unity, to essentially make a walking simulator of the site. Though Sketchfab is a very simple and quick way to get your 3D assets out into the world, Unity offers significantly more freedom in what is possible to create. 
 
 >**Think and Respond**: Before you start this optional activity, reflect on your own learning objectives. Do you feel that the additional work and time investment that you will put into learning this new skillset is worth the range of possibilities Unity offers for archaeological reconstructions? Which features offered by Unity (and not offered by Sketchfab) do you think are particularly important for interpreting reconstructed archaeological sites?
