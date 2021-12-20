@@ -1,4 +1,4 @@
-## Exercise 4 ##
+## Exercise 4
 ### Part B: Building a prehistoric house in Blender 2.9.3.1 ###
 
 [A step-by-step video for Exercise 4B can be found here.](https://youtu.be/0pWxZ5atUQk)
