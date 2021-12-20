@@ -1,4 +1,7 @@
 ## Exercise 4
+
+*Allow at least 30 minutes for the greyboxing activity (Exercise 4A). Additional time may be required for greyboxing larger areas of the site.*
+
 ### Part A: How to model assets in Blender ###
 
 [A step-by-step video for Exercise 4A can be found here.](https://youtu.be/vQICbC3rljQ)
