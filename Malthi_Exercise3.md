@@ -1,7 +1,6 @@
 ﻿## Exercise 3: Optimising Reality-Captured Assets in MeshLab and Blender
  
 ### Part A: Cleaning and Decimating ###
-[A step-by-step video for the decimation steps onward in Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY)
 
 So far, you have done a lot of preparation for your archaeological reconstruction. In Exercise 1, you took archived point cloud data from laser scans and processed this into a series of [cleaned](/Malthi_Exercise1_C.md), georeferenced meshes that we will be using as the foundation for the 3D reconstruction. In [Exercise 2](/Malthi_Exercise2.md), you made key design decisions about the reconstruction, including what the structures should look like (shape, materials, etc) based on the archaeological evidence, how to set aims and goals with collaborators, and what software you will be using to put together the reconstruction based on your budget, skillset, and needs to create the reconstruction.
 
@@ -33,6 +32,9 @@ If you are happy with how your mesh appears, you can now navigate to ‘File > E
 >**Think and Respond:** Does your mesh look significantly different after this clean-up process, or were most of the changes invisible to you? Do you think this is still a metrically-accurate mesh? Are there any other features you may want to remove at this stage (rubble piles from early excavations that would not have appeared this way in the Bronze Age)? Does this mesh still represent the archaeological reality of the site?
 
 ### Import mesh into Instant Meshes
+
+[A step-by-step video for the decimation steps onward in Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY)
+
 Ensure that you have installed [**Instant Meshes**](https://github.com/wjakob/instant-meshes) before importing your cleaned mesh into the software. The purpose of this software is two-fold: 1) To rapidly create a decimated version of your highly detailed meshes, where you control the number of vertices and can quickly recalculate a new decimated version if not enough detail is preserved, and 2) to convert your triangulated mesh into a quad-based mesh. (**Note:** As you may surmise from our ‘Software choice’ activity in Exercise 2, this is undoubtedly only one of many software options available that will offer this functionality, but this is one that is free, works well, and does not take too much space on your hard drive.)
 
 >**Why Quads**? As we noted a difference in how geospatial specialists work with 3D data from most other 3D specialists in Exercise 1, there is also a difference in how those who work with reality-captured data compared to those who create their own 3D meshes from scratch. In the latter group, most 3D artists prefer working with quads instead of triangles, as they are easier to work with (this is a complex topic that you can search for online; if you would like to do a deep-dive you can start [here](https://blenderartists.org/t/poles-and-loops/387151/164)) and often produces better results for animation. As such, many 3D software modelling packages have developed to prioritise quads; many of Blender’s functions, including the ‘subdivision’ function, which we will use later, work best with quads.
