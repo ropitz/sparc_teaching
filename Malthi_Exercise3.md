@@ -33,7 +33,7 @@ If you are happy with how your mesh appears, you can now navigate to ‘File > E
 
 ### Import mesh into Instant Meshes
 
-[A step-by-step video for the decimation steps onward in Exercise 3 can be found here.](https://youtu.be/lMCuuvddCxY)
+[A step-by-step video for this point onward can be found here.](https://youtu.be/lMCuuvddCxY)
 
 Ensure that you have installed [**Instant Meshes**](https://github.com/wjakob/instant-meshes) before importing your cleaned mesh into the software. The purpose of this software is two-fold: 1) To rapidly create a decimated version of your highly detailed meshes, where you control the number of vertices and can quickly recalculate a new decimated version if not enough detail is preserved, and 2) to convert your triangulated mesh into a quad-based mesh. (**Note:** As you may surmise from our ‘Software choice’ activity in Exercise 2, this is undoubtedly only one of many software options available that will offer this functionality, but this is one that is free, works well, and does not take too much space on your hard drive.)
 
