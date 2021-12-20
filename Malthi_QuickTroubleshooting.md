@@ -1,4 +1,4 @@
-# Quick Troubleshooting #
+# Quick Troubleshooting
 
 The following provides a quick reference for common issues encountered during these exercises.
 
